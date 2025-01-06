@@ -1,0 +1,33 @@
+NUMERO_ETUDIANT    04092011420217769
+
+CIVILITE         M.
+NOM              BELAID
+PRENOM           LAMBERT
+DATE_NAISSANCE   2006_04_14
+TELEPHONE_FIXE   0364790761
+TELEPHONE_MOBILE 0729321092
+EMAIL            belaid.lambert7128@live.fr
+
+VOIE             63 RUE ACHILLE MIR
+CODE_POSTAL      60390
+COMMUNE          LA NEUVILLE-GARNIER
+
+14/10/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+12/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/09/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+18/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/11/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+08/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 3 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+12/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+18/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+18/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 2 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 3 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+25/11/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée

@@ -1,0 +1,53 @@
+NUMERO_ETUDIANT    17032012467207142
+
+CIVILITE         M.
+NOM              TROUILLARD
+PRENOM           LIN
+DATE_NAISSANCE   2007_11_16
+TELEPHONE_FIXE   0524953745
+TELEPHONE_MOBILE 0657786290
+EMAIL            lin.trouillard8176@gmail.com
+
+VOIE             74 IMPASSE DU PRESBYTERE
+CODE_POSTAL      64480
+COMMUNE          HALSOU
+
+14/10/2024 - 3 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+25/09/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/09/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+25/09/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+04/11/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+4/09/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/11/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/12/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+18/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/11/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/09/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/11/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 2 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+04/11/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+04/11/2024 - 2 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+12/11/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+04/11/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+02/10/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/09/2024 - 5 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+02/10/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 5 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+4/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/09/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/10/2024 - 5 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+4/09/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+4/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+04/11/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+04/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+14/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+18/11/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+18/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda

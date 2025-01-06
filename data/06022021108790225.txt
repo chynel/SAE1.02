@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    06022021108790225
+
+CIVILITE         M.
+NOM              MORY
+PRENOM           AH
+DATE_NAISSANCE   2006_09_19
+TELEPHONE_FIXE   0449136259
+TELEPHONE_MOBILE 0783260215
+EMAIL            mory.ah3500@free.fr
+
+VOIE             40 RUE DE LA FERME DU CONTE
+CODE_PSTAL      30750
+COMMUNE          REVENS
+
+18/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+04/11/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+25/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+04/11/2024 - 3 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+25/11/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+12/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+08/11/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/09/2024 - 2 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+02/10/2024 - 3 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+4/09/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 1 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async

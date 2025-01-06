@@ -1,0 +1,34 @@
+NUMERO_ETUDIANT    17062021390136725
+
+CIVILITE         M.
+NOM              MIGNON
+PRENOM           THOMAS
+DATE_NAISSANCE   2005_09_12
+TELEPHONE_FIXE   0364195640
+TELEPHONE_MOBILE 0747918725
+EMAIL            thomas.mignon@free.fr
+
+VOIE             75 RUE DE LA MAIRIE
+CODE_POSTAL      02840
+COMMUNE          MONCEAU-LE-WAAST
+
+18/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+02/10/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/12/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+25/09/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+02/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+04/11/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 1 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+08/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+4/09/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+12/11/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+12/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+14/10/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+18/11/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u

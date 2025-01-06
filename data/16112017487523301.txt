@@ -1,0 +1,31 @@
+NUMERO_ETUDIANT    16112017487523301
+
+CIVILITE         Mme
+NOM              BODARD
+PRENOM           FABIENNE
+DATE_NAISSANCE   2005_01_06
+TELEPHONE_FIXE   0379969502
+TELEPHONE_MOBILE 0696497692
+EMAIL            fabienne@bodard.live
+
+VOIE             120 ROUTE DE LA FOUINARDIERE
+CODE_POSTAL      21350
+COMMUNE          SAINTE-COLOMBE-EN-AUXOIS
+
+12/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+02/10/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+14/10/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+12/11/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+04/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+14/10/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/12/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/10/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable

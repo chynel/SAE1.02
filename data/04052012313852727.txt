@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    04052012313852727
+
+CIVILITE         M.
+NOM              BECHET
+PRENOM           JUSTE
+DATE_NAISSANCE   2005_04_15
+TELEPHONE_FIXE   0390664355
+TELEPHONE_MOBILE 0639443874
+EMAIL            juste.bechet@orange.fr
+
+VOIE             129 RUE DU DOC ALBERT SCHWEITZER
+CODE_POSTAL      68480
+COMMUNE          LUCELLE
+
+ERRUEUR_RENCONTREE      2024_11_04      0    REF_FOO_62
+ERRUEUR_RENCONTREE      2024_10_14      2    REF_RAM_82
+ERRUEUR_RENCONTREE      2024_09_16      3    REF_FOO_67
+ERRUEUR_RENCONTREE      2024_10_02      3    REF_HAL_7
+ERRUEUR_RENCONTREE      2024_12_02      2    REF_VEL_12
+ERRUEUR_RENCONTREE      2024_11_08      4    REF_RAM_4
+ERRUEUR_RENCONTREE      2024_11_25      6    REF_PET_8
+ERRUEUR_RENCONTREE      2024_10_09      4    REF_FOO_150
+ERRUEUR_RENCONTREE      2024_09_25      0    REF_TEN_24
+18/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/09/2024 - 3 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+04/11/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+12/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 2 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu
+25/09/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+02/12/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+02/10/2024 - 5 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+08/11/2024 - 1 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+04/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+4/09/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+14/10/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment

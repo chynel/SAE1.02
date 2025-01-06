@@ -1,0 +1,43 @@
+NUMERO_ETUDIANT    24102012449053655
+
+CIVILITE         M.
+NOM              DEVISMES
+PRENOM           AMINE
+DATE_NAISSANCE   2007_11_28
+TELEPHONE_FIXE   0243597076
+TELEPHONE_MOBILE 0770212012
+EMAIL            amine.henri6837@sfr.fr
+
+VOIE             86 CHEMIN DU BARAIL
+CODE_POSTAL      53250
+COMMUNE          SAINT-AIGNAN-DE-COUPTRAIN
+
+25/11/2024 - 4 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+12/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/10/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+14/10/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+12/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+14/10/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/10/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+12/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/09/2024 - 1 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+12/11/2024 - 5 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/10/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+14/10/2024 - 5 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+12/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/09/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+4/09/2024 - 1 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+25/11/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/10/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+4/09/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées

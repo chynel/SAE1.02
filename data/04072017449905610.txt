@@ -1,0 +1,33 @@
+NUMERO_ETUDIANT    04072017449905610
+
+CIVILITE         Mme
+NOM              THIBURCE
+PRENOM           JOLIE
+DATE_NAISSANCE   2007_11_03
+TELEPHONE_FIXE   0277413873
+TELEPHONE_MOBILE 0714439577
+EMAIL            jolie.thiburce8275@laposte.net
+
+VOIE             15 RUE DU CHATEAU D'EAU
+CODE_POSTAL      27250
+COMMUNE          NEAUFLES-AUVERGNY
+
+02/12/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/10/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+4/09/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+14/10/2024 - 5 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+14/10/2024 - 3 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+12/11/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 5 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+4/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+4/09/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 5 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+02/10/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 5 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+12/11/2024 - 4 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+4/09/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+18/11/2024 - 1 - SyntaxError - expected ':' - ajouter :
+18/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression

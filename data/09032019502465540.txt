@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    09032019502465540
+
+CIVILITE         Mme
+NOM              COIFFIER
+PRENOM           MARINE
+DATE_NAISSANCE   2006_02_02
+TELEPHONE_FIXE   0561342932
+TELEPHONE_MOBILE 0792309702
+EMAIL            marine.coiffier1167@orange.fr
+
+VOIE             21 RUE J B COROT
+CODE_POSTAL      09600
+COMMUNE          LAROQUE-D'OLMES
+
+25/09/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+4/09/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+12/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+02/10/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 2 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/11/2024 - 2 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+02/12/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+4/09/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+18/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+08/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/10/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/12/2024 - 3 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 2 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+25/09/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+4/09/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/11/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'

@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    10012020462160860
+
+CIVILITE         Mme
+NOM              POURCELOT
+PRENOM           ANNA
+DATE_NAISSANCE   2007_02_28
+TELEPHONE_FIXE   0375532372
+TELEPHONE_MOBILE 0744586156
+EMAIL            anna.pourcelot26@free.fr
+
+VOIE             32 IMPASSE GEORGE SAND
+CODE_POSTAL      02860
+COMMUNE          PLOYART-ET-VAURSEINE
+
+08/11/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/09/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+12/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/09/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+4/09/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/09/2024 - 2 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+04/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+14/10/2024 - 5 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+02/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+18/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+18/11/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []

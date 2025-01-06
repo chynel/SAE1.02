@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    18562861086972965
+
+CIVILITE         Mme
+NOM              HUNBUN
+PRENOM           AKIO
+DATE_NAISSANCE   2006_03_09
+TELEPHONE_FIXE   0327658278
+TELEPHONE_MOBILE 0612836050
+EMAIL            akio.hunbun45@laposte.net
+
+VOIE             1 RUE DES MYRTILLES
+CODE_POSTAL      04154
+COMMUNE          PONTIS
+
+09/10/2024 - 1 - invalid syntax -   def factorielle(5): - au lieu de 5 ecrire n
+14/10/2024 - 3 - SyntaxError - expression cannot contain assignment, perhaps you meant "=="? - enlever la valeur 10
+08/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/09/2024 - 9 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 1 - TypeError - 'list' object is not callable - changer () par []
+12/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - changer "" par ''
+02/12/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 12 - ajouter espace avant
+02/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - enlever divizion par o
+25/11/2024 - 1 - SyntaxError - invalid character '’' (U+2019) - changer '' en ""
+04/11/2024 - 1 - AttributeError - 'set' object attribute 'add' is read-only - au lieu de {6}, ecriere (6)
+02/10/2024 - 1 - NameError - name 'x' is not defined - écrire des valeur pour x,y,z
+08/11/2024 - 2 - SyntaxError - invalid syntax - changer ; par ,
+14/10/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter indentation
+12/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 2 - SyntaxError - Maybe you meant '==' or ':=' instead of '='? - écrire '=='
+02/12/2024 - 3 - SyntaxError - invalid character '’' (U+2019) - changer '' par ""
+18/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - definir r
+14/10/2024 - 1 - NameError - name 'maximum' is not defined - définir maximum 
+08/11/2024 - 1 - NameError - name 'a' is not defined - définir a
+18/11/2024 - 1 - AttributeError - 'set' object has no attribute 'replace'- enlever les {}
+04/11/2024 - 1 - SyntaxError - invalid syntax - changer {} par ()
+02/10/2024 - 3 - SyntaxError - invalid syntax - expected ',' - écrire ','
+04/09/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print 
+14/10/2024 - 1 - IndentationError: unindent does not match any outer indentation level - decaller return
+09/10/2024 - 1 - Invalid argument -  can't open file 'Z:\\TP3\\seance5.py* - enlever *
+09/10/2024 - 1 - IndentationError: expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+04/11/2024 - 1 - SyntaxError: invalid syntax. Perhaps you forgot a comma? - ajouter ()
+25/11/2024 - 1 - SyntaxError: invalid character '’' (U+2019) - enlever espace 
+26/09/2024 - 2 - NameError - name 'prunt' is not defined. Did you mean: 'print'? - écrire print 
+25/09/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+14/10/2024 - 1 - SyntaxError: invalid syntax - effacer l'espace
+25/11/2024 - 1 - FileNotFoundError: [Errno 2] No such file or directory: 'marchandises.csv' - enlever s
+02/12/2024 - 1 - IndentationError: expected an indented block after 'for' statement on line 12 - ajouter espace avant
+04/09/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse 
+02/10/2024 - 1 - SyntaxError - invalid syntax expected ':' - écrire ':'
+14/10/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - ajouter ,

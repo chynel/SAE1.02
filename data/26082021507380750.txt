@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    26082021507380750
+
+CIVILITE         M.
+NOM              BAILLOT
+PRENOM           MAURICE
+DATE_NAISSANCE   2005_07_16
+TELEPHONE_FIXE   0371750544
+TELEPHONE_MOBILE 0709514052
+EMAIL            maurice.baillot5144@wanadoo.fr
+
+VOIE             2 IMPASSE DU PUITS
+CODE_POSTAL      21210
+COMMUNE          SAULIEU
+
+08/11/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 2 - FileNotFoundError - No such file or directory: 'logs.txt' - vérifier si le fichier a été supprimé ou déplacé
+18/11/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+4/09/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+4/09/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+12/11/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+14/10/2024 - 2 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+25/09/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/12/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+4/09/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+12/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+4/09/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/10/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+12/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 2 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+14/10/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+14/10/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/12/2024 - 4 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+08/11/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle

@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    06122012498402309
+
+CIVILITE         M.
+NOM              DECAMPS
+PRENOM           MATHIAS
+DATE_NAISSANCE   2005_04_09
+TELEPHONE_FIXE   0463599788
+TELEPHONE_MOBILE 0604316414
+EMAIL            mathias.decamps8265@orange.fr
+
+VOIE             98 RUE TERNAUX
+CODE_POSTAL      63420
+COMMUNE          RENTIÈRES
+
+02/12/2024 - 3 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+25/09/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+25/09/2024 - 5 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+4/09/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+08/11/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/10/2024 - 3 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/10/2024 - 4 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+25/09/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+18/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+25/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/10/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/10/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+04/11/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+04/11/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+4/09/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction

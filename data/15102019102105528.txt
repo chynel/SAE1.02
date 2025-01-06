@@ -1,0 +1,39 @@
+NUMERO_ETUDIANT    15102019102105528
+
+CIVILITE         Mme
+NOM              PENE
+PRENOM           AN
+DATE_NAISSANCE   2006_03_03
+TELEPHONE_FIXE   0358966503
+TELEPHONE_MOBILE 0647257739
+EMAIL            pene.an6979@free.fr
+
+VOIE             37 RUE DES BLANCHETS
+CODE_POSTAL      58270
+COMMUNE          SAINT-JEAN-AUX-AMOGNES
+
+25/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 4 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+12/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+12/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+12/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+02/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+08/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+12/11/2024 - 4 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+12/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+04/11/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+18/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+18/11/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 3 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+18/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+25/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+25/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print

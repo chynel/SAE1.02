@@ -1,0 +1,49 @@
+NUMERO_ETUDIANT    15012015372179829
+
+CIVILITE         M.
+NOM              CAUBET
+PRENOM           ENRICO
+DATE_NAISSANCE   2006_04_01
+TELEPHONE_FIXE   0358134163
+TELEPHONE_MOBILE 0702085924
+EMAIL            enrico.caubet9546@sfr.fr
+
+VOIE             47 RUE AUGUSTIN LEMARESQUIER
+CODE_POSTAL      21520
+COMMUNE          LA CHAUME
+
+12/11/2024 - 3 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+25/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/10/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/12/2024 - 5 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 5 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+25/09/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/09/2024 - 1 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+4/09/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation
+25/09/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+14/10/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+4/09/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/10/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/10/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+04/11/2024 - 4 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+25/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/11/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+08/11/2024 - 3 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+18/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive

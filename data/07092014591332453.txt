@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    07092014591332453
+
+CIVILITE         Mme
+NOM              CATTIAUX
+PRENOM           COLOMBE
+DATE_NAISSANCE   2005_09_21
+TELEPHONE_FIXE   0581060476
+TELEPHONE_MOBILE 0757985737
+EMAIL            colombe.cattiaux@gmail.com
+
+VOIE             41 RUE DE L'ENFER
+CODE_POSTAL      31260
+COMMUNE          MONTGAILLARD-DE-SALIES
+
+4/09/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+08/11/2024 - 5 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+4/09/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+12/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+04/11/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+12/11/2024 - 3 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/12/2024 - 3 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+18/11/2024 - 4 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+18/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+14/10/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+18/11/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant

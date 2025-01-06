@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    06032016379650945
+
+CIVILITE         M.
+NOM              GOFFIN
+PRENOM           PIERRE
+DATE_NAISSANCE   2006_07_06
+TELEPHONE_FIXE   0351458428
+TELEPHONE_MOBILE 0788540759
+EMAIL            goffin.pierre@laposte.net
+
+VOIE             64 RUE DU VIEUX CHE DE ST GENGOUX
+CODE_POSTAL      08700
+COMMUNE          GESPUNSART
+
+08/11/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+08/11/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/12/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/11/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+04/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/12/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+04/11/2024 - 5 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+08/11/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/12/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 5 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/09/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+08/11/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+14/10/2024 - 1 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+18/11/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+14/10/2024 - 2 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+12/11/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+02/10/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/10/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+12/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+04/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+12/11/2024 - 3 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations

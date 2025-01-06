@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    14092014529400868
+
+CIVILITE         Mme
+NOM              MORELLO
+PRENOM           SOLANGE
+DATE_NAISSANCE   2007_09_09
+TELEPHONE_FIXE   0449482603
+TELEPHONE_MOBILE 0634176312
+EMAIL            solange.morello4412@wanadoo.fr
+
+VOIE             101 RUE DE LA MINARDIERE
+CODE_POSTAL      48210
+COMMUNE          MASSEGROS CAUSSES GORGES
+
+08/11/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/10/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+12/11/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+12/11/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+04/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+08/11/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+04/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+4/09/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+04/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+4/09/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/09/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+4/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+4/09/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+14/10/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/10/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+18/11/2024 - 3 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+4/09/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/10/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+14/10/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/10/2024 - 3 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+04/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+08/11/2024 - 2 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+12/11/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'

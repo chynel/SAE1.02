@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    18082019322765643
+
+CIVILITE         M.
+NOM              ECKERT
+PRENOM           LOUIS
+DATE_NAISSANCE   2005_11_10
+TELEPHONE_FIXE   0387519920
+TELEPHONE_MOBILE 0686620583
+EMAIL            louis.eckert2632@free.fr
+
+VOIE             90 CHEMIN DE LA PIERRE DENION
+CODE_POSTAL      57220
+COMMUNE          VALMUNSTER
+
+08/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+14/10/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+04/11/2024 - 3 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 4 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+12/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+08/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+25/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+08/11/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant

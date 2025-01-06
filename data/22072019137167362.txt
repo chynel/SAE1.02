@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    22072019137167362
+
+CIVILITE         M.
+NOM              VALAT
+PRENOM           AH
+DATE_NAISSANCE   2005_11_15
+TELEPHONE_FIXE   0458853255
+TELEPHONE_MOBILE 0608596054
+EMAIL            ah.valat5127@sfr.fr
+
+VOIE             55 RUE DE LA CROIX
+CODE_POSTAL      38690
+COMMUNE          BELMONT
+
+25/11/2024 - 1 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/11/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/12/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+4/09/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+4/09/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+4/09/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+14/10/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+4/09/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+25/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/10/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+25/09/2024 - 1 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/11/2024 - 5 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+14/10/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/10/2024 - 5 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+04/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+12/11/2024 - 3 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+12/11/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+12/11/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+04/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+14/10/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/10/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+12/11/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+04/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+04/11/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses

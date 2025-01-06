@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    28122015371786612
+
+CIVILITE         M.
+NOM              CHARREAU
+PRENOM           BRAS
+DATE_NAISSANCE   2007_02_16
+TELEPHONE_FIXE   0531628820
+TELEPHONE_MOBILE 0677968581
+EMAIL            bras.charreau@orangefr
+
+VOIE             5 AVENUE DU PONT ROGER
+CODE_POSTAL      31230
+COMMUNE          FRONTIGNAN-SAV�S
+
+25/09/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+08/11/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 5 - SyntaxError - keyword can't be an expression - �viter l'utilisation de mots-cl�s r�serv�s comme expressions
+02/10/2024 - 4 - TypeError - 'int' object is not iterable - v�rifier si une boucle tente d'it�rer sur un entier
+08/11/2024 - 2 - TupeError - 'resumer' is an invalid keyword argument for print() - d�finir r
+25/09/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+04/11/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/09/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 3 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur � a
+02/10/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - v�rifier l'objet avant d'utiliser split
+4/09/2024 - 5 - SyntaxError - 'return' outside function - placer 'return' � l'int�rieur d'une fonction
+14/10/2024 - 4 - SyntaxError - unexpected token '=' - v�rifier les affectations
+25/11/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - d�finir r
+18/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+14/10/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les �l�ments
+25/09/2024 - 1 - SyntaxError - positional argument follows keyword argument - r�organiser les arguments dans l'appel de fonction
+25/11/2024 - 4 - IndexError - deque index out of range - v�rifier la longueur de la deque avant d'acc�der � un �l�ment
+02/12/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - v�rifier si une fonction retourne None
+02/10/2024 - 4 - SyntaxError - invalid character in identifier - v�rifier les caract�res non valides dans les noms de variables
+18/11/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation apr�s while
+12/11/2024 - 4 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+02/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenth�se
+18/11/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+18/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - �crire ==
+4/09/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou v�rifier l'objet
+14/10/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/12/2024 - 5 - NameError - name 'x' is not defined - �crire des valeurs pour x, y, z
+02/10/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par z�ro est impossible
+25/09/2024 - 4 - SyntaxError - unterminated triple-quoted string literal - fermer la cha�ne de caract�res triple-quote
+18/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la cha�ne de caract�res en entier avant d'utiliser
+04/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+08/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenth�ses
+25/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/10/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+4/09/2024 - 3 - SyntaxError - unexpected indent - corriger l'indentation
+4/09/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - �crire s
+02/12/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit

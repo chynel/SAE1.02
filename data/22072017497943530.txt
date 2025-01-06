@@ -1,0 +1,49 @@
+NUMERO_ETUDIANT    22072017497943530
+
+CIVILITE         Mme
+NOM              MIRABEL
+PRENOM           BLANCHE
+DATE_NAISSANCE   2006_02_04
+TELEPHONE_FIXE   0466583809
+TELEPHONE_MOBILE 0793724701
+EMAIL            mirabel.blanche8949@laposte.net
+
+VOIE             73 RUE DU PIED DU TERNE
+CODE_POSTAL      48190
+COMMUNE          CUBIÉRETTES
+
+25/09/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+25/11/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+04/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+14/10/2024 - 2 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/09/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/12/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/10/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 3 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/09/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+02/12/2024 - 4 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+12/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+18/11/2024 - 3 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+14/10/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+04/11/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 4 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+02/10/2024 - 2 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+25/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/11/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/09/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+08/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+12/11/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/12/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+08/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+14/10/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+12/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z

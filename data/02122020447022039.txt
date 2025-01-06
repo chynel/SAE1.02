@@ -1,0 +1,44 @@
+NUMERO_ETUDIANT    02122020447022039
+
+CIVILITE         Mme
+NOM              GEORGEL
+PRENOM           LOUISE
+DATE_NAISSANCE   2005_05_26
+TELEPHONE_FIXE   0363196337
+TELEPHONE_MOBILE 0726879502
+EMAIL            louise.georgel@orange.fr
+
+VOIE             10 RUE DU MARRONNIER
+CODE_POSTAL      70600
+COMMUNE          VARS
+
+25/09/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+04/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+14/10/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/10/2024 - 3 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+12/11/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+18/11/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+08/11/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+08/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/12/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+14/10/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 3 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+08/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+12/11/2024 - 3 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+4/09/2024 - 2 - SyntaxError - unexpected indent - corriger l'indentation
+25/09/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+4/09/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 2 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 4 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 1 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+4/09/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/09/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+4/09/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire

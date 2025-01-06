@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    25092021206307961
+
+CIVILITE         Mme
+NOM              BELAID
+PRENOM           MAI
+DATE_NAISSANCE   2005_01_10
+TELEPHONE_FIXE   0379386982
+TELEPHONE_MOBILE 0714178846
+EMAIL            belaid.mai6567@laposte.net
+
+VOIE             106 IMPASSE DE LA SALLE
+CODE_POSTAL      71700
+COMMUNE          LA CHAPELLE-SOUS-BRANCION
+
+25/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 3 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/10/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+14/10/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/10/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/10/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 2 - SyntaxError - expected ':' - ajouter :
+25/09/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+08/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/09/2024 - 2 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+18/11/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+08/11/2024 - 3 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+14/10/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+02/10/2024 - 3 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+14/10/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+12/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles

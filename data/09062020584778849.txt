@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    09062020584778849
+
+CIVILITE         Mme
+NOM              FOUACHE
+PRENOM           VICTOIRE
+DATE_NAISSANCE   2005_12_09
+TELEPHONE_FIXE   0478608748
+TELEPHONE_MOBILE 0620815679
+EMAIL            victoire.fouache@laposte.net
+
+VOIE             65 IMPASSE DES PONSONS
+CODE_POSTAL      01170
+COMMUNE          CESSY
+
+4/09/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+08/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/10/2024 - 3 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+12/11/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+25/11/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/12/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/09/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+4/09/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/11/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+4/09/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+14/10/2024 - 4 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+25/11/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+18/11/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+12/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+4/09/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 5 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+25/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 3 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+25/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+12/11/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+04/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z

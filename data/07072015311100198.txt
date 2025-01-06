@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    07072015311100198
+
+CIVILITE         M.
+NOM              BARBIN
+PRENOM           MARIN
+DATE_NAISSANCE   2005_09_18
+TELEPHONE_FIXE   0411048441
+TELEPHONE_MOBILE 0788405807
+EMAIL            marin.barbin@free.fr
+
+VOIE             105 IMPASSE GOMBERT
+CODE_POSTAL      30440
+COMMUNE          SAINT-MARTIAL
+
+18/11/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 4 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/10/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+14/10/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+04/11/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/12/2024 - 1 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+4/09/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+12/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+08/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+18/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 3 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+18/11/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+12/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+14/10/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+18/11/2024 - 1 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+08/11/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes

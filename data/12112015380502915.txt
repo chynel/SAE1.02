@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    12112015380502915
+
+CIVILITE         M.
+NOM              BORDAS
+PRENOM           PIERRE
+DATE_NAISSANCE   2005_06_10
+TELEPHONE_FIXE   0372855133
+TELEPHONE_MOBILE 0752085450
+EMAIL            bordas.pierre3390@wanadoo.fr
+
+VOIE             103 RUE DU PANORAMA
+CODE_POSTAL      57200
+COMMUNE          FRAUENBERG
+
+02/10/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+4/09/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/12/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/09/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+18/11/2024 - 2 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+14/10/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+04/11/2024 - 3 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+14/10/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+12/11/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 3 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+08/11/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+18/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 2 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+25/11/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+18/11/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/11/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+4/09/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator

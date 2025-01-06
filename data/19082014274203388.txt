@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    19082014274203388
+
+CIVILITE         Mme
+NOM              DUFRENOY
+PRENOM           AN
+DATE_NAISSANCE   2005_11_08
+TELEPHONE_FIXE   0413668509
+TELEPHONE_MOBILE 0753611602
+EMAIL            dufrenoy.an@live.fr
+
+VOIE             51 RUE DU PEUCH MATHOU
+CODE_POSTAL      05140
+COMMUNE          SAINT-PIERRE-D'ARGENÇON
+
+02/10/2024 - 1 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+14/10/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+04/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/09/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+25/09/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+14/10/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+4/09/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 3 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+04/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/09/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+18/11/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+25/11/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+04/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+12/11/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+14/10/2024 - 5 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/09/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/09/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent

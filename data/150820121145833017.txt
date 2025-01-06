@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    150820121145833017
+
+CIVILITE         Mme
+NOM              VANDEVOORDE
+PRENOM           ANTOINETTE
+DATE_NAISSANCE   2006_01_04
+TELEPHONE_FIXE   0310749734
+TELEPHONE_MOBILE 0761493140
+EMAIL            antoinette.vandevoorde@orange.fr
+
+VOIE             86 RUE D ETELFAY
+CODE_POSTAL      52120
+COMMUNE          SILVAROUVRES
+
+25/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/12/2024 - 3 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/10/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+08/11/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+04/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+08/11/2024 - 4 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+02/10/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+04/11/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/10/2024 - 1 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+18/11/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length

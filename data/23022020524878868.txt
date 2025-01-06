@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    23022020524878868
+
+CIVILITE         Mme
+NOM              DUSSART
+PRENOM           BLANCHE
+DATE_NAISSANCE   2006_10_15
+TELEPHONE_FIXE   0485358562
+TELEPHONE_MOBILE 0728843443
+EMAIL            dussart.blanche4616@sfr.fr
+
+VOIE             64 RUE DE SEMOND
+CODE_POSTAL      38500
+COMMUNE          SAINT-NICOLAS-DE-MACHERIN
+
+12/11/2024 - 3 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+4/09/2024 - 4 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+04/11/2024 - 3 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/11/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+25/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+4/09/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+14/10/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+4/09/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/11/2024 - 1 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+25/09/2024 - 5 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/09/2024 - 2 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+08/11/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions

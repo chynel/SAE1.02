@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    15032017595526759
+
+CIVILITE         Mme
+NOM              TILLARD
+PRENOM           JULIENNE
+DATE_NAISSANCE   2006_10_18
+TELEPHONE_FIXE   0557624628
+TELEPHONE_MOBILE 0630224823
+EMAIL            julienne.tillard@orange.fr
+
+VOIE             123 IMPASSE JEAN FERRAT
+CODE_POSTAL      33840
+COMMUNE          LERM-ET-MUSSET
+
+25/11/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+18/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 4 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+25/09/2024 - 4 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+25/09/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/09/2024 - 4 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 4 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+4/09/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+25/11/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/11/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+18/11/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+02/12/2024 - 5 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie

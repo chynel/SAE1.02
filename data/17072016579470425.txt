@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    17072016579470425
+
+CIVILITE         Mme
+NOM              PRADEAU
+PRENOM           CLARISSE
+DATE_NAISSANCE   2007_07_11
+TELEPHONE_FIXE   0249286094
+TELEPHONE_MOBILE 0715534185
+EMAIL            clarisse.pradeau7108@free.fr
+
+VOIE             110 ROUTE DE TAUZIA
+CODE_POSTAL      72110
+COMMUNE          SAINT-COSME-EN-VAIRAIS
+
+02/12/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+4/09/2024 - 1 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+02/10/2024 - 3 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+02/10/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+04/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/12/2024 - 3 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+14/10/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+12/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a

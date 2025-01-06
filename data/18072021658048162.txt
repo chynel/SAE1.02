@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    18072021658048162
+
+CIVILITE         Mme
+NOM              BRACONNIER
+PRENOM           LUCILE
+DATE_NAISSANCE   2006_12_13
+TELEPHONE_FIXE   0249204192
+TELEPHONE_MOBILE 0737096277
+EMAIL            lucile.braconnier7807@gmail.com
+
+VOIE             24 PLACE MARCELIN BERTHELOT
+CODE_POSTAL      72290
+COMMUNE          TEILLÉ
+
+4/09/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+04/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+18/11/2024 - 2 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+25/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+04/11/2024 - 4 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+02/12/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 4 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+08/11/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+12/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+4/09/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+14/10/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+18/11/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+02/12/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

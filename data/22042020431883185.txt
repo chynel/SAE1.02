@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    22042020431883185
+
+CIVILITE         Mme
+NOM              MERCADAL
+PRENOM           PAULE
+DATE_NAISSANCE   2005_11_13
+TELEPHONE_FIXE   0231128881
+TELEPHONE_MOBILE 0799443782
+EMAIL            paule.mercadal3799@free.fr
+
+VOIE             20 RUE MICHEL SERVET
+CODE_POSTAL      14113
+COMMUNE          CRICQUEBOEUF
+
+14/10/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/09/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 3 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+04/11/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+08/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+04/11/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/12/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/10/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+08/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 2 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+25/11/2024 - 4 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+18/11/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/09/2024 - 3 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+02/12/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+18/11/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+4/09/2024 - 1 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+14/10/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 5 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+4/09/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/10/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+02/12/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+25/11/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+14/10/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 1 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+02/10/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+25/09/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+04/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/10/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop

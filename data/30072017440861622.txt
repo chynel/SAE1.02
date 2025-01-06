@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    30072017440861622
+
+CIVILITE         Mme
+NOM              GUENARD
+PRENOM           RACHEL
+DATE_NAISSANCE   2005_05_28
+TELEPHONE_FIXE   0434992875
+TELEPHONE_MOBILE 0720900722
+EMAIL            rachel.guenard792@free.fr
+
+VOIE             85 RUE DES CHENES
+CODE_POSTAL      11230
+COMMUNE          SONNAC-SUR-L'HERS
+
+4/09/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/11/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+04/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+18/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 4 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+14/10/2024 - 1 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+25/11/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+14/10/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/12/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/11/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+02/12/2024 - 4 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+04/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+04/11/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+25/09/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+04/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+02/12/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+4/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+04/11/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+25/11/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+18/11/2024 - 3 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+02/10/2024 - 1 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+08/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 1 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/12/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle

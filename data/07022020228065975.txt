@@ -1,0 +1,39 @@
+NUMERO_ETUDIANT    07022020228065975
+
+CIVILITE         M.
+NOM              BROTONS
+PRENOM           AN
+DATE_NAISSANCE   2005_05_27
+TELEPHONE_FIXE   0329568459
+TELEPHONE_MOBILE 0688357170
+EMAIL            brotons.an@laposte.net
+
+VOIE             22 RUE DE LA PAIX
+CODE_POSTAL      88490
+COMMUNE          PROVENCHÈRES-ET-COLROY
+
+25/11/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+4/09/2024 - 4 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+08/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/10/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/10/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+04/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+14/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/10/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 2 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+12/11/2024 - 5 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+25/11/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 1 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+02/10/2024 - 4 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+02/12/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+25/09/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/09/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/12/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+14/10/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/12/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally

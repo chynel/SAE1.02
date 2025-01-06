@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    15012020331809605
+
+CIVILITE         M.
+NOM              PORTE
+PRENOM           ALBERT
+DATE_NAISSANCE   2006_01_10
+TELEPHONE_FIXE   0367322832
+TELEPHONE_MOBILE 0628939435
+EMAIL            albert.porte6270@free.fr
+
+VOIE             12 RUE SAINT JACQUES
+CODE_POSTAL      67360
+COMMUNE          WOERTH
+
+04/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 5 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+4/09/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+12/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+08/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+4/09/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 5 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+12/11/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+4/09/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+4/09/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+08/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/10/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+18/11/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+08/11/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+18/11/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+18/11/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 5 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+25/09/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+12/11/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+08/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+25/09/2024 - 3 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a

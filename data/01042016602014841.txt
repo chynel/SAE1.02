@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    01042016602014841
+
+CIVILITE         Mme
+NOM              TOUCHARD
+PRENOM           JOSETTE
+DATE_NAISSANCE   2005_07_27
+TELEPHONE_FIXE   0362908164
+TELEPHONE_MOBILE 0675529285
+EMAIL            josette.touchard@gmail.com
+
+VOIE             22 RUE GUY DE MAUPASSANT
+CODE_POSTAL      59380
+COMMUNE          BIERNE
+
+18/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+08/11/2024 - 1 - IndexError - list assignment index out of range - c'est un dictionnaire pas une liste, mettre les bons symboles
+25/09/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+04/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+4/09/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+4/09/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/12/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 3 - SyntaxError - unexpected indent - corriger l'indentation
+12/11/2024 - 4 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+02/12/2024 - 1 - NameError - name 'n' is not defined - changer la valeur

@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    14062017377226110
+
+CIVILITE         Mme
+NOM              MEFTAH
+PRENOM           MIGNON
+DATE_NAISSANCE   2006_09_28
+TELEPHONE_FIXE   0430321967
+TELEPHONE_MOBILE 0648983159
+EMAIL            mignon.meftah8046@free.fr
+
+VOIE             94 IMPASSE DU VAL D OUST
+CODE_POSTAL      34120
+COMMUNE          PÉZENAS
+
+14/10/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+18/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+18/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+4/09/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+08/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 2 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a

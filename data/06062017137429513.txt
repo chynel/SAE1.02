@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    06062017137429513
+
+CIVILITE         M.
+NOM              LAURE
+PRENOM           AN
+DATE_NAISSANCE   2006_08_24
+TELEPHONE_FIXE   0411262170
+TELEPHONE_MOBILE 0652582093
+EMAIL            an.laure@sfr.fr
+
+VOIE             115 RUE DU WATERGANG COMMUN
+CODE_POSTAL      66800
+COMMUNE          SAINTE-LÉOCADIE
+
+14/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 2 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+18/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+25/09/2024 - 4 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+04/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 3 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+14/10/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire

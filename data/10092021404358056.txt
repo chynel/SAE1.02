@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    10092021404358056
+
+CIVILITE         M.
+NOM              QUINQUIS
+PRENOM           BRAS
+DATE_NAISSANCE   2006_10_26
+TELEPHONE_FIXE   0310880966
+TELEPHONE_MOBILE 0711183674
+EMAIL            quinquis.bras3268@sfr.fr
+
+VOIE             54 RUE DU CHATEAU
+CODE_POSTAL      08430
+COMMUNE          MONTIGNY-SUR-VENCE
+
+18/11/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+4/09/2024 - 3 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+08/11/2024 - 4 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 1 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+4/09/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/11/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+4/09/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+18/11/2024 - 2 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+08/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/10/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+02/12/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+12/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/09/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+18/11/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 5 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+04/11/2024 - 5 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+08/11/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+12/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+14/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+12/11/2024 - 5 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+02/10/2024 - 2 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+12/11/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+14/10/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+12/11/2024 - 3 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+4/09/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 4 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser

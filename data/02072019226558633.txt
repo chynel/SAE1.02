@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    02072019226558633
+
+CIVILITE         Mme
+NOM              RETHORE
+PRENOM           AN
+DATE_NAISSANCE   2005_07_03
+TELEPHONE_FIXE   0245751451
+TELEPHONE_MOBILE 0717075154
+EMAIL            rethore.an7496@live.fr
+
+VOIE             144 ROUTE DE VERS
+CODE_POSTAL      45340
+COMMUNE          CHAMBON-LA-FORÊT
+
+18/11/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+18/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+18/11/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+04/11/2024 - 2 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+25/11/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+04/11/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 1 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+04/11/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+4/09/2024 - 1 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+25/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+4/09/2024 - 3 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+04/11/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+18/11/2024 - 3 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+04/11/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/12/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+25/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+04/11/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 2 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+08/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/12/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+02/10/2024 - 5 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+08/11/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/12/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print

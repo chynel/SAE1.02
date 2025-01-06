@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    10122016333841229
+
+CIVILITE         M.
+NOM              REYMANN
+PRENOM           PAUL
+DATE_NAISSANCE   2005_10_23
+TELEPHONE_FIXE   0321876427
+TELEPHONE_MOBILE 0712455304
+EMAIL            reymann.paul@free.fr
+
+VOIE             102 ROUTE DE LA BRUYERE
+CODE_POSTAL      62450
+COMMUNE          VILLERS-AU-FLOS
+
+14/10/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/09/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+14/10/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+14/10/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+18/11/2024 - 4 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+02/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+04/11/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+12/11/2024 - 4 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+4/09/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 2 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+25/11/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+18/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/11/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue

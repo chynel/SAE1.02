@@ -1,0 +1,26 @@
+NUMERO_ETUDIANT    21072017221381277
+
+CIVILITE         Mme
+NOM              PIAT
+PRENOM           MARIE
+DATE_NAISSANCE   2006_07_26
+TELEPHONE_FIXE   0345607240
+TELEPHONE_MOBILE 0706847643
+EMAIL            piat.marie5380@free.fr
+
+VOIE             20 RUE DE BELLENVILLE
+CODE_POSTAL      89100
+COMMUNE          FONTAINE-LA-GAILLARDE
+
+25/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/09/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+02/12/2024 - 5 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+18/11/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+08/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 5 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/12/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/10/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/12/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+12/11/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes

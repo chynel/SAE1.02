@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    16112016514524181
+
+CIVILITE         M.
+NOM              ESTRADE
+PRENOM           GEORGES
+DATE_NAISSANCE   2007_02_06
+TELEPHONE_FIXE   0487707576
+TELEPHONE_MOBILE 0628010917
+EMAIL            georges.estrade2097@gmail.com
+
+VOIE             105 SENTIER D'ACRAIGNES
+CODE_POSTAL      26160
+COMMUNE          EYZAHUT
+
+18/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+12/11/2024 - 4 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+14/10/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 5 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+4/09/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/09/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []

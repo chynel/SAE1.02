@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    03022013219611812
+
+CIVILITE         M.
+NOM              DE
+PRENOM           RAYMOND
+DATE_NAISSANCE   2005_07_23
+TELEPHONE_FIXE   0364658078
+TELEPHONE_MOBILE 0702359649
+EMAIL            de.raymond@wanadoo.fr
+
+VOIE             42 RUE DES LEGOUVE
+CODE_POSTAL      80800
+COMMUNE          VAIRE-SOUS-CORBIE
+
+25/11/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/12/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/09/2024 - 4 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+02/12/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+18/11/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+25/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+14/10/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+4/09/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+25/09/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+4/09/2024 - 4 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+12/11/2024 - 2 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+25/09/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+08/11/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+4/09/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+08/11/2024 - 1 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+18/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+18/11/2024 - 3 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 4 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+02/10/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+4/09/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+08/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+4/09/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+08/11/2024 - 5 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+02/12/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+04/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+04/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule

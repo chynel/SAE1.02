@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    28042012450102227
+
+CIVILITE         Mme
+NOM              DESPRES
+PRENOM           MARINE
+DATE_NAISSANCE   2005_08_26
+TELEPHONE_FIXE   0310444675
+TELEPHONE_MOBILE 0765382281
+EMAIL            marine.despres@gmail.com
+
+VOIE             85 RUE AUX OISSONS
+CODE_POSTAL      51200
+COMMUNE          ÉPERNAY
+
+02/12/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+18/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 4 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+14/10/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 4 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+08/11/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+08/11/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+18/11/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+25/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 3 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+08/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+4/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+25/09/2024 - 1 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+04/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+04/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+12/11/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+04/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+18/11/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+04/11/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+25/09/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+08/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 4 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+18/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/10/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+08/11/2024 - 4 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+08/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'

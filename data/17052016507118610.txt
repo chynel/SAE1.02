@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    17052016507118610
+
+CIVILITE         M.
+NOM              KEREBEL
+PRENOM           VINCENT
+DATE_NAISSANCE   2007_04_05
+TELEPHONE_FIXE   0352790298
+TELEPHONE_MOBILE 0769985947
+EMAIL            vincent.kerebel3613@live.fr
+
+VOIE             29 RUE DES BALMETTES
+CODE_POSTAL      10410
+COMMUNE          SAINT-PARRES-AUX-TERTRES
+
+18/11/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/11/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+04/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/12/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/10/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+02/12/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 1 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+02/12/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/12/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/12/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 4 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+18/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+04/11/2024 - 4 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+18/11/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+18/11/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print

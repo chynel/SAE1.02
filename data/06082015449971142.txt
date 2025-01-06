@@ -1,0 +1,53 @@
+NUMERO_ETUDIANT    06082015449971142
+
+CIVILITE         Mme
+NOM              OUDIN
+PRENOM           FRANCINE
+DATE_NAISSANCE   2006_08_12
+TELEPHONE_FIXE   0422962933
+TELEPHONE_MOBILE 0644003128
+EMAIL            oudin.francine3156@wanadoo.fr
+
+VOIE             117 RUE ERNEST IRROY
+CODE_POSTAL      06620
+COMMUNE          LE BAR-SUR-LOUP
+
+08/11/2024 - 3 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/12/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+08/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+18/11/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+18/11/2024 - 2 - SyntaxError - unexpected indent - corriger l'indentation
+25/11/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+04/11/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+04/11/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+18/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+4/09/2024 - 4 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+14/10/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+18/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+08/11/2024 - 4 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+25/09/2024 - 2 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+08/11/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 1 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+18/11/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/11/2024 - 5 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+25/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+14/10/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+04/11/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+04/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+04/11/2024 - 3 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 4 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+08/11/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 1 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+02/12/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+14/10/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+14/10/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator

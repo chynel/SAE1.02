@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    20072019814744864
+
+CIVILITE         Mme
+NOM              DELAFONTAINE
+PRENOM           NATALE
+DATE_NAISSANCE   2007_02_08
+TELEPHONE_FIXE   0375220195
+TELEPHONE_MOBILE 0609400572
+EMAIL            delafontaine.natale@sfr.fr
+
+VOIE             120 IMPASSE DES MORTS FONDUS
+CODE_POSTAL      80540
+COMMUNE          CLAIRY-SAULCHOIX
+
+04/11/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+12/11/2024 - 1 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+08/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+02/10/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/10/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+12/11/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+18/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 2 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+04/11/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/12/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+08/11/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+14/10/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+4/09/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+08/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+14/10/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 4 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print

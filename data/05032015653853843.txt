@@ -1,0 +1,45 @@
+NUMERO_ETUDIANT    05032015653853843
+
+CIVILITE         Mme
+NOM              MEHDAOUI
+PRENOM           NATHALIE
+DATE_NAISSANCE   2006_03_12
+TELEPHONE_FIXE   0353335718
+TELEPHONE_MOBILE 0683071810
+EMAIL            mehdaoui.nathalie@free.fr
+
+VOIE             139 RUE DU MARCHE
+CODE_POSTAL      51300
+COMMUNE          VITRY-LE-FRANÇOIS
+
+25/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 3 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+25/09/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+25/11/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+02/12/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+04/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 2 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+25/11/2024 - 5 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+25/11/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+12/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/11/2024 - 3 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/10/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+14/10/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/10/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/12/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/12/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+08/11/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+4/09/2024 - 5 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+25/09/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+25/11/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+04/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+25/11/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/10/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction

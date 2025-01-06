@@ -1,0 +1,31 @@
+NUMERO_ETUDIANT    01062012516162593
+
+CIVILITE         M.
+NOM              FREUND
+PRENOM           BAPTISTE
+DATE_NAISSANCE   2007_03_05
+TELEPHONE_FIXE   0329946097
+TELEPHONE_MOBILE 0728589574
+EMAIL            baptiste.freund764@wanadoo.fr
+
+VOIE             138 RUE DU TOURNET
+CODE_POSTAL      54260
+COMMUNE          CHARENCY-VEZIN
+
+02/10/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/12/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+08/11/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+08/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/11/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+12/11/2024 - 1 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+04/11/2024 - 4 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/12/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 4 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/12/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 1 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+04/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string

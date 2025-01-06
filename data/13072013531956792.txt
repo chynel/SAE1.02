@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    13072013531956792
+
+CIVILITE         Mme
+NOM              LEQUIEN
+PRENOM           SUZANNE
+DATE_NAISSANCE   2007_02_20
+TELEPHONE_FIXE   0390051692
+TELEPHONE_MOBILE 0665682752
+EMAIL            suzanne.lequien@orange.fr
+
+VOIE             13 ROUTE DE MONTACHER
+CODE_POSTAL      67204
+COMMUNE          ACHENHEIM
+
+02/12/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 5 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+08/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+4/09/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/10/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+4/09/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/09/2024 - 4 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+25/09/2024 - 2 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+4/09/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary

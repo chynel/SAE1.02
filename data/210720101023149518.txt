@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    210720101023149518
+
+CIVILITE         Mme
+NOM              PLANCHENAULT
+PRENOM           MIA
+DATE_NAISSANCE   2007_12_01
+TELEPHONE_FIXE   0354057982
+TELEPHONE_MOBILE 0790968490
+EMAIL            mia.planchenault@gmail.com
+
+VOIE             34 RUE GUILLAUME ESCHALLART
+CODE_POSTAL      88170
+COMMUNE          PLEUVEZAIN
+
+08/11/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+04/11/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+14/10/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/12/2024 - 3 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/12/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/10/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+4/092024 - 2 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 3 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+25/09/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/10/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+14/10/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/10/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+12/11/2024 - 4 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+25/11/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 2 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+4/09/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+12/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/12/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+14/10/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 1 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6

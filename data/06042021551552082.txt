@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    06042021551552082
+
+CIVILITE         Mme
+NOM              MOUYSSET
+PRENOM           MIGNON
+DATE_NAISSANCE   2005_11_01
+TELEPHONE_FIXE   0353590368
+TELEPHONE_MOBILE 0696245089
+EMAIL            mignon.mouysset1388@wanadoo.fr
+
+VOIE             119 RUE ST YON
+CODE_POSTAL      51300
+COMMUNE          GLANNES
+
+4/09/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+08/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 1 - SyntaxError - unexpected token '=' - vérifier les affectations
+12/11/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+04/11/2024 - 2 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+02/12/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+25/09/2024 - 5 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+02/10/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+12/11/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+25/09/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+08/11/2024 - 2 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/12/2024 - 4 - SyntaxError - expected ':' - ajouter :
+02/10/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/10/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+04/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit

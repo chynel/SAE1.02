@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    27032012673514677
+
+CIVILITE         M.
+NOM              PIERRARD
+PRENOM           PHILIPPE
+DATE_NAISSANCE   2005_08_11
+TELEPHONE_FIXE   0296835100
+TELEPHONE_MOBILE 0728909544
+EMAIL            philippe@pierrard.net
+
+VOIE             86 RUE SOUS L'EGLISE
+CODE_POSTAL      22150
+COMMUNE          LANGAST
+
+25/09/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+04/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+18/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+04/11/2024 - 5 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+08/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+4/09/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/09/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/09/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+14/10/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+08/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+12/11/2024 - 4 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+02/12/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 1 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+12/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 2 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 2 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+25/09/2024 - 1 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+02/12/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 4 - NameError - name 'n' is not defined - changer la valeur

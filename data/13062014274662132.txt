@@ -1,0 +1,43 @@
+NUMERO_ETUDIANT    13062014274662132
+
+CIVILITE         M.
+NOM              VERGER
+PRENOM           BRAS
+DATE_NAISSANCE   2006_08_12
+TELEPHONE_FIXE   0531301762
+TELEPHONE_MOBILE 0767474475
+EMAIL            bras.verger9534@orange.fr
+
+VOIE             11 IMPASSE DES MELEZES
+CODE_POSTAL      12380
+COMMUNE          POUSTHOMY
+
+18/11/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 3 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 1 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+4/09/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+4/09/2024 - 2 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+12/11/2024 - 3 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+25/09/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/09/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+12/11/2024 - 5 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+14/10/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+04/11/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/10/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 2 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+25/11/2024 - 2 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+25/09/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+14/10/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+02/10/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+4/09/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 5 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+12/11/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables

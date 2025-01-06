@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    17102020593495164
+
+CIVILITE         Mme
+NOM              CHAPPUIS
+PRENOM           JOSETTE
+DATE_NAISSANCE   2005_05_11
+TELEPHONE_FIXE   0485362264
+TELEPHONE_MOBILE 0747710509
+EMAIL            chappuis.josette6698@wanadoo.fr
+
+VOIE             143 RUE ALPHONSE KAPPLER
+CODE_POSTAL      73220
+COMMUNE          AIGUEBELLE
+
+25/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+08/11/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 1 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+25/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+04/11/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+14/10/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+14/10/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+02/12/2024 - 1 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+14/10/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+02/10/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 3 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+08/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+25/11/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/09/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+4/09/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/12/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/10/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire

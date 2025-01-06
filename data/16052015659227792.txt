@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    16052015659227792
+
+CIVILITE         Mme
+NOM              SANTAMARIA
+PRENOM           CLAUDE
+DATE_NAISSANCE   2006_08_01
+TELEPHONE_FIXE   0567493829
+TELEPHONE_MOBILE 0780572958
+EMAIL            claude.santamaria803@gmail.com
+
+VOIE             101 IMPASSE FOYRAS
+CODE_POSTAL      81120
+COMMUNE          ORBAN
+
+02/10/2024 - 4 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+25/11/2024 - 3 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/12/2024 - 1 - SyntaxError - expected ':' - ajouter :
+4/09/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/09/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/12/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+25/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+02/10/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/10/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/09/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+02/10/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+14/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+12/11/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+18/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+18/11/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+04/11/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+14/10/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+25/09/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split

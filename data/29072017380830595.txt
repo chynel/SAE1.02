@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    29072017380830595
+
+CIVILITE         M.
+NOM              HOCHET
+PRENOM           AKIRA
+DATE_NAISSANCE   2006_08_09
+TELEPHONE_FIXE   0352278379
+TELEPHONE_MOBILE 0632954735
+EMAIL            akira.hochet@free.fr
+
+VOIE             109 RUE PRINCIPALE
+CODE_POSTAL      08240
+COMMUNE          NOUART
+
+14/10/2024 - 4 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+02/12/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+18/11/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 3 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+12/11/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+4/09/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/10/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/11/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes

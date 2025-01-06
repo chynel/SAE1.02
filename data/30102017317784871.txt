@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    30102017317784871
+
+CIVILITE         Mme
+NOM              GERAUD
+PRENOM           MARIE
+DATE_NAISSANCE   2005_02_16
+TELEPHONE_FIXE   0535913118
+TELEPHONE_MOBILE 06397184500
+EMAIL            marie.geraud5368@free.fr
+
+VOIE             50 RUE DU FRUITIER
+CODE_POSTAL      33710
+COMMUNE          PUGNAC
+
+02/12/2024 - 5 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+14/10/2024 - 1 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+02/10/2024 - 1 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+02/10/2024 - 3 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+08/11/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/11/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+04/11/2024 - 5 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+18/11/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+08/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/11/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

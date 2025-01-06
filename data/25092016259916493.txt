@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    25092016259916493
+
+CIVILITE         Mme
+NOM              KAHRAMAN
+PRENOM           AH
+DATE_NAISSANCE   2006_11_26
+TELEPHONE_FIXE   0372550497
+TELEPHONE_MOBILE 0663364113
+EMAIL            ah.kahraman979@orange.fr
+
+VOIE             32 CHEMIN DU GRAIN
+CODE_POSTAL      57950
+COMMUNE          MONTIGNY-LÈS-METZ
+
+12/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+08/11/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+12/11/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 2 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+12/11/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/10/2024 - 2 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/10/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+04/11/2024 - 5 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+4/09/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/09/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+18/11/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+18/11/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+18/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/11/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/11/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+4/09/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+25/09/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+18/11/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/09/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+25/09/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+04/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+04/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+18/11/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+08/11/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles

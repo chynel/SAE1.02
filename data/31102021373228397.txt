@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    01132081883228343
+
+CIVILTE         Mme
+NOM              HOCHARD
+PRENOM           REINE
+DATE_NAISSANCE   2005_09_28
+TELEPHONE_FIXE   0354781298
+TELEPHONE_MOBILE 0634362516
+EMAIL            reine.hochard7757@sfr.fr
+
+VOIE             48 CHEMIN DES BOUDIGUES
+CODE_POSTAL      55500
+COMMUNE          WILLERONCOURT
+
+25/09/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+4/09/2024 - 2 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+12/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+08/11/2024 - 2 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/12/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 1 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+02/10/2024 - 3 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+4/09/2024 - 2 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 1 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+14/10/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+04/11/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/12/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/09/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/09/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/11/2024 - 3 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+02/10/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/12/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/09/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/12/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+18/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+18/11/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

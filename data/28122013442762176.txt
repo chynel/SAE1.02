@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    28122013442762176
+
+CIVILITE         Mme
+NOM              FOUCHARD
+PRENOM           REINE
+DATE_NAISSANCE   2006_10_07
+TELEPHONE_FIXE   0310580652
+TELEPHONE_MOBILE 0633397176
+EMAIL            reine.fouchard375@live.fr
+
+VOIE             28 RUE DE LA POSTE
+CODE_POSTAL      51460
+COMMUNE          COURTISOLS
+
+18/11/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+08/11/2024 - 3 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+12/11/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 3 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+12/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+04/11/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/09/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+08/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+14/10/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 4 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop

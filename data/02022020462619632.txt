@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    02022020462619632
+
+CIVILITE         Mme
+NOM              LAVENU
+PRENOM           SUZANNE
+DATE_NAISSANCE   2007_05_09
+TELEPHONE_FIXE   0426540583
+TELEPHONE_MOBILE 0713421796
+EMAIL            lavenu.suzanne3726@orange.fr
+
+VOIE             78 RUE DE LA PAIX
+CODE_POSTAL      07200
+COMMUNE          UCEL
+
+02/12/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation
+25/11/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+04/11/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+12/11/2024 - 3 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+4/09/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 4 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 3 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+04/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+25/11/2024 - 2 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+4/09/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+4/09/2024 - 2 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+02/10/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'

@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    30102014438633404
+
+CIVILITE         Mme
+NOM              LEGAY
+PRENOM           CONCHITA
+DATE_NAISSANCE   2005_05_08
+TELEPHONE_FIXE   0533320577
+TELEPHONE_MOBILE 0660000474
+EMAIL            conchita.legay8524@orange.fr
+
+VOIE             105 RUE DES JONQUILLES
+CODE_POSTAL      47150
+COMMUNE          PAULHIAC
+
+25/09/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/12/2024 - 2 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+12/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+18/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+18/11/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+18/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+04/11/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+04/11/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+4/09/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+18/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+14/10/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+04/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/09/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+08/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+04/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+12/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+04/11/2024 - 4 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+25/09/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+4/09/2024 - 1 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+08/11/2024 - 2 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/10/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+04/11/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive

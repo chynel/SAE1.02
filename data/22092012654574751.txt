@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    22092012654574751
+
+CIVILITE         M.
+NOM              DIEUMEGARD
+PRENOM           JULIEN
+DATE_NAISSANCE   2005_01_01
+TELEPHONE_FIXE   0250220821
+TELEPHONE_MOBILE 0634842294
+EMAIL            julien.dieumegard435@gmail.com
+
+VOIE             74 RUE DU MARCHE AU BLE
+CODE_POSTAL      61320
+COMMUNE          LE MÉNIL-SCELLEUR
+
+25/09/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+25/11/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+4/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+18/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+02/10/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+25/11/2024 - 4 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+02/10/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+12/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+04/11/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+25/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 3 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+12/11/2024 - 3 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+18/11/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+4/09/2024 - 3 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+12/11/2024 - 1 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+4/09/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+18/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+14/10/2024 - 2 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+18/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+02/10/2024 - 5 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+04/11/2024 - 2 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+14/10/2024 - 3 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+4/09/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+12/11/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini

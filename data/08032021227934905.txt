@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    08032021227934905
+
+CIVILITE         M.
+NOM              PAROT
+PRENOM           PAUL
+DATE_NAISSANCE   2006_09_03
+TELEPHONE_FIXE   0586299289
+TELEPHONE_MOBILE 0669206480
+EMAIL            parot.paul@free.fr
+
+VOIE             39 RUE DE LA GROTTE
+CODE_POSTAL      86200
+COMMUNE          CHALAIS
+
+02/12/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/10/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/10/2024 - 4 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+08/11/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/12/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 5 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+04/11/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 5 - SyntaxError - unexpected indent - corriger l'indentation
+14/10/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+04/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - SyntaxError - unexpected indent - corriger l'indentation

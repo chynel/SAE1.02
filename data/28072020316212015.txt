@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    28072020316212015
+
+CIVILITE         Mme
+NOM              RABHI
+PRENOM           MIGNON
+DATE_NAISSANCE   2006_12_12
+TELEPHONE_FIXE   0465727408
+TELEPHONE_MOBILE 0610544330
+EMAIL            rabhi.mignon@free.fr
+
+VOIE             86 IMPASSE DES JARDINS
+CODE_POSTAL      04170
+COMMUNE          LAMBRUISSE
+
+02/10/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+14/10/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+02/10/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+12/11/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+4/09/2024 - 4 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+4/09/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/12/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+4/09/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+08/11/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+18/11/2024 - 2 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+18/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+04/11/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections

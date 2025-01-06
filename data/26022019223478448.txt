@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    26022019223478448
+
+CIVILITE         Mme
+NOM              EL
+PRENOM           JIN
+DATE_NAISSANCE   2005_02_03
+TELEPHONE_FIXE   0362407382
+TELEPHONE_MOBILE 0604372550
+EMAIL            jin.el@free.fr
+
+VOIE             120 RUE DE POURET
+CODE_POSTAL      62130
+COMMUNE          HERNICOURT
+
+25/09/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+25/09/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+4/09/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+4/09/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+4/09/2024 - 4 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+25/11/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+14/10/2024 - 5 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type

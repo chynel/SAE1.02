@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    14032011182518378
+
+CIVILITE         Mme
+NOM              PLAS
+PRENOM           ROSE
+DATE_NAISSANCE   2006_10_08
+TELEPHONE_FIXE   0426964201
+TELEPHONE_MOBILE 0752038190
+EMAIL            rose.plas@orange.fr
+
+VOIE             45 CHEMIN DU HOUX
+CODE_POSTAL      07370
+COMMUNE          OZON
+
+02/10/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/11/2024 - 3 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+4/09/2024 - 3 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+4/09/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/12/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+08/11/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 2 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+25/09/2024 - 2 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+25/09/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+04/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+25/09/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+04/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+08/11/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/12/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/10/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/09/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+04/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+18/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+12/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit

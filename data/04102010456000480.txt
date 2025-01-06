@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    04102010456000480
+
+CIVILITE         Mme
+NOM              PATRAC
+PRENOM           SUZANNE
+DATE_NAISSANCE   2006_01_08
+TELEPHONE_FIXE   0236857567
+TELEPHONE_MOBILE 0780777738
+EMAIL            patrac.suzanne7059@free.fr
+
+VOIE             47 RUE CHARLES WIDOR
+CODE_POSTAL      36100
+COMMUNE          SÉGRY
+
+18/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+4/09/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/09/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+18/11/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/12/2024 - 2 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+04/11/2024 - 5 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+18/11/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/11/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+12/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/09/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/12/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+08/11/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant

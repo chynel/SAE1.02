@@ -1,0 +1,33 @@
+NUMERO_ETUDIANT    27082017258998999
+
+CIVILITE         Mme
+NOM              AMADOR
+PRENOM           ANNE
+DATE_NAISSANCE   2007_05_16
+TELEPHONE_FIXE   0351113711
+TELEPHONE_MOBILE 0618402224
+EMAIL            amador.anne5682@free.fr
+
+VOIE             11 RUE DES COUDRIERS
+CODE_POSTAL      51800
+COMMUNE          DOMMARTIN-DAMPIERRE
+
+18/11/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 2 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+25/09/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+08/11/2024 - 2 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/12/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/11/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+14/10/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/12/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 5 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/10/2024 - 3 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+14/10/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+4/09/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/11/2024 - 2 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+02/10/2024 - 3 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations

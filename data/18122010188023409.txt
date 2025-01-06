@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    18122010188023409
+
+CIVILITE         M.
+NOM              POUPON
+PRENOM           AN
+DATE_NAISSANCE   2005_10_18
+TELEPHONE_FIXE   0434549649
+TELEPHONE_MOBILE 0777124060
+EMAIL            an.poupon4@free.fr
+
+VOIE             12 ROUTE DE LANNION
+CODE_POSTAL      66130
+COMMUNE          PRUNET-ET-BELPUIG
+
+25/09/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+08/11/2024 - 4 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+25/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+04/11/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+14/10/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+14/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+14/10/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+04/11/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/10/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+04/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+04/11/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+08/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+08/11/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+04/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+04/11/2024 - 4 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+12/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+04/11/2024 - 2 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+18/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 3 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async

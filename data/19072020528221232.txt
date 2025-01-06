@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    19072020528221232
+
+CIVILITE         M.
+NOM              THIRIOT
+PRENOM           JACQUES
+DATE_NAISSANCE   2007_10_22
+TELEPHONE_FIXE   0219907426
+TELEPHONE_MOBILE 0686284024
+EMAIL            jacques.thiriot1484@laposte.net
+
+VOIE             49 RUE TOULOUSE LAUTREC
+CODE_POSTAL      45530
+COMMUNE          SEICHEBRIÈRES
+
+04/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/12/2024 - 3 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+18/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 1 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+08/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 1 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+12/11/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 3 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+08/11/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+04/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/10/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+25/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 1 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+14/10/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+25/09/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/11/2024 - 1 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+4/09/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+25/09/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 3 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+4/09/2024 - 5 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except

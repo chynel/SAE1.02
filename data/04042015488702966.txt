@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    04042015488702966
+
+CIVILITE         M.
+NOM              CAMBIER
+PRENOM           CHARLES
+DATE_NAISSANCE   2005_09_08
+TELEPHONE_FIXE   0430562256
+TELEPHONE_MOBILE 0624757180
+EMAIL            charles.cambier1979@gmail.com
+
+VOIE             143 CHEMIN DE LA VALETTE
+CODE_POSTAL      30340
+COMMUNE          MÉJANNES-LÈS-ALÈS
+
+4/09/2024 - 5 - SyntaxError - unexpected indent - corriger l'indentation
+02/12/2024 - 3 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/09/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 5 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+02/10/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+04/11/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/12/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while

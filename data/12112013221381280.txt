@@ -1,0 +1,53 @@
+NUMERO_ETUDIANT    12112013221381280
+
+CIVILITE         M.
+NOM              GUIN
+PRENOM           DANTE
+DATE_NAISSANCE   2005_10_09
+TELEPHONE_FIXE   0535125760
+TELEPHONE_MOBILE 0751874441
+EMAIL            guin.dante62@free.fr
+
+VOIE             7 IMPASSE VATEL
+CODE_POSTAL      40990
+COMMUNE          TÉTHIEU
+
+12/11/2024 - 1 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/09/2024 - 3 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+02/10/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+18/11/2024 - 2 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+04/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 5 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+02/10/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+18/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+08/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/09/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+4/09/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 4 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+08/11/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 3 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+04/11/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+08/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 4 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+04/11/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+12/11/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+4/09/2024 - 3 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 4 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+02/10/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+02/12/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 1 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+25/09/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

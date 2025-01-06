@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    11042013380568452
+
+CIVILITE         M.
+NOM              AGUILLON
+PRENOM           BRAS
+DATE_NAISSANCE   2006_10_04
+TELEPHONE_FIXE   0472150787
+TELEPHONE_MOBILE 0685173079
+EMAIL            bras.aguillon@laposte.net
+
+VOIE             49 RUE LA BRUYERE
+CODE_POSTAL      69270
+COMMUNE          CAILLOUX-SUR-FONTAINES
+
+4/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+12/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/12/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+4/09/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 1 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+25/09/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 5 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+02/12/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/10/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+04/11/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/12/2024 - 3 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+25/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/12/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 2 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+14/10/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables

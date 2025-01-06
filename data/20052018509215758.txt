@@ -1,0 +1,39 @@
+NUMERO_ETUDIANT    20052018509215758
+
+CIVILITE         M.
+NOM              BRENET
+PRENOM           FERNANDO
+DATE_NAISSANCE   2005_05_11
+TELEPHONE_FIXE   0524245061
+TELEPHONE_MOBILE 0682912321
+EMAIL            fernando.brenet6943@gmail.com
+
+VOIE             39 RUE DU SEXTANT
+CODE_POSTAL      64130
+COMMUNE          LICHOS
+
+02/10/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/11/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+18/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+12/11/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+02/10/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+12/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+12/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+4/09/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+4/09/2024 - 1 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+02/12/2024 - 1 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+02/12/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 1 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/11/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter

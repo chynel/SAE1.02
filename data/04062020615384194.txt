@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    04062020615384194
+
+CIVILITE         Mme
+NOM              MERZOUGUI
+PRENOM           NICOLE
+DATE_NAISSANCE   2007_08_21
+TELEPHONE_FIXE   0285170539
+TELEPHONE_MOBILE 0728153703
+EMAIL            nicole.merzougui251@orange.fr
+
+VOIE             84 RUE FRANCOIS FABIE
+CODE_POSTAL      85170
+COMMUNE          SAINT-DENIS-LA-CHEVASSE
+
+02/10/2024 - 5 - SyntaxError - expected ':' - ajouter :
+4/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 2 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+04/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 2 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+02/12/2024 - 5 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+02/12/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+14/10/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/10/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+12/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 5 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+04/11/2024 - 2 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+18/11/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/11/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+12/11/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+14/10/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+25/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+4/09/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive

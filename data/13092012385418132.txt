@@ -1,0 +1,44 @@
+NUMERO_ETUDIANT    13092012385418132
+
+CIVILITE         M.
+NOM              CERVERA
+PRENOM           JUSTE
+DATE_NAISSANCE   2007_02_09
+TELEPHONE_FIXE   0363986140
+TELEPHONE_MOBILE 0667666633
+EMAIL            cervera.juste@laposte.net
+
+VOIE             71 IMPASSE DES SUREAUX
+CODE_POSTAL      70150
+COMMUNE          HUGIER
+
+ERRUEUR_RENCONTREE      2024_11_08      4    REF_FOO_160
+ERRUEUR_RENCONTREE      2024_10_14      2    REF_FOO_136
+ERRUEUR_RENCONTREE      2024_12_02     10    REF_BOX_5
+ERRUEUR_RENCONTREE      2024_11_18      1    REF_FOO_64
+ERRUEUR_RENCONTREE      2024_09_25      2    REF_FOO_87
+ERRUEUR_RENCONTREE      2024_11_12      2    REF_HAL_31
+ERRUEUR_RENCONTREE      2024_10_09      4    REF_BAN_15
+ERRUEUR_RENCONTREE      2024_11_04      1    REF_RAM_17
+ERRUEUR_RENCONTREE      2024_11_25      4    REF_FOO_63
+02/12/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+08/11/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 3 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+02/12/2024 - 2 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+08/11/2024 - 4 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/12/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+08/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+18/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 1 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+25/09/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+4/09/2024 - 4 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+02/12/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+02/10/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+08/11/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+12/11/2024 - 2 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+25/09/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/11/2024 - 3 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses

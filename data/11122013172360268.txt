@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    11122013172360268
+
+CIVILITE         Mme
+NOM              FLICK
+PRENOM           SAN
+DATE_NAISSANCE   2006_06_28
+TELEPHONE_FIXE   0354367216
+TELEPHONE_MOBILE 0693376454
+EMAIL            san.flick@laposte.net
+
+VOIE             112 RUE DE CHAMPIROL
+CODE_POSTAL      57660
+COMMUNE          ERSTROFF
+
+25/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/11/2024 - 1 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+14/10/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+12/11/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+02/12/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+04/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+08/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/11/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+18/11/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+12/11/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+08/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+04/11/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+14/10/2024 - 4 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit

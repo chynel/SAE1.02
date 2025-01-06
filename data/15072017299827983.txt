@@ -1,0 +1,48 @@
+NUMERO_ETUDIANT    15072017299827983
+
+CIVILITE         M.
+NOM              CABANEL
+PRENOM           BRAS
+DATE_NAISSANCE   2005_12_15
+TELEPHONE_FIXE   0352687979
+TELEPHONE_MOBILE 0727013805
+EMAIL            bras.cabanel3556@gmail.com
+
+VOIE             134 RUE DU VAL JOLI
+CODE_POSTAL      08190
+COMMUNE          SAULT-SAINT-REMY
+
+08/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+18/11/2024 - 5 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+12/11/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+08/11/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+04/11/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+02/12/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+14/10/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+14/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/12/2024 - 2 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+25/09/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+18/11/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+14/10/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+4/09/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+04/11/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/10/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+12/11/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+4/09/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 2 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+14/10/2024 - 5 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+08/11/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/11/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+02/10/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+12/11/2024 - 3 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/10/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async

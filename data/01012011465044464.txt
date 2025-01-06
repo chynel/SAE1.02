@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    01012011465044464
+
+CIVILITE         M.
+NOM              YILDIZ
+PRENOM           OLIVIER
+DATE_NAISSANCE   2005_04_23
+TELEPHONE_FIXE   0586317263
+TELEPHONE_MOBILE 0676152587
+EMAIL            olivier.yildiz@laposte.net
+
+VOIE             38 CHEMIN DE SUZETTE
+CODE_POSTAL      16230
+COMMUNE          PUYRÉAUX
+
+02/12/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/11/2024 - 5 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+12/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 5 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+25/11/2024 - 5 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+4/09/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+4/09/2024 - 1 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+02/10/2024 - 3 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+25/09/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables

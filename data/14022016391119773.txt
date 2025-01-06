@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    14022016391119773
+
+CIVILITE         M.
+NOM              MODESTE
+PRENOM           JUSTE
+DATE_NAISSANCE   2005_05_16
+TELEPHONE_FIXE   0214541065
+TELEPHONE_MOBILE 0619118418
+EMAIL            modeste.juste2502@free.fr
+
+VOIE             7 AVENUE DE LONS
+CODE_POSTAL      61570
+COMMUNE          LE CHÂTEAU-D'ALMENÊCHES
+
+25/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/09/2024 - 1 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+25/09/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+12/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+08/11/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+4/09/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+14/10/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/12/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+18/11/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+04/11/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+18/11/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 5 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/10/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+14/10/2024 - 2 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+04/11/2024 - 1 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+18/11/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/10/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+14/10/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/12/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+04/11/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+12/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 2 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+04/11/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/10/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments

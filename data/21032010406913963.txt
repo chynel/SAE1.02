@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    21032010406913963
+
+CIVILITE         Mme
+NOM              PROT
+PRENOM           VICTOIRE
+DATE_NAISSANCE   2005_02_16
+TELEPHONE_FIXE   0415109919
+TELEPHONE_MOBILE 0750205724
+EMAIL            prot.victoire@gmail.com
+
+VOIE             15 ROUTE DE PIERRE BRUNE
+CODE_POSTAL      43230
+COMMUNE          COLLAT
+
+4/09/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+04/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/11/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/10/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+25/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+02/12/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+25/09/2024 - 4 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+25/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+25/09/2024 - 1 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+25/09/2024 - 3 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles

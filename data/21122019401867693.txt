@@ -1,0 +1,26 @@
+NUMERO_ETUDIANT    21122019401867693
+
+CIVILITE         Mme
+NOM              MORETTO
+PRENOM           NINON
+DATE_NAISSANCE   2007_03_02
+TELEPHONE_FIXE   0345156989
+TELEPHONE_MOBILE 0753462239
+EMAIL            ninon.moretto@sfr.fr
+
+VOIE             137 RUE D ORLEANS
+CODE_POSTAL      71760
+COMMUNE          ISSY-L'ÉVÊQUE
+
+04/11/2024 - 1 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+25/11/2024 - 2 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/12/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/10/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+4/09/2024 - 5 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+18/11/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 3 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+14/10/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/12/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/10/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+18/11/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule

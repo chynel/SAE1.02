@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    02062011397935513
+
+CIVILITE         M.
+NOM              PORTE
+PRENOM           ANTOINE
+DATE_NAISSANCE   2007_05_20
+TELEPHONE_FIXE   0261771048
+TELEPHONE_MOBILE 0632402569
+EMAIL            porte.antoine1160@gmail.com
+
+VOIE             16 CHEMIN DE LA LANUSSE
+CODE_POSTAL      61270
+COMMUNE          RAI
+
+25/09/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/10/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+14/10/2024 - 1 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+04/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+14/10/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 4 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+25/11/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+08/11/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+08/11/2024 - 1 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+04/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/10/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 3 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+04/11/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 2 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+12/11/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+18/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'

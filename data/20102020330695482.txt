@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    20102020330695482
+
+CIVILITE         Mme
+NOM              RIVAUD
+PRENOM           MARIE
+DATE_NAISSANCE   2006_12_10
+TELEPHONE_FIXE   0367266677
+TELEPHONE_MOBILE 0685418117
+EMAIL            rivaud.marie@free.fr
+
+VOIE             10 ROUTE DE LA COMBE
+CODE_POSTAL      67330
+COMMUNE          NEUWILLER-LÈS-SAVERNE
+
+08/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+08/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+25/11/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+12/11/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 3 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/12/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+12/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+12/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+14/10/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+12/11/2024 - 2 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+12/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/11/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+02/10/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+04/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+18/11/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+04/11/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/10/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/12/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+02/10/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/10/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 4 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+25/11/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+02/10/2024 - 1 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+4/09/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+12/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+04/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses

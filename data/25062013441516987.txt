@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    25062013441516987
+
+CIVILITE         Mme
+NOM              MANTEAU
+PRENOM           NADINE
+DATE_NAISSANCE   2005_04_28
+TELEPHONE_FIXE   0365249461
+TELEPHONE_MOBILE 0641544457
+EMAIL            manteau.nadine9363@orange.fr
+
+VOIE             108 RUE DE LA GRANGE DES DIMES
+CODE_POSTAL      80310
+COMMUNE          RIENCOURT
+
+4/09/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/12/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+4/09/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 3 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+25/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+14/10/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/10/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+02/12/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/09/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+25/09/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+04/11/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+4/09/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+25/11/2024 - 1 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire

@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    20072016518325290
+
+CIVILITE         Mme
+NOM              BRANCOURT
+PRENOM           LAURE
+DATE_NAISSANCE   2007_02_27
+TELEPHONE_FIXE   0475306176
+TELEPHONE_MOBILE 0681091886
+EMAIL            laure.brancourt2314@laposte.net
+
+VOIE             13 IMPASSE DU HIMMELSBERG
+CODE_POSTAL      26260
+COMMUNE          BREN
+
+12/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/10/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+25/09/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+08/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/12/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+18/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/12/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+12/11/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+12/11/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+02/12/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+25/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+08/11/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+14/10/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+08/11/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+08/11/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 3 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+02/12/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+4/09/2024 - 4 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+12/11/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+14/10/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+25/09/2024 - 3 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def

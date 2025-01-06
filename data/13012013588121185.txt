@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    13012013588121185
+
+CIVILITE         M.
+NOM              FRAPPIER
+PRENOM           MATHIAS
+DATE_NAISSANCE   2006_01_02
+TELEPHONE_FIXE   0368260748
+TELEPHONE_MOBILE 0690545880
+EMAIL            frappier.mathias2286@gmail.com
+
+VOIE             111 IMPASSE DES VERCHERES
+CODE_POSTAL      68480
+COMMUNE          OLTINGUE
+
+02/12/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+04/11/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+08/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+18/11/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+14/10/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/10/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+02/12/2024 - 5 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+25/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+12/11/2024 - 5 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+12/11/2024 - 1 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+08/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+12/11/2024 - 1 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+25/11/2024 - 4 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+04/11/2024 - 4 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/11/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+04/11/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+14/10/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+04/11/2024 - 4 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+25/09/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/12/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 3 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+04/11/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+14/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+04/11/2024 - 3 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+18/11/2024 - 2 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+12/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+12/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+18/11/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 5 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant

@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    10022010308019993
+
+CIVILITE         Mme
+NOM              BAKARI
+PRENOM           MARIE
+DATE_NAISSANCE   2007_07_07
+TELEPHONE_FIXE   0360117527
+TELEPHONE_MOBILE 0652761438
+EMAIL            marie.bakari@sfr.fr
+
+VOIE             52 RUE LEON BLUM
+CODE_POSTAL      60190
+COMMUNE          MOYENNEVILLE
+
+04/11/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/12/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+12/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+12/11/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/10/2024 - 4 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+04/11/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+18/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+4/09/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place

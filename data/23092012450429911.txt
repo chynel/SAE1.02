@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    23092012450429911
+
+CIVILITE         M.
+NOM              RAVENEAU
+PRENOM           ROGER
+DATE_NAISSANCE   2006_12_07
+TELEPHONE_FIXE   0479553121
+TELEPHONE_MOBILE 0724810894
+EMAIL            roger.raveneau@gmail.com
+
+VOIE             115 RUE LA FONTAINE D AMOUR
+CODE_POSTAL      73730
+COMMUNE          ROGNAIX
+
+14/10/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+4/09/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+14/10/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+14/10/2024 - 5 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+14/10/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+04/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+04/11/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+4/09/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/12/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 5 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+14/10/2024 - 3 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+4/09/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+25/09/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/10/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case

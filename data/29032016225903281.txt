@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    29032016225903281
+
+CIVILITE         M.
+NOM              BROWN
+PRENOM           BRAS
+DATE_NAISSANCE   2006_12_19
+TELEPHONE_FIXE   0362630338
+TELEPHONE_MOBILE 0750313892
+EMAIL            bras.brown4378@gmail.com
+
+VOIE             78 RUE JEANNE D ARC
+CODE_POSTAL      62450
+COMMUNE          MARTINPUICH
+
+18/11/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+12/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+04/11/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/10/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+08/11/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 2 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 5 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+25/09/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+4/09/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/09/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/09/2024 - 1 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+04/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+14/10/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/12/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+18/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 5 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+04/11/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant

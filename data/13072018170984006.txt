@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    13072018170984006
+
+CIVILITE         M.
+NOM              NACIRI
+PRENOM           AN
+DATE_NAISSANCE   2006_01_14
+TELEPHONE_FIXE   0365268113
+TELEPHONE_MOBILE 0677603869
+EMAIL            an.naciri3682@free.fr
+
+VOIE             85 RUE PASCAL DUPRAT
+CODE_POSTAL      02880
+COMMUNE          CHAVIGNY
+
+18/11/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+02/12/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/11/2024 - 4 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+04/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+12/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+12/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+18/11/2024 - 2 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+12/11/2024 - 4 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+18/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+14/10/2024 - 5 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+4/09/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+4/09/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+04/11/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+18/11/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/09/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation
+08/11/2024 - 1 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/12/2024 - 2 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+14/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/09/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+02/10/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+12/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function

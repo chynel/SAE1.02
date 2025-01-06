@@ -1,0 +1,31 @@
+NUMERO_ETUDIANT    23112019318964532
+
+CIVILITE         Mme
+NOM              BREHERET
+PRENOM           SAN
+DATE_NAISSANCE   2006_08_19
+TELEPHONE_FIXE   0438625059
+TELEPHONE_MOBILE 0649572275
+EMAIL            san.breheret3498@sfr.fr
+
+VOIE             26 RUE DE L ABREUVOIR
+CODE_POSTAL      38118
+COMMUNE          SAINT-BAUDILLE-DE-LA-TOUR
+
+14/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/10/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 3 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+18/11/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+14/10/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+25/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+08/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/11/2024 - 2 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu
+12/11/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 5 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+25/09/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide

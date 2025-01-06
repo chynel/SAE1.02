@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    29012019362611538
+
+CIVILITE         Mme
+NOM              CHAVE
+PRENOM           CECILIA
+DATE_NAISSANCE   2006_04_22
+TELEPHONE_FIXE   0359172132
+TELEPHONE_MOBILE 0696987456
+EMAIL            chave.cecilia4615@orange.fr
+
+VOIE             144 ROUTE DE MARE CAFE
+CODE_POSTAL      62830
+COMMUNE          QUESTRECQUES
+
+25/11/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/11/2024 - 4 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+08/11/2024 - 5 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+08/11/2024 - 5 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+25/09/2024 - 3 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+25/09/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+14/10/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+14/10/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+04/11/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+08/11/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+25/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+4/09/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/10/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+14/10/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 4 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+18/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+04/11/2024 - 4 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+08/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments

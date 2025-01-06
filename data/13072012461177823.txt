@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    13072012461177823
+
+CIVILITE         Mme
+NOM              JOUEN
+PRENOM           VIRGINIE
+DATE_NAISSANCE   2006_10_20
+TELEPHONE_FIXE   0443136221
+TELEPHONE_MOBILE 0741562513
+EMAIL            virginie.jouen@laposte.net
+
+VOIE             137 ROUTE DE LA BURBANNE
+CODE_POSTAL      63580
+COMMUNE          SAINTE-CATHERINE
+
+25/09/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+4/09/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+08/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/10/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+14/10/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+04/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+4/09/2024 - 2 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+02/10/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/12/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+18/11/2024 - 3 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+25/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z

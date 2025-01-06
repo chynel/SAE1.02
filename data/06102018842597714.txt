@@ -1,0 +1,34 @@
+NUMERO_ETUDIANT    06102018842597714
+
+CIVILITE         M.
+NOM              DESPLANQUES
+PRENOM           JACQUES
+DATE_NAISSANCE   2005_09_21
+TELEPHONE_FIXE   0482767535
+TELEPHONE_MOBILE 0784931814
+EMAIL            jacques.desplanques@sfr.fr
+
+VOIE             118 RUE ARMAND CARREL
+CODE_POSTAL      42153
+COMMUNE          RIORGES
+
+18/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 2 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+18/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+25/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+12/11/2024 - 2 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+04/11/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+18/11/2024 - 4 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+14/10/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+08/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/10/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+12/11/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+08/11/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+04/11/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+02/12/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 3 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire

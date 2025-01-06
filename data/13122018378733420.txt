@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    13122018378733420
+
+CIVILITE         Mme
+NOM              PAJOT
+PRENOM           BLANCHE
+DATE_NAISSANCE   2006_12_05
+TELEPHONE_FIXE   0411125173
+TELEPHONE_MOBILE 0679568365
+EMAIL            blanche.pajot@gmail.com
+
+VOIE             78 RUE DU PONT DES CHEVRES
+CODE_POSTAL      11330
+COMMUNE          DAVEJEAN
+
+12/11/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+4/09/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 4 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+04/11/2024 - 4 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 1 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+02/12/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+25/11/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+04/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+4/09/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+08/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 1 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+18/11/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+12/11/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+25/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+12/11/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+12/11/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+08/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+14/10/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+02/10/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+08/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/09/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+25/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+18/11/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+08/11/2024 - 2 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/12/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 4 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+02/10/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/10/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+08/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter

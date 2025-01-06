@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    08122013530973751
+
+CIVILITE         M.
+NOM              MESSMER
+PRENOM           OLIVIER
+DATE_NAISSANCE   2007_04_12
+TELEPHONE_FIXE   0390988996
+TELEPHONE_MOBILE 0716158358
+EMAIL            messmer.olivier6304@laposte.net
+
+VOIE             4 RUE MONTMARTRE
+CODE_POSTAL      68370
+COMMUNE          ORBEY
+
+18/11/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+08/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/09/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/12/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+12/11/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+14/10/2024 - 1 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+08/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+08/11/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+18/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/10/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/11/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/09/2024 - 1 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+04/11/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+12/11/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 4 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+02/10/2024 - 2  AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+18/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+04/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+25/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 4 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/11/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+04/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/11/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'

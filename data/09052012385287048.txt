@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    09052012385287048
+
+CIVILITE         M.
+NOM              SEILLER
+PRENOM           MARIN
+DATE_NAISSANCE   2007_03_26
+TELEPHONE_FIXE   0531151878
+TELEPHONE_MOBILE 0658516174
+EMAIL            seiller.marin6711@free.fr
+
+VOIE             49 PLACE DES TROUBADOURS
+CODE_POSTAL      65410
+COMMUNE          ILHET
+
+12/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/12/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+04/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+12/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+08/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+14/10/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+4/09/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/12/2024 - 4 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+12/11/2024 - 4 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/10/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/09/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+04/11/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+12/11/2024 - 2 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else

@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    12092015437781446
+
+CIVILITE         M.
+NOM              DAGUERRE
+PRENOM           HENRI
+DATE_NAISSANCE   2005_07_15
+TELEPHONE_FIXE   0524137065
+TELEPHONE_MOBILE 0699515521
+EMAIL            henri.daguerre1475@live.fr
+
+VOIE             6 IMPASSE DU RELAIS DE LA POSTE
+CODE_POSTAL      40310
+COMMUNE          PARLEBOSCQ
+
+12/11/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+14/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+14/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+08/11/2024 - 2 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+12/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+4/09/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+4/09/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/09/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+4/09/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+04/11/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/12/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/10/2024 - 2 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+02/10/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule

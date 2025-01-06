@@ -1,0 +1,48 @@
+NUMERO_ETUDIANT    29102016661587098
+
+CIVILITE         M.
+NOM              PARFAIT
+PRENOM           SIEGFRIED
+DATE_NAISSANCE   2005_03_10
+TELEPHONE_FIXE   0426144335
+TELEPHONE_MOBILE 0625186569
+EMAIL            siegfried.parfait5280@free.fr
+
+VOIE             17 CHEMIN DU CHARMETTON
+CODE_POSTAL      69480
+COMMUNE          LACHASSAGNE
+
+08/11/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/11/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+12/11/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+4/09/2024 - 2 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+25/11/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/11/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+12/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 4 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+12/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+02/12/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 3 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+12/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 4 - IndexError - string index out of range - vérifier la longueur de la chaîne avant d'accéder à un index
+14/10/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+08/11/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/11/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+18/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/12/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+08/11/2024 - 1 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+18/11/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+04/11/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/10/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/09/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+4/09/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+02/12/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 1 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+12/11/2024 - 3 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction

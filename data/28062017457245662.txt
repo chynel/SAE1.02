@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    28062017457245662
+
+CIVILITE         M.
+NOM              ISSARTEL
+PRENOM           HENRI
+DATE_NAISSANCE   2005_11_20
+TELEPHONE_FIXE   0365362642
+TELEPHONE_MOBILE 0725666446
+EMAIL            henri.issartel6215@laposte.net
+
+VOIE             90 CHEMIN DE BIDEKURUTZETA
+CODE_POSTAL      80560
+COMMUNE          MAILLY-MAILLET
+
+25/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+25/11/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+4/09/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+02/12/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+02/10/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+12/11/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+12/11/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+08/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+12/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+14/10/2024 - 5 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+14/10/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/09/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+14/10/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+14/10/2024 - 3 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+14/10/2024 - 4 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+25/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/09/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+12/11/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 1 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+4/09/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+12/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/10/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+18/11/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/09/2024 - 2 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire

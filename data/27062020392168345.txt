@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    27062020392168345
+
+CIVILITE         Mme
+NOM              DURIF
+PRENOM           LOURDES
+DATE_NAISSANCE   2005_09_04
+TELEPHONE_FIXE   0533921961
+TELEPHONE_MOBILE 0676153139
+EMAIL            lourdes.durif@free.fr
+
+VOIE             41 CHEMIN DE LA BARRIERE
+CODE_POSTAL      24170
+COMMUNE          CLADECH
+
+08/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 1 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+18/11/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+18/11/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+14/10/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+08/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+02/10/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/12/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/09/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+12/11/2024 - 1 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+25/11/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+08/11/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction

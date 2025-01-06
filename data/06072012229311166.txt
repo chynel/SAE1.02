@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    06072012229311166
+
+CIVILITE         M.
+NOM              PAUWELS
+PRENOM           OM
+DATE_NAISSANCE   2007_11_20
+TELEPHONE_FIXE   0363410510
+TELEPHONE_MOBILE 0752957699
+EMAIL            om.pauwels5070@wanadoo.fr
+
+VOIE             125 RUE DOC ROLLET
+CODE_POSTAL      25170
+COMMUNE          NOIRONTE
+
+25/09/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+4/09/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+12/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+14/10/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/12/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/10/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+12/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+08/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 4 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/12/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+08/11/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+18/11/2024 - 2 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+02/10/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/11/2024 - 4 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+14/10/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+14/10/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 2 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+18/11/2024 - 3 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+14/10/2024 - 2 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/12/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 5 - FileNotFoundError - No such file or directory: 'config.json' - vérifier que le fichier existe ou l'emplacement est correct
+12/11/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+04/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+18/11/2024 - 3 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+12/11/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/12/2024 - 1 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+25/11/2024 - 2 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif

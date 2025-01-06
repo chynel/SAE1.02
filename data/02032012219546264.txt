@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    02032012219546264
+
+CIVILITE         Mme
+NOM              LINARES
+PRENOM           AH
+DATE_NAISSANCE   2005_01_22
+TELEPHONE_FIXE   deBelfort461896
+TELEPHONE_MOBILE 0704953020
+EMAIL            ah.linares@gmail.com
+
+VOIE             111 RUE DE LA BIGORRE
+CODE_POSTAL      90160
+COMMUNE          DENNEY
+
+18/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+18/11/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/11/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/09/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+12/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+14/10/2024 - 2 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+25/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+4/09/2024 - 4 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+04/11/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/10/2024 - 5 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+04/11/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+04/11/2024 - 2 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 4 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu

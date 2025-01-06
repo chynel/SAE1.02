@@ -1,0 +1,48 @@
+NUMERO_ETUDIANT    14032013450954198
+
+CIVILITE         M.
+NOM              DULONG
+PRENOM           GEORGES
+DATE_NAISSANCE   2007_10_15
+TELEPHONE_FIXE   0444118410
+TELEPHONE_MOBILE 0600936751
+EMAIL            georges.dulong@live.fr
+
+VOIE             44 RUE DU LAURAGAIS
+CODE_POSTAL      03240
+COMMUNE          ROCLES
+
+25/09/2024 - 5 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+04/11/2024 - 4 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+12/11/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/12/2024 - 3 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+4/09/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+4/09/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+25/09/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/10/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+14/10/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/10/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+4/09/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+18/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+02/12/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/12/2024 - 1 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+04/11/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/12/2024 - 4 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+12/11/2024 - 4 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+04/11/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+02/10/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+18/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+08/11/2024 - 2 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+12/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 3 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+12/11/2024 - 5 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case

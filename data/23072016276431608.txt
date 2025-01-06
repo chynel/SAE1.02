@@ -1,0 +1,43 @@
+NUMERO_ETUDIANT    23072016276431608
+
+CIVILITE         Mme
+NOM              MANSOURI
+PRENOM           AH
+DATE_NAISSANCE   2007_10_06
+TELEPHONE_FIXE   0250347260
+TELEPHONE_MOBILE 0687481281
+EMAIL            ah.mansouri2559@laposte.net
+
+VOIE             80 ROUTE DU FOUR A CHAUX
+CODE_POSTAL      14330
+COMMUNE          SAINTE-MARGUERITE-D'ELLE
+
+25/11/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+02/12/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 5 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+14/10/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 1 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+12/11/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+04/11/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 1 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+04/11/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/09/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+25/09/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/09/2024 - 2 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/12/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+14/10/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/09/2024 - 2 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+04/11/2024 - 2 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+14/10/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 1 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 3 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+4/09/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+08/11/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/12/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+08/11/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
