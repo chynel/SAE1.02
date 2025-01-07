@@ -16,7 +16,7 @@ from collections import Counter
 
 # Définition du dossier contenant les fichiers texte
 directory = 'data'  # Chemin relatif vers le répertoire de données
-output_xlsx = 'Infos_Etudiants.xlsx'  # Nom du fichier de sortie
+output_xlsx = 'Infos_Etudiants1.xlsx'  # Nom du fichier de sortie
 
 # Créeation d'un nouveau classeur Excel
 workbook = Workbook()
@@ -26,7 +26,7 @@ feuille_etudiants = workbook.active
 feuille_etudiants.title = "Etudiants"
 
 # Préparation des en-têtes pour la feuille Excel des étudiants
-entete = ['NUMERO_ETUDIANT', 'NOM', 'PRENOM', 'EMAIL']
+entete = ['NOM', 'PRENOM', 'EMAIL']
 # Écriture des en-têtes dans la première ligne
 feuille_etudiants.append(entete)
 
@@ -41,12 +41,12 @@ for filename in os.listdir(directory):
             lignes = fichier.readlines()
 
             # Variables pour stocker les informations
-            numero_etudiant = nom = prenom = email = None
+            nom = prenom = email = None
 
             # Parcourt des lignes pour extraire les informations
             for ligne in lignes:
                 # Extraction des informations de l'étudiant
-                if ligne.startswith("NUMERO_ETUDIANT"):
+                if ligne.startswith("NOM"):
                     """Le formatage dans le fichier .txt étant comme suit: 
                         NOM              CHARREAU
                         PRENOM           BRAS
@@ -61,8 +61,6 @@ for filename in os.listdir(directory):
                                  result = ligne.split(maxsplit=1)
                                  print(result)  # ['NOM', 'CHARREAU MARIE']
                     """
-                    numero_etudiant = ligne.split(maxsplit=1)[1].strip()
-                elif ligne.startswith("NOM"):
                     nom = ligne.split(maxsplit=1)[1].strip()
                 elif ligne.startswith("PRENOM"):
                     prenom = ligne.split(maxsplit=1)[1].strip()
@@ -74,8 +72,8 @@ for filename in os.listdir(directory):
                     erreurs[ligne.strip()] += 1
 
             # Si toutes les informations sont trouvées, les écrire dans la feuille Excel des étudiants
-            if numero_etudiant and nom and prenom and email:
-                feuille_etudiants.append([numero_etudiant, nom, prenom, email])
+            if nom and prenom and email:
+                feuille_etudiants.append([nom, prenom, email])
 
 
 # Ajoute d'une nouvelle feuille pour les erreurs
