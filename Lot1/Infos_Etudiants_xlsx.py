@@ -12,35 +12,40 @@ import os
 # variables systèmes, ainsi que de nombreuses fonctionnalités du systèmes.
 
 from openpyxl import Workbook
+from collections import Counter
 
-# Définir le dossier contenant les fichiers texte
-directory = 'data' #chemin relatif vers le repertoire de données
-output_xlsx = 'Infos_Etudiants.xlsx' #Nom du fichier de sorti
+# Définition du dossier contenant les fichiers texte
+directory = 'data'  # Chemin relatif vers le répertoire de données
+output_xlsx = 'Infos_Etudiants.xlsx'  # Nom du fichier de sortie
 
-# Créer un nouveau classeur Excel
+# Créeation d'un nouveau classeur Excel
 workbook = Workbook()
-# Sélectionner la feuille active
-sheet = workbook.active
-# Renommer la feuille
-sheet.title = "Etudiants"
 
-# Préparer les en-têtes pour la feuille Excel
+# Ajout de la feuille des étudiants
+feuille_etudiants = workbook.active
+feuille_etudiants.title = "Etudiants"
+
+# Préparation des en-têtes pour la feuille Excel des étudiants
 entete = ['NUMERO_ETUDIANT', 'NOM', 'PRENOM', 'EMAIL']
-# Écrire les en-têtes dans la première ligne
-sheet.append(entete)
+# Écriture des en-têtes dans la première ligne
+feuille_etudiants.append(entete)
 
-# Parcourir les fichiers dans le dossier
+# Initialisation d'un dictionnaire pour les erreurs
+erreurs = Counter()
+
+# Parcourt des fichiers dans le dossier data
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
-    if os.path.isfile(f):  # Vérifier si c'est bien un fichier
+    if os.path.isfile(f):  # Vérification de la veracité du fichier
         with open(f, 'r', encoding='utf-8', errors='ignore') as fichier:
             lignes = fichier.readlines()
 
             # Variables pour stocker les informations
             numero_etudiant = nom = prenom = email = None
 
-            # Parcourir les lignes pour trouver les champs nécessaires
+            # Parcourt des lignes pour extraire les informations
             for ligne in lignes:
+                # Extraction des informations de l'étudiant
                 if ligne.startswith("NUMERO_ETUDIANT"):
                     """Le formatage dans le fichier .txt étant comme suit: 
                         NOM              CHARREAU
@@ -64,9 +69,26 @@ for filename in os.listdir(directory):
                 elif ligne.startswith("EMAIL"):
                     email = ligne.split(maxsplit=1)[1].strip()
 
-            # Si toutes les informations sont trouvées, les écrire dans la feuille Excel
+                # Extraction des erreurs
+                if "SyntaxError" in ligne or "TypeError" in ligne or "NameError" in ligne or "IndentationError" in ligne:
+                    erreurs[ligne.strip()] += 1
+
+            # Si toutes les informations sont trouvées, les écrire dans la feuille Excel des étudiants
             if numero_etudiant and nom and prenom and email:
-                sheet.append([numero_etudiant, nom, prenom, email])
+                feuille_etudiants.append([numero_etudiant, nom, prenom, email])
+
+
+# Ajoute d'une nouvelle feuille pour les erreurs
+sheet_erreurs = workbook.create_sheet(title="Erreurs")
+
+# En-têtes pour la feuille des erreurs
+entete_erreurs = ['Erreur', 'Nombre de fois']
+sheet_erreurs.append(entete_erreurs)
+
+# Ajout des erreurs dans la feuille des erreurs
+for erreur, count in erreurs.items():
+    sheet_erreurs.append([erreur, count])
+
 
 # Sauvegarder le fichier Excel
 workbook.save(output_xlsx)

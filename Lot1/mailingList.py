@@ -16,7 +16,7 @@ import csv
 
 # Définir le dossier contenant les fichiers texte
 directory = 'data' #chemin relatif vers le repertoire de données
-output_csv = 'Mails_Etudiants.csv' #Nom du fichier de sorti
+output_csv = 'mailingList .csv' #Nom du fichier de sorti
 
 # Préparer les en-têtes du fichier CSV
 entete = ['ETUDIANTS EMAIL']
