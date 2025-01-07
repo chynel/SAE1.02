@@ -1,5 +1,5 @@
 # date : 7 janvier 2025
-# auteur : Ferrand SOKI
+# auteurs : Ferrand SOKI, Salma ALAHYAN, Yasmina TARAZA
 # version 8
 
 # Ce programme liste les fichiers contenus dans le dossier data 
