@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    29082021135594499
+
+CIVILITE         Mme
+NOM              LEITE
+PRENOM           AN
+DATE_NAISSANCE   2005_03_12
+TELEPHONE_FIXE   0245585784
+TELEPHONE_MOBILE 0623865658
+EMAIL            an.leite@gmail.com
+
+VOIE             2 CHEMIN DES BOTTUS
+CODE_POSTAL      41170
+COMMUNE          LE TEMPLE
+
+02/12/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/10/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/09/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/09/2024 - 5 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+4/09/2024 - 5 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/10/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+14/10/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 1 - SyntaxError - expected ':' - ajouter :
+02/10/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/09/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+4/09/2024 - 3 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/11/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 1 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+18/11/2024 - 2 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+12/11/2024 - 1 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+02/12/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+08/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+04/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

@@ -1,0 +1,49 @@
+NUMERO_ETUDIANT    02032020320078625
+
+CIVILITE         Mme
+NOM              PIGEON
+PRENOM           ALICE
+DATE_NAISSANCE   2005_10_06
+TELEPHONE_FIXE   0524050074
+TELEPHONE_MOBILE 0736633775
+EMAIL            alice.pigeon12@orange.fr
+
+VOIE             109 RUE DE LA FORGE
+CODE_POSTAL      64640
+COMMUNE          ARMENDARITS
+
+08/11/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+12/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+18/11/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+08/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+18/11/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+25/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+04/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+08/11/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+04/11/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+12/11/2024 - 5 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+25/11/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/10/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+4/09/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/10/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+12/11/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+14/10/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/11/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+4/09/2024 - 3 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+14/10/2024 - 1 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+02/10/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+18/11/2024 - 2 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+14/10/2024 - 2 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+04/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 2 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+04/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+18/11/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions

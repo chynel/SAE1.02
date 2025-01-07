@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    27022014373228404
+
+CIVILITE         Mme
+NOM              DEGRAVE
+PRENOM           LAURA
+DATE_NAISSANCE   2006_07_08
+TELEPHONE_FIXE   0381239413
+TELEPHONE_MOBILE 0715812619
+EMAIL            degrave.laura3290@free.fr
+
+VOIE             148 RUE DE LA VARENDE
+CODE_POSTAL      25270
+COMMUNE          SEPTFONTAINES
+
+18/11/2024 - 2 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+25/11/2024 - 5 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 3 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+25/09/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+4/09/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+02/12/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/10/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+18/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+14/10/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+25/09/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+04/11/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+04/11/2024 - 2 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+02/12/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+12/11/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 3 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+25/09/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/09/2024 - 2 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations

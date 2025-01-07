@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    03072019229114543
+
+CIVILITE         Mme
+NOM              RAUX
+PRENOM           MARIE
+DATE_NAISSANCE   2006_12_23
+TELEPHONE_FIXE   0480157953
+TELEPHONE_MOBILE 0679922928
+EMAIL            raux.marie9471@gmail.com
+
+VOIE             84 RUE DE CANAPE
+CODE_POSTAL      74150
+COMMUNE          THUSY
+
+14/10/2024 - 4 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+18/11/2024 - 4 - SyntaxError - expected ':' - ajouter :
+12/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/09/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 3 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+25/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/09/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+14/10/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+12/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+18/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+12/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/10/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+18/11/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+4/09/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r

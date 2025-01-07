@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    20042016458818528
+
+CIVILITE         M.
+NOM              TARTARIN
+PRENOM           LUIGI
+DATE_NAISSANCE   2006_10_08
+TELEPHONE_FIXE   0222314198
+TELEPHONE_MOBILE 0721625801
+EMAIL            luigi.tartarin9207@free.fr
+
+VOIE             40 CHEMIN DU PLOT
+CODE_POSTAL      29430
+COMMUNE          LANHOUARNEAU
+
+4/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+04/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+12/11/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 3 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+14/10/2024 - 5 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+08/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+4/09/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+12/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+08/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+04/11/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+08/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+4/09/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments

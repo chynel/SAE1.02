@@ -1,0 +1,26 @@
+NUMERO_ETUDIANT    12102013425395120
+
+CIVILITE         M.
+NOM              ABERKANE
+PRENOM           HENRI
+DATE_NAISSANCE   2006_12_14
+TELEPHONE_FIXE   0386126208
+TELEPHONE_MOBILE 0673688333
+EMAIL            henri.aberkane@free.fr
+
+VOIE             148 RUE DU MARECHAL FOCH
+CODE_POSTAL      58240
+COMMUNE          SAINT-PIERRE-LE-MOÛTIER
+
+25/09/2024 - 3 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+14/10/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+18/11/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/09/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+12/11/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+4/09/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+12/11/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+4/09/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/10/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/12/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/09/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini

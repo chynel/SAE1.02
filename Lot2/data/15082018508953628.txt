@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    15082018508953628
+
+CIVILITE         Mme
+NOM              DELAVAULT
+PRENOM           MANON
+DATE_NAISSANCE   2006_06_13
+TELEPHONE_FIXE   0493980762
+TELEPHONE_MOBILE 0706598399
+EMAIL            manon.delavault@wanadoo.fr
+
+VOIE             51 AVENUE MARECHAL FOCH
+CODE_POSTAL      06470
+COMMUNE          SAUZE
+
+02/10/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/09/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+08/11/2024 - 2 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+04/11/2024 - 5 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 1 - FileNotFoundError - No such file or directory: 'logs.txt' - vérifier si le fichier a été supprimé ou déplacé
+02/10/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+18/11/2024 - 2 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+25/11/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/11/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/09/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+12/11/2024 - 5 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+25/09/2024 - 1 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+18/11/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+04/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+18/11/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+4/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+12/11/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+08/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

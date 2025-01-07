@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    12112020761791760
+
+CIVILITE         M.
+NOM              COUDERT
+PRENOM           CHRISTOPHE
+DATE_NAISSANCE   2005_02_12
+TELEPHONE_FIXE   0581965177
+TELEPHONE_MOBILE 0754841072
+EMAIL            coudert.christophe1660@laposte.net
+
+VOIE             42 RUE DU DOCTEUR BONNARDON
+CODE_POSTAL      31620
+COMMUNE          VILLAUDRIC
+
+18/11/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+12/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 3 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+04/11/2024 - 5 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+12/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/12/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+12/11/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+04/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+08/11/2024 - 2 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu
+18/11/2024 - 1 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+18/11/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+4/09/2024 - 2 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+08/11/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True

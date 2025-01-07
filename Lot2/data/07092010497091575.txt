@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    07092010497091575
+
+CIVILITE         M.
+NOM              BRANCHEREAU
+PRENOM           ALI
+DATE_NAISSANCE   2005_04_04
+TELEPHONE_FIXE   0160532045
+TELEPHONE_MOBILE 0667587734
+EMAIL            branchereau.ali@free.fr
+
+VOIE             51 RUE JULES FRANCE
+CODE_POSTAL      77420
+COMMUNE          CHAMPS-SUR-MARNE
+
+25/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/09/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+4/09/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+04/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 2 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+25/09/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+12/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/10/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/09/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+04/11/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+04/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+14/10/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+02/10/2024 - 2 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/11/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+04/11/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+14/10/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+18/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+14/10/2024 - 5 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 2 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+14/10/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 2 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+4/09/2024 - 1 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+4/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/09/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+25/11/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index

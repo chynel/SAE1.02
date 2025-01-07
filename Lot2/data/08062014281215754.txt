@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    08062014281215754
+
+CIVILITE         Mme
+NOM              HUBY
+PRENOM           LOUISE
+DATE_NAISSANCE   2006_06_23
+TELEPHONE_FIXE   0221900863
+TELEPHONE_MOBILE 0789724423
+EMAIL            louise.huby@wanadoo.fr
+
+VOIE             43 RUE GIOVANNI DA VERRAZANO
+CODE_POSTAL      22290
+COMMUNE          LANLEFF
+
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/09/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+08/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+04/11/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/11/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 1 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+04/11/2024 - 3 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+02/10/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+18/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+14/10/2024 - 3 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+08/11/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+12/11/2024 - 4 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+12/11/2024 - 5 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+14/10/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+4/09/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+12/11/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 3 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+04/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 4 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+25/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+08/11/2024 - 5 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+12/11/2024 - 1 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+25/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+08/11/2024 - 5 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+18/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print

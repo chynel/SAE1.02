@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    14102016277873395
+
+CIVILITE         Mme
+NOM              MESQUITA
+PRENOM           AH
+DATE_NAISSANCE   2005_12_28
+TELEPHONE_FIXE   0587393347
+TELEPHONE_MOBILE 0770697297
+EMAIL            ah.mesquita@live.fr
+
+VOIE             103 RUE MAURICE AYDALOT
+CODE_POSTAL      87260
+COMMUNE          SAINT-BONNET-BRIANCE
+
+14/10/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+04/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+08/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+02/12/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 1 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+12/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/10/2024 - 1 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/09/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/10/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+4/09/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+08/11/2024 - 5 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/12/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+18/11/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+04/11/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+25/11/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+4/09/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+02/12/2024 - 3 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+02/12/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 4 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+04/11/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+04/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+4/09/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/12/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/11/2024 - 1 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+14/10/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 2 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+4/09/2024 - 3 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+02/10/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+14/10/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+12/11/2024 - 3 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally

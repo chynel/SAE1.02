@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    23062015338166618
+
+CIVILITE         Mme
+NOM              LUCET
+PRENOM           FATIMAH
+DATE_NAISSANCE   2005_02_23
+TELEPHONE_FIXE   0561586425
+TELEPHONE_MOBILE 0687138224
+EMAIL            fatimah.sylvie@gmail.com
+
+VOIE             50 RUE DES FONTAINES
+CODE_POSTAL      09460
+COMMUNE          LE PLA
+
+18/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+12/11/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+14/10/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/10/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 3 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+04/11/2024 - 5 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+04/11/2024 - 3 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+25/11/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+4/09/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+08/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/11/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+08/11/2024 - 5 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+4/09/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 2 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/09/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 2 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+25/09/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with

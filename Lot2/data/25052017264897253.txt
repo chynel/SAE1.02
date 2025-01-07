@@ -1,0 +1,45 @@
+NUMERO_ETUDIANT    25052017264897253
+
+CIVILITE         M.
+NOM              BUFFET
+PRENOM           BRAS
+DATE_NAISSANCE   2005_03_16
+TELEPHONE_FIXE   0255717655
+TELEPHONE_MOBILE 0662668086
+EMAIL            buffet.bras@gmail.com
+
+VOIE             68 RUE LOUIS VOILMY
+CODE_POSTAL      85700
+COMMUNE          SAINT-MESMIN
+
+12/11/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+08/11/2024 - 5 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+12/11/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+4/09/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+12/11/2024 - 3 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+14/10/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+12/11/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+12/11/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/11/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+18/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 3 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+14/10/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 4 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+25/11/2024 - 5 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+08/11/2024 - 1 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+18/11/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+08/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/09/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+04/11/2024 - 2 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/12/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+18/11/2024 - 1 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+08/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses

@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    17022012278856445
+
+CIVILITE         Mme
+NOM              MEURISSE
+PRENOM           AN
+DATE_NAISSANCE   2005_08_11
+TELEPHONE_FIXE   0367666170
+TELEPHONE_MOBILE 0755330513
+EMAIL            an.meurisse@gmail.com
+
+VOIE             43 AVENUE DU DOCTEUR BROUARDEL
+CODE_POSTAL      68320
+COMMUNE          WIDENSOLEN
+
+18/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+12/11/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+14/10/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+04/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+14/10/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/10/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+18/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+12/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+08/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+08/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 1 - SyntaxError - expected ':' - ajouter :
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 2 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/11/2024 - 2 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+08/11/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+04/11/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/10/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 1 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/10/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs

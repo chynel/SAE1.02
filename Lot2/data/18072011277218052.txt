@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    18072011277218052
+
+CIVILITE         Mme
+NOM              MERMET
+PRENOM           ROSE
+DATE_NAISSANCE   2005_11_24
+TELEPHONE_FIXE   0352819263
+TELEPHONE_MOBILE 0601782899
+EMAIL            rose.mermet2475@wanadoo.fr
+
+VOIE             129 RUE CENTRALE
+CODE_POSTAL      52000
+COMMUNE          TREIX
+
+ERRUEUR_RENCONTREE      2024_10_09      1    REF_BAN_32
+ERRUEUR_RENCONTREE      2024_09_16      2    REF_BOX_3
+ERRUEUR_RENCONTREE      2024_11_18      2    REF_FOO_18
+ERRUEUR_RENCONTREE      2024_09_25      3    REF_FOO_132
+ERRUEUR_RENCONTREE      2024_11_25      6    REF_HAL_38
+ERRUEUR_RENCONTREE      2024_10_02      4    REF_HAL_64
+ERRUEUR_RENCONTREE      2024_10_14      7    REF_HAL_44
+ERRUEUR_RENCONTREE      2024_11_08      5    REF_FOO_31
+ERRUEUR_RENCONTREE      2024_11_04      5    REF_BAN_24
+ERRUEUR_RENCONTREE      2021_04_03      8    REF_HAL_25
+4/09/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+4/09/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 4 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+12/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 2 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+12/11/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+04/11/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+02/10/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 1 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/09/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+14/10/2024 - 1 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+08/11/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+14/10/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/12/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse

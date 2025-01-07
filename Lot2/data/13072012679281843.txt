@@ -1,0 +1,44 @@
+NUMERO_ETUDIANT    13072012679281843
+
+CIVILITE         Mme
+NOM              SCHWEITZER
+PRENOM           AGATHE
+DATE_NAISSANCE   2007_12_23
+TELEPHONE_FIXE   0540660774
+TELEPHONE_MOBILE 0729136229
+EMAIL            schweitzer.agathe@wanadoo.fr
+
+VOIE             59 CHEMIN ROUGET
+CODE_POSTAL      64260
+COMMUNE          BUZY
+
+25/09/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+04/11/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 3 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+02/12/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/09/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+14/10/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/11/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 4 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+08/11/2024 - 3 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+4/09/2024 - 3 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+08/11/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+02/12/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+4/09/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+04/11/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+12/11/2024 - 2 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+4/09/2024 - 4 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+4/09/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 2 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser

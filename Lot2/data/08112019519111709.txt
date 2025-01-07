@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    08112019519111709
+
+CIVILITE         M.
+NOM              ESTIENNE
+PRENOM           JAVIER
+DATE_NAISSANCE   2006_06_26
+TELEPHONE_FIXE   0355062003
+TELEPHONE_MOBILE 0735116406
+EMAIL            javier.estienne3881@laposte.net
+
+VOIE             32 RUE PAUL BERT
+CODE_POSTAL      55160
+COMMUNE          SAINT-REMY-LA-CALONNE
+
+04/11/2024 - 2 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+02/12/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+4/09/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+25/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/09/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+25/11/2024 - 4 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+08/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+08/11/2024 - 5 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+4/09/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+08/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse

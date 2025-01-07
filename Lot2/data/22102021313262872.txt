@@ -1,0 +1,35 @@
+NUMERO_ETUDIANT    22102021313262872
+
+CIVILITE         Mme
+NOM              ALEX
+PRENOM           BLANCHE
+DATE_NAISSANCE   2006_02_07
+TELEPHONE_FIXE   0540005515
+TELEPHONE_MOBILE 0652960063
+EMAIL            alex.blanche2449@gmail.com
+
+VOIE             91 RUE DU PORT
+CODE_POSTAL      24800
+COMMUNE          SAINT-PIERRE-DE-CÔLE
+
+14/10/2024 - 4 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+08/11/2024 - 5 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+18/11/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+08/11/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+18/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/12/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/11/2024 - 4 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/12/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 3 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+08/11/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+04/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+14/10/2024 - 2 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+12/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+4/09/2024 - 2 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+4/09/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try

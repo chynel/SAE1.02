@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    10032018324272944
+
+CIVILITE         M.
+NOM              DUARTE
+PRENOM           FRANC
+DATE_NAISSANCE   2006_08_24
+TELEPHONE_FIXE   0449670708
+TELEPHONE_MOBILE 0658228285
+EMAIL            franc.duarte@orange.fr
+
+VOIE             106 IMPASSE DE LA GARE
+CODE_POSTAL      30440
+COMMUNE          SUMÈNE
+
+04/11/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/10/2024 - 4 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+12/11/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/11/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/12/2024 - 2 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/10/2024 - 1 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+08/11/2024 - 2 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+02/12/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'

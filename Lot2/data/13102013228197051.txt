@@ -1,0 +1,45 @@
+NUMERO_ETUDIANT    13102013228197051
+
+CIVILITE         Mme
+NOM              CORON
+PRENOM           ROSE
+DATE_NAISSANCE   2006_10_18
+TELEPHONE_FIXE   0277680778
+TELEPHONE_MOBILE 0623089862
+EMAIL            coron.rose4893@wanadoo.fr
+
+VOIE             93 IMPASSE DE LA PETITE BRUYERE
+CODE_POSTAL      76520
+COMMUNE          FRESNE-LE-PLAN
+
+25/09/2024 - 3 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+04/11/2024 - 5 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/10/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+08/11/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+12/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+12/11/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+08/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/10/2024 - 3 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/12/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+02/10/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+04/11/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+14/10/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+18/11/2024 - 1 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+18/11/2024 - 1 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+18/11/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+25/09/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+4/09/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+25/09/2024 - 3 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/09/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/10/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+14/10/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/10/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+4/09/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+18/11/2024 - 4 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/12/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+4/09/2024 - 3 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations

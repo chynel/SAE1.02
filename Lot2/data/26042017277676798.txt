@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    26042017277676798
+
+CIVILITE         M.
+NOM              MIQUET
+PRENOM           AMOUR
+DATE_NAISSANCE   2007_10_05
+TELEPHONE_FIXE   0389395305
+TELEPHONE_MOBILE 0714022550
+EMAIL            amour@miquet.me
+
+VOIE             39 RUE LEONTINE VIBERT
+CODE_POSTAL      68130
+COMMUNE          HAUSGAUEN
+
+04/11/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/09/2024 - 2 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+08/11/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+04/11/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/12/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/10/2024 - 1 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/11/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/09/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+14/10/2024 - 4 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+08/11/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+14/10/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/11/2024 - 2 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/09/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+4/09/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+12/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+18/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+18/11/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/11/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+14/10/2024 - 1 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+4/09/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split

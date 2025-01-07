@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    26022018601097314
+
+CIVILITE         Mme
+NOM              MOUTAMA
+PRENOM           PATRICIA
+DATE_NAISSANCE   2006_12_08
+TELEPHONE_FIXE   0375472883
+TELEPHONE_MOBILE 0650082135
+EMAIL            moutama.patricia@gmail.com
+
+VOIE             24 PLACE DE L EGLISE
+CODE_POSTAL      60128
+COMMUNE          PLAILLY
+
+02/10/2024 - 3 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+02/10/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+08/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 1 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+08/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/12/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+12/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/10/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+02/10/2024 - 1 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+04/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+4/09/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions

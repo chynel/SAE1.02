@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    11052016383386499
+
+CIVILITE         Mme
+NOM              GERAULT
+PRENOM           MARIE
+DATE_NAISSANCE   2006_12_12
+TELEPHONE_FIXE   0358166176
+TELEPHONE_MOBILE 0765718364
+EMAIL            marie.gerault@gmail.com
+
+VOIE             93 RUE DE L EGLISE
+CODE_POSTAL      89190
+COMMUNE          LES CLÉRIMOIS
+
+02/12/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/12/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/10/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+18/11/2024 - 2 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+02/12/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 1 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+14/10/2024 - 3 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+4/09/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+4/09/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+4/09/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/10/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/10/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation
+02/10/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+25/11/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/12/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/09/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/12/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+12/11/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/12/2024 - 1 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+14/10/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+18/11/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+4/09/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+12/11/2024 - 2 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+12/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+02/10/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser

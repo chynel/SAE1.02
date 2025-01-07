@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    10092014528614435
+
+CIVILITE         Mme
+NOM              LOIZEAU
+PRENOM           SOLANGE
+DATE_NAISSANCE   2006_11_20
+TELEPHONE_FIXE   0390251808
+TELEPHONE_MOBILE 0683222562
+EMAIL            loizeau.solange3233@orange.fr
+
+VOIE             7 RUE DE LISBONNE
+CODE_POSTAL      67117
+COMMUNE          FURDENHEIM
+
+02/10/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 4 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+04/11/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+12/11/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+25/09/2024 - 3 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+4/09/2024 - 4 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+4/09/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 3 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+08/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/12/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/12/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+18/11/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 4 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/12/2024 - 2 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+14/10/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+18/11/2024 - 5 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+14/10/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+14/10/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 2 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+08/11/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+14/10/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+4/09/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/09/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/10/2024 - 3 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+04/11/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+02/10/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+04/11/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 5 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+4/09/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/11/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/10/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit

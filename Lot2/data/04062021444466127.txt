@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    04062021444466127
+
+CIVILITE         M.
+NOM              BROCHET
+PRENOM           PIERRE
+DATE_NAISSANCE   2006_04_12
+TELEPHONE_FIXE   0474246402
+TELEPHONE_MOBILE 0643055285
+EMAIL            pierre.brochet8817@free.fr
+
+VOIE             9 IMPASSE DU PONT GRAVIERE
+CODE_POSTAL      38350
+COMMUNE          PONSONNAS
+
+02/10/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+08/11/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+12/11/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 4 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+12/11/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+12/11/2024 - 2 - FileNotFoundError - No such file or directory: 'logs.txt' - vérifier si le fichier a été supprimé ou déplacé
+18/11/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+04/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 4 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+02/12/2024 - 2 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+18/11/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/11/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+04/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/12/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+18/11/2024 - 3 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+08/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 4 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+04/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 4 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+12/11/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/10/2024 - 3 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes

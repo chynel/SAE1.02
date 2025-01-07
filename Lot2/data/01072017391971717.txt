@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    01072017391971717
+
+CIVILITE         Mme
+NOM              VILLOT
+PRENOM           AGATHE
+DATE_NAISSANCE   2005_04_23
+TELEPHONE_FIXE   0519477536
+TELEPHONE_MOBILE 0604585276
+EMAIL            agathe.villot1422@free.fr
+
+VOIE             69 RUE LUCIEN TRIAUD
+CODE_POSTAL      87400
+COMMUNE          SAINT-MARTIN-TERRESSUS
+
+25/09/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+4/09/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+14/10/2024 - 1 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 1 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 1 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+25/09/2024 - 4 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+25/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/11/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+14/10/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+14/10/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/11/2024 - 5 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+25/11/2024 - 5 - SyntaxError - unexpected indent - corriger l'indentation
+14/10/2024 - 4 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while

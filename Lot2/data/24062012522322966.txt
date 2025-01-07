@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    24062012522322966
+
+CIVILITE         Mme
+NOM              BOURSIER
+PRENOM           AGATHE
+DATE_NAISSANCE   2007_08_16
+TELEPHONE_FIXE   0456108566
+TELEPHONE_MOBILE 0727080066
+EMAIL            agathe.boursier1820@laposte.net
+
+VOIE             19 RUE LOUIS BARTHOU
+CODE_POSTAL      74500
+COMMUNE          CHAMPANGES
+
+14/10/2024 - 5 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+08/11/2024 - 2 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+04/11/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+18/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+14/10/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+12/11/2024 - 5 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/12/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+4/09/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+08/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+08/11/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs

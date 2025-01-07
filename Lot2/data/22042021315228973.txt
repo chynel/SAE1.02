@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    22042021315228973
+
+CIVILITE         M.
+NOM              CAPEL
+PRENOM           JULIEN
+DATE_NAISSANCE   2005_05_13
+TELEPHONE_FIXE   0582360518
+TELEPHONE_MOBILE 0632071443
+EMAIL            julien.capel818@gmail.com
+
+VOIE             23 RUE DU FOND THORE
+CODE_POSTAL      09800
+COMMUNE          SALSEIN
+
+12/11/2024 - 2 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+04/11/2024 - 5 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+4/09/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+4/09/2024 - 4 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+25/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/11/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+04/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/09/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+4/09/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+14/10/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/12/2024 - 1 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+4/09/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression

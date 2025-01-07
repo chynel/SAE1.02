@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    28092016400360348
+
+CIVILITE         Mme
+NOM              MORISOT
+PRENOM           MARIE
+DATE_NAISSANCE   2005_10_23
+TELEPHONE_FIXE   0481384030
+TELEPHONE_MOBILE 0786267962
+EMAIL            marie.morisot638@free.fr
+
+VOIE             54 PLACE DE LA MAIRIE
+CODE_POSTAL      07200
+COMMUNE          SAINT-JULIEN-DU-SERRE
+
+02/10/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+04/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/10/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+4/09/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+12/11/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+14/10/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+02/10/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+25/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+4/09/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+25/09/2024 - 4 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+4/09/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+4/09/2024 - 2 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+04/11/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+02/12/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 3 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer

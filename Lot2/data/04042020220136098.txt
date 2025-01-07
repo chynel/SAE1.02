@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    04042020220136098
+
+CIVILITE         Mme
+NOM              DAUMONT
+PRENOM           AH
+DATE_NAISSANCE   2005_03_20
+TELEPHONE_FIXE   0517564701
+TELEPHONE_MOBILE 0643654166
+EMAIL            daumont.ah9576@gmail.com
+
+VOIE             12 RUE DU CHAMP VENEAU
+CODE_POSTAL      17270
+COMMUNE          BORESSE-ET-MARTRON
+
+02/10/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+12/11/2024 - 3 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/09/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/12/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/10/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/09/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/09/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

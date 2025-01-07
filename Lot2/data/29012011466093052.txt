@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    29012011466093052
+
+CIVILITE         Mme
+NOM              DEPUYDT
+PRENOM           URSULA
+DATE_NAISSANCE   2005_04_08
+TELEPHONE_FIXE   0363786163
+TELEPHONE_MOBILE 0755357257
+EMAIL            ursula.depuydt@laposte.net
+
+VOIE             50 RUE DU 11 NOVEMBRE 1918
+CODE_POSTAL      25770
+COMMUNE          SERRE-LES-SAPINS
+
+02/12/2024  4 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+14/10/2024 - 3 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+04/11/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+02/10/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+08/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+14/10/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+08/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire

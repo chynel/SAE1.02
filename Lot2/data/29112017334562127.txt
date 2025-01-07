@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    29112017334562127
+
+CIVILITE         M.
+NOM              MASSON
+PRENOM           ROMAN
+DATE_NAISSANCE   2005_07_27
+TELEPHONE_FIXE   0531107761
+TELEPHONE_MOBILE 0705004910
+EMAIL            roman.masson5657@orange.fr
+
+VOIE             10 CHEMIN DU PANORAMA
+CODE_POSTAL      81200
+COMMUNE          MAZAMET
+
+02/12/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 4 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+12/11/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/12/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+04/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+14/10/2024 - 1 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+02/10/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+12/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/10/2024 - 5 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+12/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive

@@ -1,0 +1,34 @@
+NUMERO_ETUDIANT    2005202076743037
+
+CIVILITE         Mme
+NOM              KUS
+PRENOM           AH
+DATE_NAISSANCE   2007_05_25
+TELEPHONE_FIXE   0375059422
+TELEPHONE_MOBILE 0683781793
+EMAIL            ah.kus4230@free.fr
+
+VOIE             9 RUE 7EME ARMEE AMERICAINE
+CODE_POSTAL      80140
+COMMUNE          SAINT-MAXENT
+
+4/09/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+08/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/11/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 4 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+04/11/2024 - 5 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/10/2024 - 5 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+25/11/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+04/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 4 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+4/09/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+04/11/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 4 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+08/11/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+08/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 2 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+25/09/2024 - 3 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément

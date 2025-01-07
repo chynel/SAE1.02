@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    02032010381682553
+
+CIVILITE         Mme
+NOM              MILLIEN
+PRENOM           MARIE
+DATE_NAISSANCE   2005_04_15
+TELEPHONE_FIXE   0536284748
+TELEPHONE_MOBILE 0616169815
+EMAIL            marie.millien9520@orange.fr
+
+VOIE             127 CHEMIN DU TOURNIQUET
+CODE_POSTAL      65190
+COMMUNE          LHEZ
+
+08/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/12/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+18/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/09/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+04/11/2024 - 5 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+25/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+12/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/09/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+12/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+04/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/12/2024 - 2 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+02/12/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/09/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+08/11/2024 - 1 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/09/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 5 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+08/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+4/09/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+08/11/2024 - 5 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+08/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+4/09/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/10/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/09/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant

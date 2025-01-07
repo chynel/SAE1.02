@@ -1,0 +1,37 @@
+NUMERO_ETUDIANT    10072017589038684
+
+CIVILITE         Mme
+NOM              FURLAN
+PRENOM           CATHERINE
+DATE_NAISSANCE   2006_06_11
+TELEPHONE_FIXE   0344485211
+TELEPHONE_MOBILE 0798417347
+EMAIL            furlan.catherine4983@gmail.com
+
+VOIE             99 RUE JEAN JAURES
+CODE_POSTAL      60650
+COMMUNE          ESPAUBOURG
+
+04/11/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+08/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/09/2024 - 2 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+14/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+4/09/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+4/09/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/09/2024 - 2 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+04/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+08/11/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 1 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+02/12/2024 - 1 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+04/11/2024 - 1 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+12/11/2024 - 1 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+02/10/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+08/11/2024 - 3 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+02/12/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+04/11/2024 - 5 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while

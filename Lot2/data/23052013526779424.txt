@@ -1,0 +1,45 @@
+NUMERO_ETUDIANT    23052013526779424
+
+CIVILITE         Mme
+NOM              VEZIN
+PRENOM           CATHERINE
+DATE_NAISSANCE   2006_04_10
+TELEPHONE_FIXE   0482866131
+TELEPHONE_MOBILE 0667941649
+EMAIL            catherine.vezin4049@gmail.com
+
+VOIE             19 RUE BERNARD GUILLARD
+CODE_POSTAL      01580
+COMMUNE          IZERNORE
+
+ERRUEUR_RENCONTREE      2024_11_25      2    REF_TEN_2
+ERRUEUR_RENCONTREE      2024_11_18      5    REF_BAN_31
+ERRUEUR_RENCONTREE      2024_10_14      3    REF_HAL_62
+ERRUEUR_RENCONTREE      2024_12_02      4    REF_HAL_55
+ERRUEUR_RENCONTREE      2024_09_16      1    REF_RAM_22
+ERRUEUR_RENCONTREE      2024_10_02      2    REF_RAM_36
+ERRUEUR_RENCONTREE      2024_11_08      5    REF_FOO_159
+ERRUEUR_RENCONTREE      2024_10_09      3    REF_FOO_146
+ERRUEUR_RENCONTREE      2024_11_04      4    REF_RAM_75
+ERRUEUR_RENCONTREE      2019_07_23      2    REF_FOO_41
+ERRUEUR_RENCONTREE      2020_08_04      3    REF_TEN_10
+ERRUEUR_RENCONTREE      2021_09_23      3    REF_FOO_12
+4/09/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+08/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+18/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+12/11/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+04/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/10/2024 - 3 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+25/09/2024 - 3 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+18/11/2024 - 3 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+12/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 2 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+25/09/2024 - 3 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+08/11/2024 - 2 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+08/11/2024 - 3 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except

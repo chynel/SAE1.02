@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    20012016326894402
+
+CIVILITE         M.
+NOM              GRASSER
+PRENOM           HANS
+DATE_NAISSANCE   2007_08_07
+TELEPHONE_FIXE   0354880899
+TELEPHONE_MOBILE 0717271692
+EMAIL            grasser.hans@free.fr
+
+VOIE             98 ROUTE DE LAURET
+CODE_POSTAL      54160
+COMMUNE          AUTREY
+
+02/12/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 2 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+02/10/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+14/10/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+02/12/2024 - 5 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+4/09/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+08/11/2024 - 1 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 2 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+18/11/2024 - 3 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+18/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+25/09/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+14/10/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/10/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+04/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+18/11/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+02/10/2024 - 3 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+02/12/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+08/11/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+14/10/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+4/09/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant

@@ -1,0 +1,53 @@
+NUMERO_ETUDIANT    21032014344785762
+
+CIVILITE         M.
+NOM              ZOUBIR
+PRENOM           SIMON
+DATE_NAISSANCE   2006_03_12
+TELEPHONE_FIXE   0587032959
+TELEPHONE_MOBILE 0737338231
+EMAIL            simon.zoubir5199@gmail.com
+
+VOIE             48 BOULEVARD L EGLISE
+CODE_POSTAL      23130
+COMMUNE          ISSOUDUN-LÉTRIEIX
+
+02/10/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+08/11/2024 - 3 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+25/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+4/09/2024 - 1 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/09/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/11/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+08/11/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+14/10/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/12/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+04/11/2024 - 3 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/11/2024 - 1 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+4/09/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+08/11/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+14/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+12/11/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+25/09/2024 - 4 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+12/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+18/11/2024 - 3 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+25/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+12/11/2024 - 1 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+08/11/2024 - 5 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+04/11/2024 - 1 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+12/11/2024 - 3 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/12/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+08/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+02/12/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+02/10/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+18/11/2024 - 3 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/09/2024 - 3 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+18/11/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string

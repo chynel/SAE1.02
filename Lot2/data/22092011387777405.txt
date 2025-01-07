@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    22092011387777405
+
+CIVILITE         Mme
+NOM              VERLET
+PRENOM           AGATHE
+DATE_NAISSANCE   2005_08_18
+TELEPHONE_FIXE   0564732684
+TELEPHONE_MOBILE 0724838574
+EMAIL            agathe.verlet3524@free.fr
+
+VOIE             98 RUE JEAN JACQUES DUNOYER
+CODE_POSTAL      64120
+COMMUNE          JUXUE
+
+04/11/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/10/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+18/11/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/09/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+04/11/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+04/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+02/12/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+04/11/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 5 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+12/11/2024 - 2 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+02/12/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+14/10/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+04/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/12/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/09/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+04/11/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+25/09/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/09/2024 - 2 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations

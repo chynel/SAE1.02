@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    05032021736232673
+
+CIVILITE         Mme
+NOM              ALBERTINI
+PRENOM           FRANCINE
+DATE_NAISSANCE   2006_10_16
+TELEPHONE_FIXE   0366720607
+TELEPHONE_MOBILE 0602818164
+EMAIL            albertini.francine3496@free.fr
+
+VOIE             100 RUE MAURICE BERTEAUX
+CODE_POSTAL      62182
+COMMUNE          RIENCOURT-LÈS-CAGNICOURT
+
+12/11/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+12/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+18/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+12/11/2024 - 4 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+02/10/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+08/11/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/11/2024 - 5 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+18/11/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+14/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 5 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+02/12/2024 - 3 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/12/2024 - 3 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+02/12/2024 - 1 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+18/11/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+18/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 4 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire

@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    30112020643761309
+
+CIVILITE         M.
+NOM              DEBAILLEUL
+PRENOM           JOSEPH
+DATE_NAISSANCE   2005_03_18
+TELEPHONE_FIXE   0188003907
+TELEPHONE_MOBILE 0663807592
+EMAIL            joseph.debailleul@orange.fr
+
+VOIE             11 RUE PAUL PAINLEVE
+CODE_POSTAL      77400
+COMMUNE          LAGNY-SUR-MARNE
+
+02/12/2024 - 3 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+14/10/2024 - 5 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+08/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+18/11/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+02/12/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+14/10/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+25/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+18/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+4/09/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+04/11/2024 - 1 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+12/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+12/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+25/09/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+18/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+08/11/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True

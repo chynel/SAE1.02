@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    13122012283247358
+
+CIVILITE         Mme
+NOM              OUTIN
+PRENOM           MARIE
+DATE_NAISSANCE   2007_08_18
+TELEPHONE_FIXE   0361279413
+TELEPHONE_MOBILE 0616967488
+EMAIL            marie.outin6708@free.fr
+
+VOIE             1 ROUTE D'AMBAZAC
+CODE_POSTAL      59330
+COMMUNE          LIMONT-FONTAINE
+
+25/09/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/12/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/11/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/10/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 4 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+04/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/12/2024 - 3 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+18/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+08/11/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+4/09/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/09/2024 - 5 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 5 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu
+25/11/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+04/11/2024 - 3 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+25/11/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/10/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/10/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/09/2024 - 1 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+08/11/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+12/11/2024 - 1 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+18/11/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+25/11/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

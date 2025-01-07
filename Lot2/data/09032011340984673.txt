@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    09032011340984673
+
+CIVILITE         M.
+NOM              DUSSOL
+PRENOM           SIMON
+DATE_NAISSANCE   2006_08_24
+TELEPHONE_FIXE   0246519932
+TELEPHONE_MOBILE 0710160462
+EMAIL            dussol.simon@laposte.net
+
+VOIE             39 RUE DE L'ECOLE
+CODE_POSTAL      37530
+COMMUNE          LIMERAY
+
+02/12/2024 - 2 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+25/09/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+02/10/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+18/11/2024 - 2 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/10/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+04/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+12/11/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 3 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+25/09/2024 - 3 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+04/11/2024 - 5 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+14/10/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+18/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/09/2024 - 5 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+08/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/12/2024 - 3 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+25/11/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+4/09/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+04/11/2024 - 4 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+18/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+14/10/2024 - 1 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+18/11/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 5 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+12/11/2024 - 3 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+18/11/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+25/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+18/11/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 2 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+18/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s

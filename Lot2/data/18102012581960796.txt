@@ -1,0 +1,49 @@
+NUMERO_ETUDIANT    18102012581960796
+
+CIVILITE         M.
+NOM              RICAUD
+PRENOM           PHILIBERT
+DATE_NAISSANCE   2006_03_19
+TELEPHONE_FIXE   0480492419
+TELEPHONE_MOBILE 0724576785
+EMAIL            philibert.ricaud9449@free.fr
+
+VOIE             143 CHEMIN DE SOUILHANELS
+CODE_POSTAL      38470
+COMMUNE          QUINCIEU
+
+25/09/2024 - 2 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+08/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+04/11/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+14/10/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 3 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+02/10/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+14/10/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/11/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+25/11/2024 - 4 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+14/10/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+4/09/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+02/10/2024 - 3 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/11/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+02/10/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+14/10/2024 - 4 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+25/09/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/09/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+02/12/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+4/09/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+18/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+18/11/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/09/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+12/11/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+4/09/2024 - 5 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+04/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/10/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/10/2024 - 2 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+14/10/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire

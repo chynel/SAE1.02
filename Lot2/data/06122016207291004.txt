@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    06122016207291004
+
+CIVILITE         Mme
+NOM              ADELINE
+PRENOM           AH
+DATE_NAISSANCE   2006_02_01
+TELEPHONE_FIXE   0535969056
+TELEPHONE_MOBILE 0715408465
+EMAIL            ah.adeline766@sfr.fr
+
+VOIE             41 CHEMIN DE LA DUNEVESSE
+CODE_POSTAL      33540
+COMMUNE          CLEYRAC
+
+02/10/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+04/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+12/11/2024 - 1 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+08/11/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 1 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+12/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/10/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+08/11/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+12/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/09/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+18/11/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+04/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+18/11/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+08/11/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+18/11/2024 - 4 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop

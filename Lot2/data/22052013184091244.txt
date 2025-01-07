@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    22052013184091244
+
+CIVILITE         Mme
+NOM              LORCY
+PRENOM           SAN
+DATE_NAISSANCE   2006_06_10
+TELEPHONE_FIXE   0255177780
+TELEPHONE_MOBILE 0772866434
+EMAIL            san.lorcy5820@wanadoo.fr
+
+VOIE             68 CHEMIN DE CHAMP CHAILLOT
+CODE_POSTAL      53390
+COMMUNE          SAINT-ERBLON
+
+14/10/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+14/10/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+04/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+4/09/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser

@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    07062020535692350
+
+CIVILITE         M.
+NOM              THIRIOT
+PRENOM           OLIVIER
+DATE_NAISSANCE   2005_01_02
+TELEPHONE_FIXE   0279280704
+TELEPHONE_MOBILE 0639538084
+EMAIL            olivier.thiriot574@orange.fr
+
+VOIE             34 CHEMIN DES BUISSONS
+CODE_POSTAL      27470
+COMMUNE          SERQUIGNY
+
+02/12/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 2 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+02/12/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+18/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+12/11/2024 - 4 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+14/10/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+4/09/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+02/12/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+4/09/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+12/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/10/2024 - 1 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+4/09/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 3 - TypeError - 'function' object is not subscriptable - enlever []
+02/12/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/10/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+14/10/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 1 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+08/11/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+08/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+25/09/2024 - 1 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+14/10/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+04/11/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+4/09/2024 - 1 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+14/10/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+04/11/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 4 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+14/10/2024 - 3 - SyntaxError - expected ':' - ajouter :

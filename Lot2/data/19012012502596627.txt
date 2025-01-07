@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    19012012502596627
+
+CIVILITE         Mme
+NOM              LABIT
+PRENOM           CHARLOTTE
+DATE_NAISSANCE   2006_12_18
+TELEPHONE_FIXE   0214969395
+TELEPHONE_MOBILE 0738247870
+EMAIL            charlotte.labit9909@wanadoo.fr
+
+VOIE             55 RUE DE L HORLOGE
+CODE_POSTAL      14320
+COMMUNE          SAINT-ANDRÉ-SUR-ORNE
+
+04/11/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+02/12/2024 - 4 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+18/11/2024 - 4 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 1 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+18/11/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+14/10/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+25/09/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+14/10/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+08/11/2024 - 4 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+4/09/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+18/11/2024 - 3 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+02/12/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/10/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 4 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/11/2024 - 4 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+12/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 3 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+4/09/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

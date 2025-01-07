@@ -1,0 +1,43 @@
+NUMERO_ETUDIANT    27022017370082662
+
+CIVILITE         Mme
+NOM              BECUWE
+PRENOM           AGATHE
+DATE_NAISSANCE   2006_08_27
+TELEPHONE_FIXE   0310322220
+TELEPHONE_MOBILE 0685687505
+EMAIL            becuwe.agathe2179@wanadoo.fr
+
+VOIE             102 CHEMIN DU VIEUX CIMETIERE
+CODE_POSTAL      52330
+COMMUNE          JUZENNECOURT
+
+25/09/2024 - 3 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+4/09/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+12/11/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/09/2024 - 4 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 1 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+4/09/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+14/10/2024 - 3 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+18/11/2024 - 3 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+02/10/2024 - 1 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+4/09/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+14/10/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+18/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+18/11/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+12/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+08/11/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+18/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+4/09/2024 - 2 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+04/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split

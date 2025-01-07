@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    19102012589497436
+
+CIVILITE         Mme
+NOM              LAVIEVILLE
+PRENOM           MARIE
+DATE_NAISSANCE   2005_06_14
+TELEPHONE_FIXE   0373073636
+TELEPHONE_MOBILE 0671803055
+EMAIL            marie.lavieville2508@free.fr
+
+VOIE             53 ROUTE DE SAINT MELAINE
+CODE_POSTAL      58210
+COMMUNE          COURCELLES
+
+25/09/2024 - 5 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+02/12/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+4/09/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+04/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+14/10/2024 - 1 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+18/11/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 5 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+04/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+14/10/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with

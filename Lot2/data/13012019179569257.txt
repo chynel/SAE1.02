@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    13012019179569257
+
+CIVILITE         M.
+NOM              LE
+PRENOM           VICTOR
+DATE_NAISSANCE   2005_02_02
+TELEPHONE_FIXE   0444807751
+TELEPHONE_MOBILE 0687430462
+EMAIL            victor.le@orange.fr
+
+VOIE             67 RUE DE LA CATHERINETTE
+CODE_POSTAL      03190
+COMMUNE          VALLON-EN-SULLY
+
+18/11/2024 - 5 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+25/11/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/09/2024 - 5 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+12/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/12/2024 - 1 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+4/09/2024 - 3 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+04/11/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 2 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+18/11/2024 - 5 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+4/09/2024 - 4 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+14/10/2024 - 4 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+18/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 5 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/10/2024 - 4 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+12/11/2024 - 3 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+4/09/2024 - 5 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+25/11/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+25/11/2024 - 5 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else

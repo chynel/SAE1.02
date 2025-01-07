@@ -1,0 +1,34 @@
+NUMERO_ETUDIANT    15042013262800089
+
+CIVILITE         Mme
+NOM              HAN
+PRENOM           COLOMBE
+DATE_NAISSANCE   2007_11_23
+TELEPHONE_FIXE   0498194625
+TELEPHONE_MOBILE 0608955296
+EMAIL            colombe.han6987@free.fr
+
+VOIE             63 RUE D ESPAGNE
+CODE_POSTAL      83270
+COMMUNE          SAINT-CYR-SUR-MER
+
+4/09/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+08/11/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+02/10/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 3 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+04/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+14/10/2024 - 2 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+18/11/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+08/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 4 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+4/09/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+4/09/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+25/11/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser

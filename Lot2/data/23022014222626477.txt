@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    23022014222626477
+
+CIVILITE         M.
+NOM              HEITZ
+PRENOM           BRAS
+DATE_NAISSANCE   2006_04_09
+TELEPHONE_FIXE   0321433065
+TELEPHONE_MOBILE 0603764329
+EMAIL            bras.heitz9943@orange.fr
+
+VOIE             56 QUAI DE RANCE
+CODE_POSTAL      62310
+COMMUNE          TRAMECOURT
+
+02/10/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+4/09/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+12/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/09/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+4/09/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+08/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+18/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/11/2024 - 3 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/10/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/09/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+12/11/2024 - 4 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+12/11/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+4/09/2024 - 5 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+04/11/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+18/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+14/10/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+04/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 1 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/12/2024 - 4 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+08/11/2024 - 3 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+04/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+12/11/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+02/12/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+12/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+4/09/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+02/10/2024 - 3 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+25/09/2024 - 4 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+25/11/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'

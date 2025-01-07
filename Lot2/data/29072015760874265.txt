@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    29072015760874265
+
+CIVILITE         M.
+NOM              DESBROSSES
+PRENOM           LAURENT
+DATE_NAISSANCE   2007_03_22
+TELEPHONE_FIXE   0365960243
+TELEPHONE_MOBILE 0706582036
+EMAIL            laurent.desbrosses7290@wanadoo.fr
+
+VOIE             65 SQUARE PIERRE ET MARIE CURIE
+CODE_POSTAL      60190
+COMMUNE          CRESSONSACQ
+
+25/09/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+12/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+14/10/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/12/2024 - 1 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+14/10/2024 - 2 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+08/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+4/09/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule

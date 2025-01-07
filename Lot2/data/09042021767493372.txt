@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    09042021767493372
+
+CIVILITE         Mme
+NOM              FOURRIER
+PRENOM           MIRABELLE
+DATE_NAISSANCE   2006_01_09
+TELEPHONE_FIXE   0243961913
+TELEPHONE_MOBILE 0601182341
+EMAIL            fourrier.mirabellefree.fr
+
+VOIE             78 RUE DES PLATANES
+CODE_POSTAL      53300
+COMMUNE          SAINT-MARS-SUR-COLMONT
+
+ERRUEUR_RENCONTREE      2024_11_08      4    REF_VEL_14
+ERRUEUR_RENCONTREE      2024_09_16      2    REF_RAM_8
+ERRUEUR_RENCONTREE      2024_10_14      3    REF_RAM_31
+ERRUEUR_RENCONTREE      2024_11_04      1    REF_FOO_126
+ERRUEUR_RENCONTREE      2024_11_18      3    REF_BAN_15
+ERRUEUR_RENCONTREE      2024_11_25      1    REF_HAL_70
+ERRUEUR_RENCONTREE      2024_09_25      7    REF_RAM_42
+ERRUEUR_RENCONTREE      2024_12_02      4    REF_RAM_68
+25/11/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 5 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+25/11/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+18/11/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/11/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+4/09/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/10/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+04/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+25/09/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 3 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+04/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+12/11/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles

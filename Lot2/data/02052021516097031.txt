@@ -1,0 +1,31 @@
+NUMERO_ETUDIANT    02052021516097031
+
+CIVILITE         Mme
+NOM              LIONNET
+PRENOM           BLANCHE
+DATE_NAISSANCE   2005_07_18
+TELEPHONE_FIXE   0376679454
+TELEPHONE_MOBILE 0718539604
+EMAIL            blanche.lionnet@free.fr
+
+VOIE             89 RUE DES CONDAMINES
+CODE_POSTAL      62134
+COMMUNE          PRÉDEFIN
+
+12/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/12/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+04/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/09/2024 - 5 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/12/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+08/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 2 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+18/11/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+4/09/2024 - 3 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 5 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+02/10/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+18/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier

@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    19082020569115719
+
+CIVILITE         M.
+NOM              LANGLADE
+PRENOM           ANTOINE
+DATE_NAISSANCE   2006_08_10
+TELEPHONE_FIXE   0411154531
+TELEPHONE_MOBILE 0681674935
+EMAIL            antoine.langlade5425@free.fr
+
+VOIE             145 PLACE BARTHOLDI
+CODE_POSTAL      66820
+COMMUNE          FILLOLS
+
+04/11/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+08/11/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/09/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+08/11/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+02/10/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+4/09/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+08/11/2024 - 2 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+25/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 2 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+08/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+04/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+18/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+12/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/11/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+08/11/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+08/11/2024 - 4 - SyntaxError - expected ':' - ajouter :
+4/09/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+12/11/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+04/11/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 1 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+02/10/2024 - 5 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+08/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+14/10/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+12/11/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+18/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 3 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple

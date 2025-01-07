@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    17112016750519560
+
+CIVILITE         Mme
+NOM              DELCROS
+PRENOM           ANTOINETTE
+DATE_NAISSANCE   2007_08_25
+TELEPHONE_FIXE   0516787539
+TELEPHONE_MOBILE 0629855451
+EMAIL            antoinette.delcros@sfr.fr
+
+VOIE             67 CHEMIN DE CAPELLE
+CODE_POSTAL      86200
+COMMUNE          CHALAIS
+
+18/11/2024 - 4 - SyntaxError - unexpected indent - corriger l'indentation
+08/11/2024 - 4 - SyntaxError - expected ':' - ajouter :
+25/09/2024 - 4 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+25/09/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+12/11/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 4 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+18/11/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+14/10/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+4/09/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+04/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 5 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+25/11/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/10/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+08/11/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+25/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print

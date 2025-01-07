@@ -1,0 +1,34 @@
+NUMERO_ETUDIANT    23032020424805283
+
+CIVILITE         M.
+NOM              AMGHAR
+PRENOM           ACHILLE
+DATE_NAISSANCE   2007_03_08
+TELEPHONE_FIXE   0531394321
+TELEPHONE_MOBILE 0629939462
+EMAIL            amghar.achille8354@free.fr
+
+VOIE             116 RUE PASTEUR - TOURLAVILLE
+CODE_POSTAL      31620
+COMMUNE          LABASTIDE-SAINT-SERNIN
+
+02/12/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+02/10/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/10/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+12/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 4 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+18/11/2024 - 1 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+08/11/2024 - 2 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+14/10/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/12/2024 - 2 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+18/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 1 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+02/10/2024 - 4 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+18/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/09/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 2 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+4/09/2024 - 5 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+4/09/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+18/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 1 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'

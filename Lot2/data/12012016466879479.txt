@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    12012016466879479
+
+CIVILITE         M.
+NOM              ARROYO
+PRENOM           OLIVIER
+DATE_NAISSANCE   2006_07_03
+TELEPHONE_FIXE   0531961662
+TELEPHONE_MOBILE 0615574675
+EMAIL            arroyo.olivier5527@gmail.com
+
+VOIE             3 RUE JULES FERRY
+CODE_POSTAL      81470
+COMMUNE          ALGANS
+
+04/11/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 3 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+08/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 1 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+02/12/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 3 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+14/10/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/12/2024 - 5 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+4/09/2024 - 2 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type

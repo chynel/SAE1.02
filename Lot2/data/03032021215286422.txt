@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    03032021215286422
+
+CIVILITE         Mme
+NOM              AGGOUNE
+PRENOM           AN
+DATE_NAISSANCE   2005_08_25
+TELEPHONE_FIXE   0533930547
+TELEPHONE_MOBILE 0797785369
+EMAIL            an.aggoune@sfr.fr
+
+VOIE             110 RUE DU PIOLET
+CODE_POSTAL      64390
+COMMUNE          ESPIUTE
+
+02/12/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/10/2024 - 2 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+14/10/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+12/11/2024 - 5 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+12/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+12/11/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+18/11/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+14/10/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+4/09/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+18/11/2024 - 4 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/10/2024 - 1 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+18/11/2024 - 3 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+04/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 3 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+04/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+14/10/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+4/09/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+04/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 4 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/12/2024 - 3 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 5 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+25/09/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+14/10/2024 - 4 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+12/11/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+08/11/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/11/2024 - 4 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire

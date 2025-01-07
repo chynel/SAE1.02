@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    18022011314573600
+
+CIVILITE         M.
+NOM              CARRE
+PRENOM           MICHEL
+DATE_NAISSANCE   2007_09_18
+TELEPHONE_FIXE   0547288788
+TELEPHONE_MOBILE 0781795151
+EMAIL            michel.carre@orange.fr
+
+VOIE             30 AVENUE BOYAU
+CODE_POSTAL      64460
+COMMUNE          LABATUT
+
+04/11/2024 - 5 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+04/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/11/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+4/09/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+04/11/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/09/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/10/2024 - 5 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/12/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+08/11/2024 - 1 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+25/09/2024 - 4 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+04/11/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+02/12/2024 - 3 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+14/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/12/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 2 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+04/11/2024 - 1 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+14/10/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+25/09/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 2 - SyntaxError - expected ':' - ajouter :
+18/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+12/11/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+04/11/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+02/10/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+04/11/2024 - 1 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+4/09/2024 - 1 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+12/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 3 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+18/11/2024 - 1 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+02/12/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+04/11/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+25/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+18/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire

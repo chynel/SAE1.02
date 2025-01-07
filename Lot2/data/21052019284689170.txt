@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    21052019284689170
+
+CIVILITE         M.
+NOM              PRIVE
+PRENOM           JUSTE
+DATE_NAISSANCE   2005_07_10
+TELEPHONE_FIXE   0373134074
+TELEPHONE_MOBILE 0771627789
+EMAIL            prive.juste9159@sfr.fr
+
+VOIE             145 ROUTE DU BAS
+CODE_POSTAL      71960
+COMMUNE          IGÉ
+
+02/10/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+4/09/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+4/09/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+04/11/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+25/11/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+18/11/2024 - 1 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+18/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/12/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+14/10/2024 - 3 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+14/10/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+12/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+14/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+12/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/12/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+18/11/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 2 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+04/11/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+18/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 2 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+02/12/2024 - 4 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+14/10/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+18/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+12/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+08/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+12/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom

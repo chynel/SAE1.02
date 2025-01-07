@@ -1,0 +1,56 @@
+NUMERO_ETUDIANT    07052017382862214
+
+CIVILITE         Mme
+NOM              LAFOREST
+PRENOM           ELSA
+DATE_NAISSANCE   2005_07_20
+TELEPHONE_FIXE   0467423825
+TELEPHONE_MOBILE 0668003997
+EMAIL            laforest.elsa4248@free.fr
+
+VOIE             87 SENTIER DES JARDINETS
+CODE_POSTAL      30140
+COMMUNE          BAGARD
+
+ERRUEUR_RENCONTREE      2024_10_14      5    REF_RAM_26
+ERRUEUR_RENCONTREE      2024_11_04      3    REF_HAL_25
+ERRUEUR_RENCONTREE      2024_11_12      0    REF_TEN_22
+ERRUEUR_RENCONTREE      2024_11_18      4    REF_BAN_28
+ERRUEUR_RENCONTREE      2024_11_25      2    REF_BAN_32
+ERRUEUR_RENCONTREE      2024_12_02      4    REF_FOO_52
+ERRUEUR_RENCONTREE      2024_09_16      4    REF_HAL_7
+ERRUEUR_RENCONTREE      2024_10_09      4    REF_PET_13
+ERRUEUR_RENCONTREE      2024_09_25      1    REF_HAL_95
+ERRUEUR_RENCONTREE      2021_05_04      0    REF_FOO_2
+ERRUEUR_RENCONTREE      2021_07_08      0    REF_FOO_94
+ERRUEUR_RENCONTREE      2021_12_07      6    REF_FOO_150
+04/11/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/12/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 3 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+14/10/2024 - 5 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+18/11/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/10/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+12/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 4 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/10/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+4/09/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+25/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+18/11/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+18/11/2024 - 2 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+12/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+04/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+08/11/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+14/10/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+08/11/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations

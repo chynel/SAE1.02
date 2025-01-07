@@ -1,0 +1,44 @@
+NUMERO_ETUDIANT    06062011507839490
+
+CIVILITE         Mme
+NOM              BUREL
+PRENOM           GABRIELLE
+DATE_NAISSANCE   2006_09_06
+TELEPHONE_FIXE   0352745742
+TELEPHONE_MOBILE 0637854885
+EMAIL            gabrielle.burel8242@wanadoo.fr
+
+VOIE             2 RUE MAURICE GUILLEMARD
+CODE_POSTAL      52160
+COMMUNE          ARBOT
+
+12/11/2024 - 4 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+14/10/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+08/11/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/11/2024 - 3 - IndexError - list assignment index out of range - c'est un dictionnaire pas une liste, mettre les bons symboles
+12/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+08/11/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+08/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+08/11/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/12/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 1 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+14/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+12/11/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+18/11/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+18/11/2024 - 4 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+12/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 2 - SyntaxError - unexpected indent - corriger l'indentation
+12/11/2024 - 1 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+08/11/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+08/11/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser

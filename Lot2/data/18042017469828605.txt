@@ -1,0 +1,29 @@
+NUMERO_ETUDIANT    18042017469828605
+
+CIVILITE         M.
+NOM              MARTOS
+PRENOM           SYLVAIN
+DATE_NAISSANCE   2005_06_05
+TELEPHONE_FIXE   0325945811
+TELEPHONE_MOBILE 0614213330
+EMAIL            sylvain.martos7808@free.fr
+
+VOIE             126 PLACE DE L ECOLE
+CODE_POSTAL      52110
+COMMUNE          MORANCOURT
+
+04/11/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/09/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+12/11/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+4/09/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+4/09/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+08/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+14/10/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+12/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/12/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+4/09/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/12/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+18/11/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+02/10/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+08/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 3 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire

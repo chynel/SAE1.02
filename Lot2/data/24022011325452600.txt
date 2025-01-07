@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    24022011325452600
+
+CIVILITE         M.
+NOM              GONTARD
+PRENOM           BRAS
+DATE_NAISSANCE   2007_01_12
+TELEPHONE_FIXE   0353161736
+TELEPHONE_MOBILE 0748228656
+EMAIL            bras.gontard3189@gmail.com
+
+VOIE             45 CHEMIN DE LA COSSASSIERE
+CODE_POSTAL      08460
+COMMUNE          CLAVY-WARBY
+
+25/09/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+02/12/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 4 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 2 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+04/11/2024 - 3 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 3 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+08/11/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+25/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+04/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+08/11/2024 - 2 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+04/11/2024 - 3 - SyntaxError - expected ':' - ajouter :
+25/11/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation

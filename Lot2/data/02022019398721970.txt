@@ -1,0 +1,32 @@
+NUMERO_ETUDIANT    02022019398721970
+
+CIVILITE         M.
+NOM              NECTOUX
+PRENOM           JUSTE
+DATE_NAISSANCE   2007_08_02
+TELEPHONE_FIXE   0487285256
+TELEPHONE_MOBILE 0735810737
+EMAIL            nectoux.juste2802@free.fr
+
+VOIE             48 RUE DE LA GARE
+CODE_POSTAL      26150
+COMMUNE          ROMEYER
+
+14/10/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/11/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 3 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+12/11/2024 - 1 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 1 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+08/11/2024 - 3 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+02/10/2024 - 4 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 2 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+08/11/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+4/09/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 1 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+25/11/2024 - 3 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/12/2024 - 3 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+14/10/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+02/12/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+12/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==

@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    06072017318636851
+
+CIVILITE         Mme
+NOM              FARGEOT
+PRENOM           AZIZA
+DATE_NAISSANCE   2005_09_19
+TELEPHONE_FIXE   0214955831
+TELEPHONE_MOBILE 0750676848
+EMAIL            aziza.fargeot1138@free.fr
+
+VOIE             103 RUE GUSTAVE FLAUBERT
+CODE_POSTAL      50530
+COMMUNE          CHAMPEAUX
+
+14/10/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 1 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/11/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+12/11/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+12/11/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+18/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 2 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+25/09/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

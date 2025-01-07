@@ -1,0 +1,49 @@
+NUMERO_ETUDIANT    09092019587859037
+
+CIVILITE         Mme
+NOM              MASSAT
+PRENOM           CATHERINE
+DATE_NAISSANCE   2006_04_24
+TELEPHONE_FIXE   0376106007
+TELEPHONE_MOBILE 0625206613
+EMAIL            catherine.massat2887@free.fr
+
+VOIE             102 ROUTE NATIONALE N 149
+CODE_POSTAL      62810
+COMMUNE          DENIER
+
+25/11/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+14/10/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+04/11/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 3 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/10/2024 - 1 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/10/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+14/10/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+14/10/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 4 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+18/11/2024 - 5 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+14/10/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+14/10/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+02/12/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+14/10/2024 - 5 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+14/10/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+18/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/09/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/09/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+25/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+04/11/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 3 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+25/11/2024 - 5 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indentations
+08/11/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+02/10/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/10/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle

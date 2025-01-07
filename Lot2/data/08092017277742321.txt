@@ -1,0 +1,45 @@
+NUMERO_ETUDIANT    08092017277742321
+
+CIVILITE         Mme
+NOM              ROUGE
+PRENOM           MARIE
+DATE_NAISSANCE   2007_03_16
+TELEPHONE_FIXE   0411188681
+TELEPHONE_MOBILE 0665822637
+EMAIL            rouge.marie3670@sfr.fr
+
+VOIE             4 AVENUE DES BERNARDINES
+CODE_POSTAL      11140
+COMMUNE          MARSA
+
+25/09/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 2 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+12/11/2024 - 4 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+14/10/2024 - 5 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+02/12/2024 - 3 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+02/10/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+08/11/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+08/11/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+14/10/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+25/11/2024 - 2 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/09/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/11/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+12/11/2024 - 3 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+02/12/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+12/11/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/11/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+08/11/2024 - 5 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 3 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+4/09/2024 - 2 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+12/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+25/09/2024 - 5 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 3 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/12/2024 - 5 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+4/09/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append

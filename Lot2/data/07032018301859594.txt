@@ -1,0 +1,48 @@
+NUMERO_ETUDIANT    07032018301859594
+
+CIVILITE         Mme
+NOM              BALDE
+PRENOM           JEANNE
+DATE_NAISSANCE   2006_05_25
+TELEPHONE_FIXE   0434531956
+TELEPHONE_MOBILE 0788915405
+EMAIL            jeanne.balde9823@free.fr
+
+VOIE             59 RUE DU DOCTEUR DRAGACCI
+CODE_POSTAL      34160
+COMMUNE          CASTRIES
+
+12/11/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+18/11/2024 - 5 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+08/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+4/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 3 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+25/11/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+12/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+04/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/10/2024 - 4 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+4/09/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/09/2024 - 1 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+12/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/09/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/10/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+25/11/2024 - 2 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+04/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/10/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+25/11/2024 - 4 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+25/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+14/10/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/11/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/11/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 5 - NameError - name 'n' is not defined - changer la valeur

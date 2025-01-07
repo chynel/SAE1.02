@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    20022020514262048
+
+CIVILITE         M.
+NOM              KELES
+PRENOM           DOMINIQUE
+DATE_NAISSANCE   2006_04_21
+TELEPHONE_FIXE   0565544713
+TELEPHONE_MOBILE 0701008247
+EMAIL            keles.dominique3648@orange.fr
+
+VOIE             104 CHEMIN DES AMOUREUX
+CODE_POSTAL      12360
+COMMUNE          GISSAC
+
+ERRUEUR_RENCONTREE      2024_11_08      1    REF_VEL_24
+ERRUEUR_RENCONTREE      2024_12_02      1    REF_RAM_33
+ERRUEUR_RENCONTREE      2024_11_18      2    REF_BAN_32
+ERRUEUR_RENCONTREE      2024_09_16      1    REF_BAN_43
+ERRUEUR_RENCONTREE      2024_11_04      1    REF_RAM_62
+ERRUEUR_RENCONTREE      2024_10_02      5    REF_HAL_79
+ERRUEUR_RENCONTREE      2024_11_12      1    REF_FOO_96
+ERRUEUR_RENCONTREE      2024_10_14      0    REF_FOO_31
+ERRUEUR_RENCONTREE      2024_10_09      0    REF_FOO_68
+ERRUEUR_RENCONTREE      2021_10_14      3    REF_FOO_33
+25/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/11/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+14/10/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 3 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+08/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+14/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+4/09/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/12/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 4 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 4 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/09/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+12/11/2024 - 3 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+25/11/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+25/11/2024 - 4 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+4/09/2024 - 4 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+12/11/2024 - 3 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+12/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+18/11/2024 - 2 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+02/12/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+14/10/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/09/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/12/2024 - 3 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément

@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    22092017384369527
+
+CIVILITE         Mme
+NOM              JULIEN
+PRENOM           RACHEL
+DATE_NAISSANCE   2007_03_10
+TELEPHONE_FIXE   0357602481
+TELEPHONE_MOBILE 0629381676
+EMAIL            rachel.julien@orange.fr
+
+VOIE             7 RUE DE LA MONTAGNE
+CODE_POSTAL      54450
+COMMUNE          CHAZELLES-SUR-ALBE
+
+18/11/2024 - 4 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/11/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+14/10/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/12/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 1 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+12/11/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+04/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 1 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+18/11/2024 - 1 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+02/12/2024 - 1 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule

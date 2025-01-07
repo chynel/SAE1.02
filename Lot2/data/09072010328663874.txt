@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    09072010328663874
+
+CIVILITE         M.
+NOM              DOUDOU
+PRENOM           ENGIN
+DATE_NAISSANCE   2006_04_15
+TELEPHONE_FIXE   0567372969
+TELEPHONE_MOBILE 0617493584
+EMAIL            doudou.engin7643@sfr.fr
+
+VOIE             78 RUE ANTOINETTE
+CODE_POSTAL      82340
+COMMUNE          SISTELS
+
+4/09/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+08/11/2024 - 5 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+08/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 3 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+14/10/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []
+14/10/2024 - 1 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+14/10/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 5 - SyntaxError - unexpected indent - corriger l'indentation
+14/10/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+14/10/2024 - 2 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+18/11/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+25/09/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/09/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/09/2024 - 1 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+14/10/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 2 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 1 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+08/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+04/11/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+08/11/2024 - 4 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+08/11/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+14/10/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+14/10/2024 - 4 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse

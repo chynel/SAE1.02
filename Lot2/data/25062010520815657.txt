@@ -1,0 +1,31 @@
+NUMERO_ETUDIANT    25062010520815657
+
+CIVILITE         Mme
+NOM              NERON
+PRENOM           CHARLOTTE
+DATE_NAISSANCE   2007_12_04
+TELEPHONE_FIXE   0363183637
+TELEPHONE_MOBILE 0719954662
+EMAIL            neron.charlotte3408@gmail.com
+
+VOIE             15 CHEMIN CASABONNE
+CODE_POSTAL      39250
+COMMUNE          ESSERVAL-TARTRE
+
+18/11/2024 - 3 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+25/09/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+08/11/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/11/2024 - 2 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+12/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+12/11/2024 - 2 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+02/12/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 5 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 4 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+08/11/2024 - 5 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 3 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace

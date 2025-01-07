@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    05072018436863933
+
+CIVILITE         Mme
+NOM              GARDET
+PRENOM           GISELLE
+DATE_NAISSANCE   2005_03_06
+TELEPHONE_FIXE   0547934781
+TELEPHONE_MOBILE 0623574907
+EMAIL            giselle.gardet1610@sfr.fr
+
+VOIE             110 RUE DU MOULIN LA HOTTE
+CODE_POSTAL      24430
+COMMUNE          RAZAC-SUR-L'ISLE
+
+ERRUEUR_RENCONTREE      2024_12_02      7    REF_HAL_94
+ERRUEUR_RENCONTREE      2024_11_04      1    REF_FOO_117
+ERRUEUR_RENCONTREE      2024_11_25      2    REF_BOX_1
+ERRUEUR_RENCONTREE      2024_09_25      0    REF_FOO_158
+ERRUEUR_RENCONTREE      2024_11_18      1    REF_VEL_23
+ERRUEUR_RENCONTREE      2024_10_09      5    REF_TEN_20
+ERRUEUR_RENCONTREE      2024_11_12      2    REF_FOO_65
+ERRUEUR_RENCONTREE      2024_10_14      3    REF_BAN_2
+ERRUEUR_RENCONTREE      2024_11_08      2    REF_RAM_79
+ERRUEUR_RENCONTREE      2021_12_09      3    REF_FOO_13
+25/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 2 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+25/11/2024 - 4 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/09/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+04/11/2024 - 2 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 1 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+18/11/2024 - 5 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+18/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+12/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+25/09/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/12/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/10/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary

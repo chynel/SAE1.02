@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    07052017534381619
+
+CIVILITE         M.
+NOM              REUTER
+PRENOM           PHILIPPE
+DATE_NAISSANCE   2007_02_06
+TELEPHONE_FIXE   0364619500
+TELEPHONE_MOBILE 0614753878
+EMAIL            reuter.philippe@orange.fr
+
+VOIE             61 RUE HAUTE
+CODE_POSTAL      80290
+COMMUNE          CAULIÈRES
+
+18/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+25/09/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+02/10/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+4/09/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 4 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+04/11/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 4 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+14/10/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/12/2024 - 5 - IndexError - tuple index out of range - utiliser un indice valide pour accéder au tuple
+12/11/2024 - 2 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+14/10/2024 - 3 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/09/2024 - 1 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/11/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+04/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/10/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 5 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 5 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+08/11/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+04/11/2024 - 4 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/09/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+4/09/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+08/11/2024 - 1 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/11/2024 - 2 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+02/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs

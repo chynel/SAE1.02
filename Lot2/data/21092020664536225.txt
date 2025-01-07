@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    21092020664536225
+
+CIVILITE         M.
+NOM              LETELLIER
+PRENOM           FERNAND
+DATE_NAISSANCE   2007_07_14
+TELEPHONE_FIXE   0364757332
+TELEPHONE_MOBILE 0620306594
+EMAIL            fernand.letellier1474@gmail.com
+
+VOIE             59 RUE DES CAILLOIS
+CODE_POSTAL      80700
+COMMUNE          CARRÉPUIS
+
+18/11/2024 - 2 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+04/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+04/11/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+12/11/2024 - 1 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+08/11/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+18/11/2024 - 2 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+14/10/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+14/10/2024 - 1 - FileNotFoundError - No such file or directory: 'image.png' - vérifier que le fichier est dans le bon dossier
+12/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/12/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+02/10/2024 - 5 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/12/2024 - 5 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+4/09/2024 - 1 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/10/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+14/10/2024 - 4 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+25/09/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/09/2024 - 2 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+04/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+04/11/2024 - 5 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/12/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+04/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/11/2024 - 5 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 2 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+4/09/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+18/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 1 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+02/12/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+4/09/2024 - 3 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+25/09/2024 - 3 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 3 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+4/09/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+18/11/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/09/2024 - 3 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+12/11/2024 - 3 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+25/11/2024 - 5 - SyntaxError - expected ':' - ajouter :

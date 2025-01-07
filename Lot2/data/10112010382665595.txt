@@ -1,0 +1,30 @@
+NUMERO_ETUDIANT    10112010382665595
+
+CIVILITE         Mme
+NOM              APPERT
+PRENOM           CLAUDE
+DATE_NAISSANCE   2005_07_24
+TELEPHONE_FIXE   0582599318
+TELEPHONE_MOBILE 0743133412
+EMAIL            claude.appert1248@orange.fr
+
+VOIE             54 RUE DES BUANDIERS
+CODE_POSTAL      09500
+COMMUNE          VALS
+
+02/12/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 3 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/09/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/12/2024 - 5 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/09/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+08/11/2024 - 1 - SyntaxError - expected ':' - ajouter :
+18/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+08/11/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+02/10/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+14/10/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 4 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+25/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/09/2024 - 5 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux

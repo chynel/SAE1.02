@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    05062018420742040
+
+CIVILITE         Mme
+NOM              CANDAS
+PRENOM           BLANCHE
+DATE_NAISSANCE   2005_02_19
+TELEPHONE_FIXE   0444757248
+TELEPHONE_MOBILE 0755462037
+EMAIL            blanche.candas1300@gmail.com
+
+VOIE             68 CHEMIN DES MELEDES
+CODE_POSTAL      63350
+COMMUNE          MARINGUES
+
+02/10/2024 - 4 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+02/10/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+18/11/2024 - 2 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+4/09/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+04/11/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+12/11/2024 - 5 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+12/11/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/12/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 3 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+02/10/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+12/11/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+02/12/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+12/11/2024 - 1 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+4/09/2024 - 4 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+14/10/2024 - 4 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+18/11/2024 - 2 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+02/10/2024 - 3 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/09/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 3 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+18/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+04/11/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+25/09/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+25/09/2024 - 5 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+02/12/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 3 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+4/09/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule

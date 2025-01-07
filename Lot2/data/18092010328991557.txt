@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    18092010328991557
+
+CIVILITE         M.
+NOM              BRES
+PRENOM           REYNAUD
+DATE_NAISSANCE   2005_10_14
+TELEPHONE_FIXE   0458298927
+TELEPHONE_MOBILE 0609627758
+EMAIL            bres.reynaud4156@sfr.fr
+
+VOIE             97 ROUTE DE MONTOUSSIN
+CODE_POSTAL      73130
+COMMUNE          SAINT-AVRE
+
+02/12/2024 - 2 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+04/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 1 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+02/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+02/12/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+12/11/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+18/11/2024 - 3 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+04/11/2024 - 4 - SyntaxError - expected ':' - ajouter :
+12/11/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+02/12/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+25/09/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+12/11/2024 - 3 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+12/11/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/09/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+04/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 3 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+14/10/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/09/2024 - 2 - FileNotFoundError - No such file or directory: 'README.md' - ajouter un fichier README si nécessaire
+08/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+04/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+18/11/2024 - 3 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+18/11/2024 - 4 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+12/11/2024 - 1 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+12/11/2024 - 4 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'

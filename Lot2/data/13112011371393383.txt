@@ -1,0 +1,50 @@
+NUMERO_ETUDIANT    13112011371393383
+
+CIVILITE         Mme
+NOM              DEFORGE
+PRENOM           MARIA
+DATE_NAISSANCE   2006_05_23
+TELEPHONE_FIXE   0372611833
+TELEPHONE_MOBILE 0654548086
+EMAIL            deforge.maria@free.fr
+
+VOIE             139 RUE DES HERONS
+CODE_POSTAL      57340
+COMMUNE          BELLANGE
+
+12/11/2024 - 1 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+25/09/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+02/10/2024 - 5 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+08/11/2024 - 2 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/11/2024 - 2 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+08/11/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/09/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+14/10/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/12/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+04/11/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 2 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+04/11/2024 - 5 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+14/10/2024 - 4 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+04/11/2024 - 1 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+08/11/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+4/09/2024 - 1 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+04/11/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+25/11/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/09/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/12/2024 - 1 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/10/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+04/11/2024 - 4 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/09/2024 - 5 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+12/11/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+4/09/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+25/11/2024 - 4 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+02/10/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+4/09/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

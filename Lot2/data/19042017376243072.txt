@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    19042017376243072
+
+CIVILITE         M.
+NOM              SAFI
+PRENOM           BAPTISTE
+DATE_NAISSANCE   2007_11_06
+TELEPHONE_FIXE   0354208134
+TELEPHONE_MOBILE 0771913098
+EMAIL            baptiste.safi9107@sfr.fr
+
+VOIE             18 RUE DE BELLEVUE
+CODE_POSTAL      57340
+COMMUNE          MORHANGE
+
+12/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+18/11/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+12/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+04/11/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+4/09/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 1 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 5 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+02/10/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 3 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+08/11/2024 - 1 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+02/10/2024 - 5 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+14/10/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 2 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 2 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/12/2024 - 1 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+08/11/2024 - 5 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+4/09/2024 - 5 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+08/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 3 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+12/11/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+18/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 3 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+08/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append

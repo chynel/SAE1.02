@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    10092017385876880
+
+CIVILITE         M.
+NOM              BEQUET
+PRENOM           JOSEPH
+DATE_NAISSANCE   2006_12_13
+TELEPHONE_FIXE   0354208440
+TELEPHONE_MOBILE 0770555433
+EMAIL            joseph.bequet@free.fr
+
+VOIE             16 RUE VICTOR HUGO
+CODE_POSTAL      88410
+COMMUNE          CLAUDON
+
+4/09/2024 - 4 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+02/10/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+4/09/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 4 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+18/11/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+18/11/2024 - 1 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+18/11/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+08/11/2024 - 2 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+08/11/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 2 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments

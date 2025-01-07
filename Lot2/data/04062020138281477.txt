@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    04062020138281477
+
+CIVILITE         Mme
+NOM              JULIA
+PRENOM           AN
+DATE_NAISSANCE   2005_11_06
+TELEPHONE_FIXE   0554039302
+TELEPHONE_MOBILE 0749513224
+EMAIL            julia.an1733@laposte.net
+
+VOIE             1 RUE DE LA GILBERTIERE
+CODE_POSTAL      33124
+COMMUNE          BROUQUEYRAN
+
+25/11/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+4/09/2024 - 3 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+14/10/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+14/10/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+4/09/2024 - 1 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+25/09/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 4 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/11/2024 - 4 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+18/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/12/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+08/11/2024 - 1 - AttributeError - 'list' object has no attribute 'update' - remplacer update par append ou extend pour les listes
+04/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+12/11/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+08/11/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+04/11/2024 - 5 - NameError - name 'n' is not defined - changer la valeur
+02/10/2024 - 1 - IndentationError - unexpected indent in list comprehension block - corriger l'indentation dans la compréhension de liste
+18/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+08/11/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+02/10/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+18/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+02/12/2024 - 3 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+25/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 4 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+08/11/2024 - 5 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+25/09/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 4 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+14/10/2024 - 4 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+4/09/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+02/12/2024 - 4 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+12/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 4 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 5 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser

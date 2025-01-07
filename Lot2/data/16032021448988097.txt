@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    16032021448988097
+
+CIVILITE         Mme
+NOM              FOREST
+PRENOM           BLANCHE
+DATE_NAISSANCE   2006_06_21
+TELEPHONE_FIXE   0277689131
+TELEPHONE_MOBILE 0686318142
+EMAIL            blanche.forest2242@wanadoo.fr
+
+VOIE             88 RUE DES ECOLES
+CODE_POSTAL      76210
+COMMUNE          SAINT-JEAN-DE-LA-NEUVILLE
+
+25/09/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+14/10/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+4/09/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+12/11/2024 - 1 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+02/10/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+04/11/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+18/11/2024 - 3 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+08/11/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+12/11/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 3 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+12/11/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+12/11/2024 - 2 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+14/10/2024 - 5 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+18/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+02/12/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 3 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/10/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+14/10/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+08/11/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+04/11/2024 - 4 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+25/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+25/11/2024 - 1 - SyntaxError - unexpected token '=' - vérifier les affectations

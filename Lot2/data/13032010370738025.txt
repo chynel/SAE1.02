@@ -1,0 +1,55 @@
+NUMERO_ETUDIANT    13032010370738025
+
+CIVILITE         M.
+NOM              BENTAHAR
+PRENOM           MARC
+DATE_NAISSANCE   2007_01_02
+TELEPHONE_FIXE   0376965971
+TELEPHONE_MOBILE 0678269029
+EMAIL            marc.bentahar3123@free.fr
+
+VOIE             35 IMPASSE DES JARDINS
+CODE_POSTAL      62450
+COMMUNE          ROCQUIGNY
+
+ERRUEUR_RENCONTREE      2024_10_14      6    REF_HAL_98
+ERRUEUR_RENCONTREE      2024_11_12      4    REF_RAM_9
+ERRUEUR_RENCONTREE      2024_11_18      3    REF_FOO_30
+ERRUEUR_RENCONTREE      2024_10_02      0    REF_HAL_29
+ERRUEUR_RENCONTREE      2024_11_25      1    REF_RAM_58
+ERRUEUR_RENCONTREE      2024_11_04      5    REF_FOO_21
+ERRUEUR_RENCONTREE      2024_12_02      1    REF_RAM_50
+ERRUEUR_RENCONTREE      2024_10_09      3    REF_FOO_1
+ERRUEUR_RENCONTREE      2024_09_16      4    REF_VEL_30
+12/11/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+02/12/2024 - 2 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+08/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/10/2024 - 2 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+12/11/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+02/12/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+18/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/11/2024 - 5 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+4/09/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+04/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+25/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 2 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/11/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+12/11/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/09/2024 - 4 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+18/11/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/10/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+14/10/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+08/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+25/11/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+14/10/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+12/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/10/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+25/09/2024 - 2 - KeyError - KeyError: 'name' - vérifier si la clé 'name' existe dans le dictionnaire
+04/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+12/11/2024 - 3 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 2 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide

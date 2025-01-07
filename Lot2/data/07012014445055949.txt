@@ -1,0 +1,25 @@
+NUMERO_ETUDIANT    07012014445055949
+
+CIVILITE         M.
+NOM              LALOUM
+PRENOM           CHARLES
+DATE_NAISSANCE   2005_09_06
+TELEPHONE_FIXE   0351269536
+TELEPHONE_MOBILE 0714553953
+EMAIL            charles.laloum@sfr.fr
+
+VOIE             1 IMPASSE DE L'ANGE
+CODE_POSTAL      52150
+COMMUNE          HÂCOURT
+
+02/12/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/10/2024 - 2 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+25/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+04/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 2 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+14/10/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+25/09/2024 - 4 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+04/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+02/12/2024 - 3 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 2 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator

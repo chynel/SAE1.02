@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    25022018220660386
+
+CIVILITE         M.
+NOM              LECORNU
+PRENOM           AH
+DATE_NAISSANCE   2006_03_09
+TELEPHONE_FIXE   0164876551
+TELEPHONE_MOBILE 0762200097
+EMAIL            ah.lecornu9687@gmail.com
+
+VOIE             36 RUE REMORA
+CODE_POSTAL      77370
+COMMUNE          LA CROIX-EN-BRIE
+
+14/10/2024 - 4 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+25/09/2024 - 2 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+18/11/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+25/11/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 2 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+02/12/2024 - 3 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+14/10/2024 - 5 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+02/12/2024 - 1 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+08/11/2024 - 2 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+25/09/2024 - 2 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+12/11/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+18/11/2024 - 5 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+14/10/2024 - 1 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+14/10/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+12/11/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+04/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+02/12/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+25/09/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+4/09/2024 - 1 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+25/09/2024 - 4 - SyntaxError - expected ':' - ajouter :
+02/12/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 1 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+25/11/2024 - 4 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+25/11/2024 - 3 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+04/11/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+14/10/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+14/10/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent

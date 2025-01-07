@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    18012017335283030
+
+CIVILITE         M.
+NOM              BUTEZ
+PRENOM           MARTIN
+DATE_NAISSANCE   2005_10_12
+TELEPHONE_FIXE   0356007466
+TELEPHONE_MOBILE 0779914375
+EMAIL            martin.butez3683@free.fr
+
+VOIE             47 RUE ADRIEN THIBAULT
+CODE_POSTAL      57160
+COMMUNE          SCY-CHAZELLES
+
+4/09/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+08/11/2024 - 1 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+12/11/2024 - 1 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+02/10/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+08/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/09/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+08/11/2024 - 1 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+14/10/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+02/10/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+02/10/2024 - 4 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 1 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+25/09/2024 - 2 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+04/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 3 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 2 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+25/11/2024 - 4 - IndentationError - unexpected dedent (line 10) - corriger la déduction incorrecte
+04/11/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+4/09/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+02/10/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+08/11/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+02/12/2024 - 3 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+25/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/09/2024 - 4 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__

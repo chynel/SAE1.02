@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    10162012524877841
+
+CIVILITE         M.
+NOM              DAF
+PRENOM           JALAL
+DATE_NAISSANCE   2007_06_20
+TELEPHONE_FIXE   0322561235
+TELEPHONE_MOBILE 0786924582
+EMAIL            jalal.daf4@gmail.com
+
+VOIE             25 RUE DU PRE
+CODE_POSTAL      89450
+COMMUNE          THAROISEAU
+
+25/11/2024 - 3 - AttributeError - 'DictWriter' object has no attribute 'writeheaders'. Did you mean: 'writeheader'? -  ecrire writeheade
+02/12/2024 - 1 - SyntaxError - invalid syntax  wb.save ("nouveau_fichier.xlsx")s -  enlever le s
+18/11/2024 - 1 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+04/09/2024 - 1 - SyntaxError  -  unterminated string literal (detected at line 1)  -  fermer parenthèse 
+25/11/2024 - 1 - FileNotFoundError - [Errno 2] No such file or directory: 'data.csv' - créer le fichier 
+02/12/2024 - 1 - KeyError - 'Worksheet porduit does not exist.' - ecrire produit
+02/10/2024 - 1 - ZeroDivisionErro - integer division or modulo by zero -  la division par zéro est impossible
+18/11/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - ecrire ==
+08/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values -  mettre les parenthèses
+14/10/2024 - 1 - TypeError  -  'list' object cannot be interpreted as an integer  -  il faut donner une valeur à a
+04/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? -  rectifier l'orthographe
+25/09/2024 - 2 - NameError - name true is not defined. Did you mean 'True' - ecrire True
+04/11/2024 - 1 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 1 - TypeError - cannot unpack non - iterable int object   for cle, valeur1 in dict1.values() - remplacer "values" par items
+25/09/2024 - 3 - Syntaxerror - unterminated sring literal (detected at line 142, 122, 111) - fermer le sparenthèses
+18/11/2024 - 1 - SyntaxError - expected ':' -  mettre les ":"
+25/11/2024 - 1 - NameError - name 'personne' is not defined. Did you mean: 'personnes'? - ecrire personne 
+02/10/2024 - 4 - Nameerror - name "x" is not defined - remplacer le "x" par la valeur numérique 
+08/11/2024 - 1 - KeyError:1 - dict[cle]=dict1[valeur]+dict2[valeur] - mettre "valeur1" et "valeur2" à la place
+04/11/2024 - 1 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/09/2024 - 4 - Indentationerror - unident does not match any outer indentation level - rectifier les indentations
+02/10/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - écrire un valeur à l'interieur des parenthèses
+14/10/2024 - 1 - SyntaxError - invalid syntax  Perhaps you forgot a comma? - mettre une virgule
+04/09/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print 
+12/11/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule 
+18/11/2024 - 1 - IndentationError - expected an indented block after 'if' statement on line 30 - respecter les indententations
+14/10/2024 - 1 - IndexError - list assignment index out of range - mettre un indice qui n'est pas >= à la taille
+02/10/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+04/11/2024 - 1 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+08/11/2024 - 1 - NameError - name 'nom' is not defined. Did you mean: 'noms'? - écrire "noms" au lieu de "nom"
+12/11/2024 - 1 - TypeError - can only concatenate str (not "int") to str - mettre en chaine de caractere pour pouvoir concatener
+18/11/2024 - 1 - NameError - name 'qtr' is not defined. Did you mean: 'str'? - ecrire "str"
+08/11/2024 - 1 - TypeError  -  unsupported operand type(s) for *: 'dict' and 'dict' dict={}*dict1  -  enlever "*dict1"
+12/11/2024 - 1 - NameError - name 's1' is not defined. Did you mean: 's'? -  ecrire s
+14/10/2024 - 1 - tupeError  - 'builtin_function_or_method' object is not subscriptable -  enlever le "len" lorsqu'on declare la variable a
+14/10/2024 - 1 - syntaxError - unmatched ')' -  enlever la parenthèse de trop
+12/11/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? -  ecrire print
+02/10/2024 - 1 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - ecrire == au lieu de =
+04/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+08/11/2024 - 1 - NameError - name 'Alice' is not defined. Did you mean: 'slice'? -  mettre des apostrophes

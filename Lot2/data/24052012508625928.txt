@@ -1,0 +1,42 @@
+NUMERO_ETUDIANT    24052012508625928
+
+CIVILITE         Mme
+NOM              CORBINEAU
+PRENOM           SARAH
+DATE_NAISSANCE   2007_11_13
+TELEPHONE_FIXE   0356926534
+TELEPHONE_MOBILE 0730012478
+EMAIL            sarah.corbineau@sfr.fr
+
+VOIE             39 RUE DU BOCAGE SAINT GEORGES
+CODE_POSTAL      57720
+COMMUNE          SCHWEYEN
+
+04/11/2024 - 2 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+04/11/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 5 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+25/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/12/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+14/10/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+18/11/2024 - 5 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/10/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+25/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+12/11/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+02/12/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+08/11/2024 - 3 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+4/09/2024 - 2 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+02/10/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/10/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+12/11/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+18/11/2024 - 3 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+25/11/2024 - 2 - FileNotFoundError - No such file or directory: '/home/user/data.csv' - vérifier les permissions ou le chemin absolu
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+12/11/2024 - 2 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/11/2024 - 3 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+04/11/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+18/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin

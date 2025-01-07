@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    19112014385549171
+
+CIVILITE         Mme
+NOM              RUCH
+PRENOM           DOMENICA
+DATE_NAISSANCE   2007_10_13
+TELEPHONE_FIXE   0375793050
+TELEPHONE_MOBILE 0705351027
+EMAIL            ruch.domenica7215@sfr.fr
+
+VOIE             105 CHEMIN LARTIGAU
+CODE_POSTAL      80700
+COMMUNE          ARMANCOURT
+
+12/11/2024 - 4 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+25/11/2024 - 3 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+25/09/2024 - 5 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+04/11/2024 - 5 - SyntaxError - unexpected indent - corriger l'indentation
+12/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+02/10/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 4 - SyntaxError - expected ':' - ajouter :
+4/09/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+25/11/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/12/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+25/09/2024 - 3 - IndexError - list index not found in enumeration - vérifier si l'indice existe dans la liste avant de l'utiliser
+04/11/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+18/11/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte

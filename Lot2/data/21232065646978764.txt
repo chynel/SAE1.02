@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    21232065646978764
+
+CIVILITE         Mme
+NOM              RIBEIRO
+PRENOM           KAT
+DATE_NAISSANCE   2006_06_08
+TELEPHONE_FIXE   0321178561
+TELEPHONE_MOBILE 0671116457
+EMAIL            kat.ribeiro@laposte.net
+
+VOIE             11 RUE DES GROSEILLES
+CODE_POSTAL      03250
+COMMUNE          SAINT-PIERRE
+
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 55) - guillemet en trop à enlever
+02/12/2024 - 1 - NameError  - name 'openyxl' is not defined. Did you mean: 'openpyxl'? - ecrire openpyxl à la place
+02/10/2024 - 1 - TypeError - unsupported operand type(s) for //: 'int' and 'str'- demander par l'exercice, on ne peut mettre de chaine de caractère seulement des valeurs entières
+25/09/2024 - 1 - SyntaxError - expected ':' - ajouter :
+14/10/2024 - 1 - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+12/11/2024 - 1 - NameError  - name 'c' is not defined. Did you mean: 'ch'? - c n'existe pas
+02/10/2024 - 1 - TypeError - div10() missing 1 required positional argument: 'x' - demander par l'exercice, valeur de la variable manquante
+04/11/2024 - 1 - RuntimeError -  Set changed size during iteration - faire une différence avec lui-même
+02/12/2024 - 1 - AttributeError -  module 'openpyxl' has no attribute 'Worbook'. Did you mean: 'Workbook'? - ecrire Workbook
+02/10/2024 - 1 - NameError - name 'a' is not defined - definir a
+25/11/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal ecrit close, rajouter un "e" à la fin
+08/11/2024 - 1 - SyntaxError - expected ':' - ajout des deux points manquants
+04/11/2024 - 1 - AttributeError -  'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le s de intersections
+08/11/2024 - 1 - IndexError - list assignment index out of range - c'est un dictionnaire pas une liste, mettre les bons symboles
+08/11/2024 - 1 - IndentationError - expected an indented block after 'for' statement on line 4 - erreur dans le nom de la clé
+14/10/2024 - 1 - IndexError - list index out of range - normal l'exercice le demande, car on demande la position 7, or ça va de 0 à 6
+25/09/2024 - 1 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - demander par l'exercice, ne pas diviser par 0
+08/11/2024 - 1 - IndentationError  - expected an indented block after 'for' statement on line 16 - ajout d'une indentation
+04/09/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 1 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/09/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse

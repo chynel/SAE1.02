@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    22092018288162587
+
+CIVILITE         M.
+NOM              PREUX
+PRENOM           SIMON
+DATE_NAISSANCE   2006_05_26
+TELEPHONE_FIXE   0382621025
+TELEPHONE_MOBILE 0731979434
+EMAIL            simon.preux4703@sfr.fr
+
+VOIE             98 RUE MARTIAL FOUBERT
+CODE_POSTAL      57390
+COMMUNE          RUSSANGE
+
+14/10/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+18/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+04/11/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+25/09/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+18/11/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+08/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+25/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 3 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses

@@ -1,0 +1,38 @@
+NUMERO_ETUDIANT    10032021324338494
+
+CIVILITE         M.
+NOM              BRIANT
+PRENOM           ROMAN
+DATE_NAISSANCE   2006_12_05
+TELEPHONE_FIXE   0411448636
+TELEPHONE_MOBILE 0795760148
+EMAIL            roman.briant7689@wanadoo.fr
+
+VOIE             35 RUE DU PAS D ANE
+CODE_POSTAL      48500
+COMMUNE          SAINT-SATURNIN
+
+14/10/2024 - 3 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/12/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+04/11/2024 - 2 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+08/11/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+08/11/2024 - 1 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+18/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 4 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+08/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+14/10/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+02/10/2024 - 5 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/11/2024 - 5 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+04/11/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+4/09/2024 - 4 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+14/10/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+4/09/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+25/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 5 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+4/09/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+02/12/2024 - 5 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 5 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+08/11/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+25/11/2024 - 2 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+25/11/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda

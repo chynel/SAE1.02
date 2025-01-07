@@ -1,0 +1,24 @@
+NUMERO_ETUDIANT    22052018527303725
+
+CIVILITE         M.
+NOM              BOURGOIN
+PRENOM           JULIEN
+DATE_NAISSANCE   2007_02_02
+TELEPHONE_FIXE   0253362104
+TELEPHONE_MOBILE 0694565384
+EMAIL            bourgoin.julien7555@free.fr
+
+VOIE             50 IMPASSE DU POTAGER
+CODE_POSTAL      53400
+COMMUNE          DENAZÉ
+
+02/10/2024 - 4 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+18/11/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 1 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+04/11/2024 - 1 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+08/11/2024 - 1 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+02/12/2024 - 4 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+18/11/2024 - 5 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 4 - IndentationError - unexpected indent in block (line 8) - enlever l'indentation inattendue
+08/11/2024 - 3 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+04/11/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with

@@ -1,0 +1,52 @@
+NUMERO_ETUDIANT    18112015462357477
+
+CIVILITE         M.
+NOM              BOUTRON
+PRENOM           ARNAUD
+DATE_NAISSANCE   2007_10_09
+TELEPHONE_FIXE   0130142061
+TELEPHONE_MOBILE 0778351073
+EMAIL            boutron.arnaud@gmail.com
+
+VOIE             30 RUE DES LAVANDIERES
+CODE_POSTAL      95560
+COMMUNE          MONTSOULT
+
+18/11/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/09/2024 - 3 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+02/12/2024 - 1 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a
+12/11/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+02/12/2024 - 1 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/12/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+25/11/2024 - 5 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+14/10/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+08/11/2024 - 5 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 4 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+14/10/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+12/11/2024 - 4 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+08/11/2024 - 3 - SyntaxError - unexpected indent - corriger l'indentation
+25/11/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+04/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+12/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 5 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 2 - SyntaxError - invalid syntax (detected at line 41) - enlever la virgule
+25/09/2024 - 3 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+04/11/2024 - 4 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+4/09/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+14/10/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+08/11/2024 - 1 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+4/09/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+18/11/2024 - 5 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/09/2024 - 2 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 5 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+02/12/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+08/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/09/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+08/11/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split

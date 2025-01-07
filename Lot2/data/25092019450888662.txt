@@ -1,0 +1,53 @@
+NUMERO_ETUDIANT    25092019450888662
+
+CIVILITE         M.
+NOM              GASTON
+PRENOM           NICOLAS
+DATE_NAISSANCE   2005_01_12
+TELEPHONE_FIXE   0489264820
+TELEPHONE_MOBILE 0779554330
+EMAIL            gaston.nicolas@gmail.com
+
+VOIE             76 RUE DU TENNIS
+CODE_POSTAL      06510
+COMMUNE          GATTIÈRES
+
+08/11/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+02/12/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/10/2024 - 3 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+25/09/2024 - 5 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+4/09/2024 - 3 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+14/10/2024 - 3 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+08/11/2024 - 2 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+02/12/2024 - 4 - IndentationError - expected an indented block after 'return' statement on line 12 - ajouter une indentation après return
+18/11/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 2 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+12/11/2024 - 5 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+18/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 4 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+25/09/2024 - 2 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+18/11/2024 - 4 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+18/11/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+18/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+14/10/2024 - 2 - RuntimeError - dictionary changed size during iteration - créer une copie du dictionnaire avant d'itérer
+02/10/2024 - 5 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+4/09/2024 - 3 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+04/11/2024 - 1 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+4/09/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/10/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+25/11/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+02/10/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+14/10/2024 - 1 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+12/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+14/10/2024 - 1 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+25/11/2024 - 1 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+4/09/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+08/11/2024 - 3 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+4/09/2024 - 4 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+08/11/2024 - 5 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/09/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible

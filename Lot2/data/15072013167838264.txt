@@ -1,0 +1,48 @@
+NUMERO_ETUDIANT    15072013167838264
+
+CIVILITE         Mme
+NOM              BAUD
+PRENOM           MALA
+DATE_NAISSANCE   2005_01_18
+TELEPHONE_FIXE   0134474805
+TELEPHONE_MOBILE 0755190167
+EMAIL            baud.mala@live.fr
+
+VOIE             137 ROUTE DE CHERVE
+CODE_POSTAL      78200
+COMMUNE          SOINDRES
+
+25/09/2024 - 5 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+02/12/2024 - 3 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+12/11/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 3 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+18/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+25/11/2024 - 4 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet
+02/10/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+12/11/2024 - 4 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+25/11/2024 - 3 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+02/12/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+18/11/2024 - 2 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+08/11/2024 - 5 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+12/11/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+25/11/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/11/2024 - 1 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+02/12/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+12/11/2024 - 1 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 3 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/12/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+25/11/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/09/2024 - 3 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+4/09/2024 - 5 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+04/11/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/09/2024 - 1 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+25/09/2024 - 3 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+18/11/2024 - 2 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+25/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+18/11/2024 - 1 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+08/11/2024 - 1 - IndexError - list assignment index out of range - c'est un dictionnaire pas une liste, mettre les bons symboles
+18/11/2024 - 4 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+02/10/2024 - 2 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote

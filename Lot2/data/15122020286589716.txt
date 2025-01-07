@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    15122020286589716
+
+CIVILITE         M.
+NOM              SUIRE
+PRENOM           JUSTE
+DATE_NAISSANCE   2005_03_09
+TELEPHONE_FIXE   0164076085
+TELEPHONE_MOBILE 0605501974
+EMAIL            juste.suire5053@free.fr
+
+VOIE             82 CHEMIN DE MAGNET
+CODE_POSTAL      77550
+COMMUNE          RÉAU
+
+4/09/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+4/09/2024 - 4 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/12/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/12/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+08/11/2024 - 3 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+02/10/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 3 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 5 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+14/10/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+18/11/2024 - 1 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+02/10/2024 - 4 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+18/11/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+4/09/2024 - 3 - FileNotFoundError - No such file or directory: 'marchandises.csv' - enlever 's'
+25/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+14/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 4 - IndentationError - expected an indented block after 'for' statement on line 37 - ajouter suite au lieu de u
+02/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 1 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+04/11/2024 - 3 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+4/09/2024 - 5 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 1 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+25/09/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 1 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+08/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+25/11/2024 - 3 - TypeError - 'list' object cannot be interpreted as an integer - il faut donner une valeur à a

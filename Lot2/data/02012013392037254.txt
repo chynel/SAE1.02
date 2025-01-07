@@ -1,0 +1,27 @@
+NUMERO_ETUDIANT    02012013392037254
+
+CIVILITE         M.
+NOM              WELTER
+PRENOM           MICHEL
+DATE_NAISSANCE   2006_12_26
+TELEPHONE_FIXE   0554578605
+TELEPHONE_MOBILE 0628422496
+EMAIL            michel.welter6092@free.fr
+
+VOIE             40 RUELLE DES PRETRES
+CODE_POSTAL      33690
+COMMUNE          LAVAZAN
+
+02/12/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 4 - Invalid argument - can't open file 'Z:\TP3\seance5.py*' - enlever *
+4/09/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+12/11/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+14/10/2024 - 5 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+14/10/2024 - 4 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+02/12/2024 - 5 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+12/11/2024 - 5 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 5 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+18/11/2024 - 3 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+12/11/2024 - 5 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+18/11/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/10/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction

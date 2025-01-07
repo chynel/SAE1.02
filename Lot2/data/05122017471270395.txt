@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    05122017471270395
+
+CIVILITE         M.
+NOM              TOUPIN
+PRENOM           LAURENT
+DATE_NAISSANCE   2006_07_21
+TELEPHONE_FIXE   0582855537
+TELEPHONE_MOBILE 0782989926
+EMAIL            laurent.toupin149@wanadoo.fr
+
+VOIE             78 RUE DU RAMIER
+CODE_POSTAL      12190
+COMMUNE          LE NAYRAC
+
+08/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+25/11/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+14/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'group' - vérifier si une fonction retourne None
+14/10/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+02/12/2024 - 4 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+14/10/2024 - 4 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+4/09/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+25/11/2024 - 3 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+02/10/2024 - 2 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+4/09/2024 - 4 - FileNotFoundError - No such file or directory: 'notes.pdf' - vérifier si le fichier PDF existe ou changer le chemin
+04/11/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+02/10/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 4 - IndentationError - expected an indented block after 'finally' statement on line 28 - ajouter une indentation après finally
+08/11/2024 - 5 - KeyError - 'Worksheet produit does not exist.' - écrire produit
+02/12/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+12/11/2024 - 4 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/11/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+25/11/2024 - 3 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+04/11/2024 - 2 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+25/11/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+4/09/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+25/11/2024 - 1 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+04/11/2024 - 2 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+14/10/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 4 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+12/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+25/11/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+02/10/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+14/10/2024 - 2 - SyntaxError - unexpected indent - corriger l'indentation
+04/11/2024 - 2 - FileNotFoundError - No such file or directory: 'main.py' - vérifier si le script Python est bien présent
+02/12/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+12/11/2024 - 2 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+25/09/2024 - 4 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+18/11/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+25/11/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/12/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+04/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/12/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+08/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit

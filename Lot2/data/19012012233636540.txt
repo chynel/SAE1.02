@@ -1,0 +1,47 @@
+NUMERO_ETUDIANT    19012012233636540
+
+CIVILITE         Mme
+NOM              MOULY
+PRENOM           ELSA
+DATE_NAISSANCE   2007_01_08
+TELEPHONE_FIXE   0223057011
+TELEPHONE_MOBILE 0603926677
+EMAIL            mouly.elsa@wanadoo.fr
+
+VOIE             85 IMPASSE DE BRETAGNE
+CODE_POSTAL      35560
+COMMUNE          RIMOU
+
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+04/11/2024 - 2 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+02/12/2024 - 2 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+14/10/2024 - 3 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+18/11/2024 - 2 - IndentationError - expected an indented block after 'def' statement on line 6 - ajouter un bloc indenté après def
+25/09/2024 - 1 - SyntaxError - unexpected indent - corriger l'indentation
+02/12/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+08/11/2024 - 4 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+08/11/2024 - 1 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+14/10/2024 - 1 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+08/11/2024 - 1 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 1 - FileNotFoundError - No such file or directory: 'logs.txt' - vérifier si le fichier a été supprimé ou déplacé
+25/11/2024 - 3 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin
+04/11/2024 - 3 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+02/12/2024 - 2 - KeyError - dict[cle]=dict1[valeur]+dict2[valeur] - mettre 'valeur1' et 'valeur2' à la place
+02/10/2024 - 4 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 5 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+12/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/12/2024 - 3 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+12/11/2024 - 2 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+02/10/2024 - 5 - SyntaxError - unexpected 'else' without corresponding 'if' - ajouter un bloc if correspondant
+08/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+04/11/2024 - 4 - IndexError - negative index is out of range - utiliser un index négatif valide, par exemple -1 pour le dernier élément
+4/09/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+25/09/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+12/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/09/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+02/12/2024 - 3 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+04/11/2024 - 4 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+12/11/2024 - 5 - Invalid argument - Invalid argument: 'C:/folder/example.doc' - vérifier que le fichier existe à ce chemin

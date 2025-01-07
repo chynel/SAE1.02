@@ -1,0 +1,28 @@
+NUMERO_ETUDIANT    06122012332989254
+
+CIVILITE         M.
+NOM              VINEL
+PRENOM           JULIEN
+DATE_NAISSANCE   2006_10_09
+TELEPHONE_FIXE   0261888926
+TELEPHONE_MOBILE 0628056371
+EMAIL            vinel.julien838@laposte.net
+
+VOIE             81 ROUTE DE NANCY
+CODE_POSTAL      61340
+COMMUNE          COUR-MAUGIS SUR HUISNE
+
+02/12/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+25/09/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+25/09/2024 - 5 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+25/11/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+18/11/2024 - 4 - AttributeError - '_io.TextIOWrapper' object has no attribute 'clos'. Did you mean: 'close'? - mal écrit close, rajouter un 'e' à la fin
+18/11/2024 - 4 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+12/11/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 4 - SyntaxError - unexpected 'await' outside async function - placer 'await' dans une fonction async
+02/12/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+4/09/2024 - 5 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+4/09/2024 - 3 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+14/10/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+4/09/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+4/09/2024 - 4 - TypeError - 'set' object has no attribute 'replace' - enlever les {}

@@ -1,0 +1,39 @@
+NUMERO_ETUDIANT    28052021322765630
+
+CIVILITE         M.
+NOM              AGUERRE
+PRENOM           PAUL
+DATE_NAISSANCE   2006_02_02
+TELEPHONE_FIXE   0285821206
+TELEPHONE_MOBILE 0779081146
+EMAIL            paul.aguerre@wanadoo.fr
+
+VOIE             59 RUE DU VAISSEAU L INTREPIDE
+CODE_POSTAL      53340
+COMMUNE          BANNES
+
+ERRUEUR_RENCONTREE      2024_10_14      4    REF_BAN_46
+ERRUEUR_RENCONTREE      2024_12_02      1    REF_TEN_18
+ERRUEUR_RENCONTREE      2024_11_08      9    REF_FOO_5
+ERRUEUR_RENCONTREE      2024_09_25      6    REF_FOO_92
+ERRUEUR_RENCONTREE      2024_10_09      2    REF_FOO_151
+ERRUEUR_RENCONTREE      2024_10_02      0    REF_VEL_30
+ERRUEUR_RENCONTREE      2024_09_16      2    REF_TEN_30
+ERRUEUR_RENCONTREE      2024_11_12      1    REF_FOO_55
+ERRUEUR_RENCONTREE      2024_11_18      9    REF_RAM_6
+ERRUEUR_RENCONTREE      2021_11_02      3    REF_HAL_12
+ERRUEUR_RENCONTREE      2021_11_05      2    REF_BAN_10
+ERRUEUR_RENCONTREE      2021_11_22      5    REF_FOO_148
+ERRUEUR_RENCONTREE      2021_12_17      0    REF_VEL_17
+08/11/2024 - 2 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+08/11/2024 - 4 - FileNotFoundError - No such file or directory: 'report.xlsx' - créer ou fournir le fichier Excel manquant
+12/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+25/09/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+08/11/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+4/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 2 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+4/09/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+08/11/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print

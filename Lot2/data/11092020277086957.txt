@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    11092020277086957
+
+CIVILITE         M.
+NOM              ROUGE
+PRENOM           FRANC
+DATE_NAISSANCE   2005_12_23
+TELEPHONE_FIXE   0531561851
+TELEPHONE_MOBILE 0672102411
+EMAIL            rouge.franc9360@orange.fr
+
+VOIE             14 RUE COPERNIC
+CODE_POSTAL      12250
+COMMUNE          TOURNEMIRE
+
+04/11/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+4/09/2024 - 3 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+02/10/2024 - 2 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+25/11/2024 - 2 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 3 - SyntaxError - unexpected indent - corriger l'indentation
+12/11/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+08/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 1 - NameError - name 'fuction' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 3 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+12/11/2024 - 3 - Invalid argument - Invalid argument: 'my_file.txt' - vérifier que le chemin du fichier est correct
+02/10/2024 - 5 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+4/09/2024 - 3 - TypeError - 'set' object has no attribute 'replace' - enlever les {}
+25/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 5 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+02/10/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+25/09/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+02/12/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+04/11/2024 - 1 - AttributeError - 'set' object has no attribute 'symetric_difference'. Did you mean: 'symmetric_difference'? - rectifier l'orthographe
+02/12/2024 - 4 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+18/11/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+04/11/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+18/11/2024 - 2 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+04/11/2024 - 2 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+14/10/2024 - 5 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/12/2024 - 4 - SyntaxError - f-string: unterminated string - fermer la chaîne de caractères f-string
+14/10/2024 - 3 - IndexError - index out of range in self - corriger l'indice pour qu'il soit dans les limites de l'objet

@@ -1,0 +1,51 @@
+NUMERO_ETUDIANT    05062012465961961
+
+CIVILITE         M.
+NOM              TROUBAT
+PRENOM           PIERRE
+DATE_NAISSANCE   2007_09_04
+TELEPHONE_FIXE   0255405450
+TELEPHONE_MOBILE 0766250564
+EMAIL            pierre.troubat@live.fr
+
+VOIE             72 AVENUE DE LA REPUBLIQUE
+CODE_POSTAL      49610
+COMMUNE          MÛRS-ERIGNÉ
+
+02/12/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+08/11/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+25/09/2024 - 3 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+12/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+02/12/2024 - 3 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+4/09/2024 - 3 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+18/11/2024 - 3 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+08/11/2024 - 4 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+04/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+12/11/2024 - 4 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+25/09/2024 - 3 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 2 - SyntaxError - unexpected character after line continuation character - vérifier le caractère après '\'
+4/09/2024 - 2 - SyntaxError - unexpected token '=' - vérifier les affectations
+12/11/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+4/09/2024 - 1 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+25/09/2024 - 2 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 1 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+25/11/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+04/11/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 3 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+02/12/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+12/11/2024 - 5 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 2 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+18/11/2024 - 2 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+18/11/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+4/09/2024 - 4 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+4/09/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+4/09/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+18/11/2024 - 4 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 4 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+18/11/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+18/11/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+12/11/2024 - 4 - SyntaxError - too many positional arguments - vérifier les arguments d'une fonction
+02/10/2024 - 2 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+02/12/2024 - 1 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+14/10/2024 - 1 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments

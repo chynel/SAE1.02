@@ -1,0 +1,33 @@
+NUMERO_ETUDIANT    21112010600441975
+
+CIVILITE         Mme
+NOM              ROUAUD
+PRENOM           CHARLOTTE
+DATE_NAISSANCE   2005_09_17
+TELEPHONE_FIXE   0492430856
+TELEPHONE_MOBILE 0770391618
+EMAIL            charlotte.rouaud803@orange.fr
+
+VOIE             103 CHEMIN DE LA CROIX CHARRAUD
+CODE_POSTAL      06620
+COMMUNE          COURMES
+
+02/12/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+4/09/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+08/11/2024 - 5 - IndentationError - expected an indented block after 'class' definition on line 14 - ajouter une indentation après class
+14/10/2024 - 2 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+14/10/2024 - 5 - IndentationError - expected an indented block after 'for' statement on line 42 - ajouter l'indentation
+08/11/2024 - 5 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+25/09/2024 - 1 - TypeError - cannot unpack non-iterable int object for cle, valeur1 in dict1.values() - remplacer 'values' par 'items'
+04/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+08/11/2024 - 3 - SyntaxError - 'return' outside function - placer 'return' à l'intérieur d'une fonction
+25/09/2024 - 1 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+25/09/2024 - 3 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+04/11/2024 - 3 - SyntaxError - unexpected token 'and' - corriger la logique ou la syntaxe avec 'and'
+4/09/2024 - 5 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+25/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 4 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+02/10/2024 - 5 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+4/09/2024 - 5 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+18/11/2024 - 2 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations

@@ -1,0 +1,62 @@
+NUMERO_ETUDIANT    06092015375915390
+
+CIVILITE         M.
+NOM              HEMBERT
+PRENOM           HENRI
+DATE_NAISSANCE   2007_05_21
+TELEPHONE_FIXE   0251837022
+TELEPHONE_MOBILE 0689014488
+EMAIL            hembert.henri2993@laposte.net
+
+VOIE             30 RUE DU CHAT D EAU
+CODE_POSTAL      44310
+COMMUNE          SAINT-COLOMBAN
+
+ERRUEUR_RENCONTREE      2024_11_12      6    REF_TEN_19
+ERRUEUR_RENCONTREE      2024_11_18      1    REF_RAM_57
+ERRUEUR_RENCONTREE      2024_10_09      2    REF_VEL_11
+ERRUEUR_RENCONTREE      2024_09_25      0    REF_HAL_11
+ERRUEUR_RENCONTREE      2024_11_25      1    REF_FOO_54
+ERRUEUR_RENCONTREE      2024_11_08      2    REF_HAL_54
+ERRUEUR_RENCONTREE      2024_10_14      0    REF_HAL_42
+ERRUEUR_RENCONTREE      2024_11_04      0    REF_RAM_44
+ERRUEUR_RENCONTREE      2024_12_02      8    REF_FOO_43
+18/11/2024 - 2 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+08/11/2024 - 4 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 1 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+12/11/2024 - 5 - KeyError - KeyError: 'index' - utiliser une clé valide ou vérifier l'orthographe de 'index'
+02/10/2024 - 2 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+25/11/2024 - 5 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/10/2024 - 4 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+04/11/2024 - 2 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+02/12/2024 - 2 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/10/2024 - 2 - SyntaxError - invalid syntax. Maybe you meant '==' or ':=' instead of '='? - écrire ==
+25/11/2024 - 2 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+02/12/2024 - 3 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+02/10/2024 - 1 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+02/10/2024 - 3 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+04/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+4/09/2024 - 1 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+02/12/2024 - 2 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+18/11/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+04/11/2024 - 4 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+14/10/2024 - 3 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+14/10/2024 - 2 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/12/2024 - 5 - TypeError - 'function' object is not subscriptable - enlever []
+4/09/2024 - 3 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+02/10/2024 - 1 - IndexError - IndexError: cannot fit 'int' into an index - vérifier que l'indice n'est pas un entier trop grand pour le type
+25/09/2024 - 2 - IndexError - list index must be an integer or slice, not str - utiliser un entier au lieu d'une chaîne pour accéder à l'index
+02/12/2024 - 4 - AttributeError - 'tuple' object has no attribute 'sort' - convertir en liste pour pouvoir trier
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 1 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+08/11/2024 - 3 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+02/10/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+25/11/2024 - 1 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+02/12/2024 - 3 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+02/10/2024 - 4 - TypeError - 'float' object cannot be interpreted as an integer - convertir un flottant en entier avant de l'utiliser comme index
+02/10/2024 - 3 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 3 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+12/11/2024 - 4 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+14/10/2024 - 2 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément

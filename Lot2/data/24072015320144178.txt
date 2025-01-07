@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    24072015320144178
+
+CIVILITE         M.
+NOM              SAMAKE
+PRENOM           ROGER
+DATE_NAISSANCE   2007_09_04
+TELEPHONE_FIXE   0258786846
+TELEPHONE_MOBILE 0692445562
+EMAIL            roger.samake@free.fr
+
+VOIE             70 ROUTE DES MARES
+CODE_POSTAL      61430
+COMMUNE          SAINTE-HONORINE-LA-CHARDONNE
+
+12/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+12/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+25/09/2024 - 5 - SyntaxError - multiple statements on one line (semicolon) - séparer les instructions sur plusieurs lignes
+25/11/2024 - 5 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+08/11/2024 - 1 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+4/09/2024 - 5 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 3 - IndentationError - expected an indented block after 'while' statement on line 15 - ajouter l'indentation après while
+18/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+02/12/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+08/11/2024 - 3 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+02/10/2024 - 1 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+25/09/2024 - 5 - RuntimeError - Set changed size during iteration - faire une différence avec lui-même
+4/09/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/10/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+14/10/2024 - 1 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+4/09/2024 - 4 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+18/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+18/11/2024 - 4 - IndentationError - unexpected dedent in function body (line 5) - vérifier les déductions dans le corps de la fonction
+12/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 2 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+4/09/2024 - 5 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/09/2024 - 2 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+18/11/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+25/09/2024 - 1 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+12/11/2024 - 3 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+14/10/2024 - 1 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+12/11/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 1 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 5 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+08/11/2024 - 2 - SyntaxError - unmatched ')' - enlever la parenthèse en trop
+04/11/2024 - 4 - NameError - name 'main' is not defined. Did you mean '__main__'? - corriger en __main__
+08/11/2024 - 1 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop

@@ -1,0 +1,33 @@
+NUMERO_ETUDIANT    24092015529925159
+
+CIVILITE         Mme
+NOM              PERSONNE
+PRENOM           MARINE
+DATE_NAISSANCE   2007_09_28
+TELEPHONE_FIXE   0328059923
+TELEPHONE_MOBILE 0708227630
+EMAIL            marine.personne3033@sfr.fr
+
+VOIE             5 RUE DE LA PRESLE
+CODE_POSTAL      59670
+COMMUNE          WEMAERS-CAPPEL
+
+25/11/2024 - 4 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+02/12/2024 - 2 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+12/11/2024 - 4 - NameError - name 'funcion' is not defined. Did you mean 'function'? - corriger en function
+25/09/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+4/09/2024 - 2 - NameError - name 'apend' is not defined. Did you mean 'append'? - corriger en append
+12/11/2024 - 4 - NameError - name 'confiq' is not defined. Did you mean 'config'? - corriger en config
+04/11/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+12/11/2024 - 5 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+04/11/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+12/11/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+04/11/2024 - 4 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/12/2024 - 2 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+25/11/2024 - 3 - IndexError - list assignment index out of range - c'est un dictionnaire pas une liste, mettre les bons symboles
+4/09/2024 - 2 - TypeError - div10() takes 1 positional argument but 2 were given - ne mettre qu'un seul argument, on en a défini qu'un seul dans la fonction
+04/11/2024 - 3 - IndentationError - inconsistent use of tabs and spaces in indentation - utiliser uniquement des espaces ou des tabulations
+25/09/2024 - 2 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses
+12/11/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+18/11/2024 - 3 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+14/10/2024 - 4 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction

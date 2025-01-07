@@ -1,0 +1,40 @@
+NUMERO_ETUDIANT    08012014446038993
+
+CIVILITE         M.
+NOM              MATTEI
+PRENOM           JACQUES
+DATE_NAISSANCE   2007_01_18
+TELEPHONE_FIXE   0375492758
+TELEPHONE_MOBILE 0657199810
+EMAIL            jacques.mattei4505@orange.fr
+
+VOIE             51 PLACE DE LA LIBERTE
+CODE_POSTAL      80250
+COMMUNE          AILLY-SUR-NOYE
+
+18/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+12/11/2024 - 2 - TypeError - 'int' object has no attribute 'append' - utiliser une liste à la place d'un entier pour ajouter des éléments
+4/09/2024 - 1 - SyntaxError - unexpected EOF while parsing string literal - vérifier les chaînes de caractères non terminées
+02/12/2024 - 2 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+18/11/2024 - 3 - IndentationError - unindent does not match any outer indentation level - rectifier les indentations
+02/12/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+25/09/2024 - 2 - IndentationError - expected an indented block after 'except' statement on line 22 - ajouter l'indentation après except
+4/09/2024 - 5 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+25/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 5 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+4/09/2024 - 2 - SyntaxError - unexpected non-keyword after *args - vérifier la position des *args dans les arguments
+14/10/2024 - 2 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+02/10/2024 - 4 - IndentationError - unexpected unindent in 'with' statement block - corriger l'indentation dans le bloc with
+14/10/2024 - 1 - NameError - name 'n' is not defined - changer la valeur
+4/09/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+14/10/2024 - 2 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+08/11/2024 - 3 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+4/09/2024 - 5 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+4/09/2024 - 3 - FileNotFoundError - No such file or directory: 'output.txt' - vérifier si le programme a généré le fichier
+02/10/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+25/09/2024 - 5 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+25/11/2024 - 3 - SyntaxError - positional argument follows keyword argument - réorganiser les arguments dans l'appel de fonction
+08/11/2024 - 2 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+12/11/2024 - 4 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+18/11/2024 - 5 - SyntaxError - unexpected EOF while parsing - vérifier la fermeture des blocs ou parenthèses

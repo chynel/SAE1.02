@@ -1,0 +1,41 @@
+NUMERO_ETUDIANT    19082010592512102
+
+CIVILITE         Mme
+NOM              GRILLON
+PRENOM           GILBERTE
+DATE_NAISSANCE   2006_05_01
+TELEPHONE_FIXE   0587988111
+TELEPHONE_MOBILE 0797480155
+EMAIL            gilberte.grillon9786@sfr.fr
+
+VOIE             65 RUE CHARLES BAUDELAIRE
+CODE_POSTAL      87360
+COMMUNE          LUSSAC-LES-ÉGLISES
+
+12/11/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+02/12/2024 - 1 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+14/10/2024 - 5 - TypeError - 'builtin_function_or_method' object is not subscriptable - enlever le 'len' lorsqu'on déclare la variable a
+14/10/2024 - 3 - NameError - name 'lengh' is not defined. Did you mean 'length'? - corriger en length
+08/11/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+4/09/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+14/10/2024 - 2 - Invalid argument - Invalid argument: NoneType - vérifier que l'argument n'est pas None
+12/11/2024 - 1 - IndentationError - unexpected indent at end of file - enlever l'indentation à la fin du fichier
+02/10/2024 - 5 - TypeError - 'int' object is not iterable - vérifier si une boucle tente d'itérer sur un entier
+02/12/2024 - 2 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+4/09/2024 - 1 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+12/11/2024 - 4 - TypeError - 'function' object is not subscriptable - enlever []
+25/09/2024 - 1 - IndexError - IndexError: too many indices for array - réduire le nombre d'indices pour correspondre à la dimension du tableau
+02/12/2024 - 5 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+18/11/2024 - 2 - FileNotFoundError - No such file or directory: 'data.csv' - créer le fichier
+02/10/2024 - 1 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit
+4/09/2024 - 3 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+02/12/2024 - 2 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+02/12/2024 - 3 - NameError - name 'filtre' is not defined. Did you mean 'filter'? - corriger en filter
+18/11/2024 - 3 - AttributeError - 'set' object has no attribute 'intersections'. Did you mean: 'intersection'? - retirer le 's' de intersections
+02/10/2024 - 2 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+18/11/2024 - 3 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+25/09/2024 - 3 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 1 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+4/09/2024 - 1 - SyntaxError - unexpected ':' in lambda - corriger la syntaxe de la fonction lambda
+25/09/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+4/09/2024 - 5 - IndexError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str

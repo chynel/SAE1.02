@@ -1,0 +1,44 @@
+NUMERO_ETUDIANT    02122014463799277
+
+CIVILITE         M.
+NOM              BRUYANT
+PRENOM           PIERRE
+DATE_NAISSANCE   2005_05_25
+TELEPHONE_FIXE   0352151537
+TELEPHONE_MOBILE 0743697190
+EMAIL            pierre.bruyant2255@laposte.net
+
+VOIE             33 CHEMIN DU FANOUILLET
+CODE_POSTAL      52220
+COMMUNE          LA PORTE DU DER
+
+02/10/2024 - 5 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 3 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/09/2024 - 2 - NameError - name 'liste3' is not defined. Did you mean: 'liste1'? - écrire liste1
+18/11/2024 - 1 - AttributeError - 'str' object has no attribute 'replace'. Did you mean: 'replace'? - vérifier l'orthographe de replace
+4/09/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+18/11/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+02/10/2024 - 3 - IndentationError - unexpected unindent (line 12) - vérifier les indentations
+04/11/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+02/10/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+12/11/2024 - 5 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+25/11/2024 - 1 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+18/11/2024 - 2 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+08/11/2024 - 4 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+02/12/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+18/11/2024 - 1 - NameError - name 'enviroment' is not defined. Did you mean 'environment'? - corriger en environment
+4/09/2024 - 2 - IndentationError - expected an indented block after 'try' statement on line 18 - ajouter l'indentation après try
+25/09/2024 - 2 - NameError - name 'indet' is not defined. Did you mean 'indent'? - corriger en indent
+18/11/2024 - 4 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+02/10/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+04/11/2024 - 3 - IndentationError - expected an indented block after 'async' statement on line 9 - ajouter une indentation après async
+4/09/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
+02/12/2024 - 5 - TypeError - unsupported operand type(s) for *: 'dict' and 'dict' - enlever '*dict1'
+08/11/2024 - 5 - IndentationError - expected an indented block after 'else' statement on line 25 - ajouter l'indentation après else
+08/11/2024 - 4 - NameError - name 'true' is not defined. Did you mean 'True'? - écrire True
+02/12/2024 - 5 - SyntaxError - invalid syntax for set literal - vérifier la syntaxe des ensembles
+4/09/2024 - 1 - SyntaxError - expected ':' - ajouter :
+08/11/2024 - 2 - NameError - name 'n' is not defined - changer la valeur
+12/11/2024 - 4 - NameError - name 'x' is not defined - écrire des valeurs pour x, y, z
+4/09/2024 - 4 - NameError - name 'calculater' is not defined. Did you mean 'calculator'? - corriger en calculator
+25/11/2024 - 1 - TypeError - 'function' object is not subscriptable - enlever []

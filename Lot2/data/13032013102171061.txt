@@ -1,0 +1,26 @@
+NUMERO_ETUDIANT    13032013102171061
+
+CIVILITE         Mme
+NOM              UCAR
+PRENOM           AH
+DATE_NAISSANCE   2007_12_18
+TELEPHONE_FIXE   0345905998
+TELEPHONE_MOBILE 0735750467
+EMAIL            ah.ucar5548@orange.fr
+
+VOIE             132 RUE CAMBACERES
+CODE_POSTAL      71960
+COMMUNE          MILLY-LAMARTINE
+
+4/09/2024 - 4 - AttributeError - 'dict' object has no attribute 'popitem'. Did you mean: 'pop'? - vérifier la méthode utilisée sur le dictionnaire
+25/09/2024 - 1 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+18/11/2024 - 5 - TypeError - 'module' object is not callable - vérifier si une fonction est correctement importée et appelée
+02/10/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+08/11/2024 - 2 - IndentationError - expected an indented block after function definition on line 28 - respecter les indentations
+25/11/2024 - 5 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+14/10/2024 - 2 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 2 - SyntaxError - invalid syntax wb.save ('nouveau_fichier.xlsx')s - enlever le 's'
+02/10/2024 - 3 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+4/09/2024 - 4 - TypeError - object of type 'int' has no len() - dans print il y a un int et str - convertir int en str
+25/11/2024 - 3 - SyntaxError - cannot use starred expression here - éviter les expressions avec '*' à cet endroit

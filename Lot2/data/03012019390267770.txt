@@ -1,0 +1,54 @@
+NUMERO_ETUDIANT    03012019390267770
+
+CIVILITE         Mme
+NOM              LUQUE
+PRENOM           BLANCHE
+DATE_NAISSANCE   2007_09_11
+TELEPHONE_FIXE   0372851129
+TELEPHONE_MOBILE 0749638310
+EMAIL            blanche.luque9994@free.fr
+
+VOIE             139 ROUTE DE COIGNIERES
+CODE_POSTAL      88500
+COMMUNE          MÉNIL-EN-XAINTOIS
+
+25/09/2024 - 4 - TypeError - 'str' object cannot be interpreted as an integer - convertir la chaîne de caractères en entier avant d'utiliser
+25/11/2024 - 2 - SyntaxError - unexpected token 'or' - corriger la logique ou la syntaxe avec 'or'
+04/11/2024 - 4 - TypeError - 'dict' object is not callable - vérifier si un dictionnaire est utilisé comme une fonction
+04/11/2024 - 4 - SyntaxError - unexpected token '=' - vérifier les affectations
+25/11/2024 - 2 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+25/09/2024 - 3 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+02/12/2024 - 5 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+04/11/2024 - 4 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+14/10/2024 - 3 - SyntaxError - missing 'as' in 'with' statement - ajouter 'as' dans le bloc with
+08/11/2024 - 4 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+4/09/2024 - 4 - SyntaxError - unterminated string literal (detected at line 142) - fermer la parenthèse
+04/11/2024 - 5 - TypeError - 'resumer' is an invalid keyword argument for print() - définir r
+04/11/2024 - 3 - TypeError - unsupported operand type(s) for /: 'str' and 'int' - convertir la chaîne en entier ou flottant avant de diviser
+25/11/2024 - 4 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+18/11/2024 - 4 - NameError - name 'n' is not defined - changer la valeur
+04/11/2024 - 5 - SyntaxError - unterminated triple-quoted string literal - fermer la chaîne de caractères triple-quote
+18/11/2024 - 4 - IndentationError - unexpected indent (line 32) - enlever l'indentation
+04/11/2024 - 5 - IndexError - index 0 is out of bounds for axis 0 with size 0 - vérifier que la structure n'est pas vide avant d'accéder à un élément
+02/12/2024 - 5 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/09/2024 - 2 - SyntaxError - expression cannot contain assignment - éviter d'utiliser '=' dans une expression
+12/11/2024 - 2 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+02/12/2024 - 2 - TypeError - unsupported operand type(s) for -: 'str' and 'int' - convertir la chaîne en entier avant de soustraire
+02/10/2024 - 2 - SyntaxError - cannot assign to expression here. Maybe you meant '==' instead of '='? - écrire == au lieu de =
+25/11/2024 - 1 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+08/11/2024 - 2 - SyntaxError - invalid syntax in generator expression - vérifier la syntaxe des générateurs
+4/09/2024 - 3 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+18/11/2024 - 4 - SyntaxError - unexpected 'except' without 'try' - ajouter un bloc try correspondant
+14/10/2024 - 3 - NameError - name 'iteraror' is not defined. Did you mean 'iterator'? - corriger en iterator
+04/11/2024 - 4 - KeyError - KeyError: '2023' - vérifier si l'année est bien une clé dans le dictionnaire
+25/09/2024 - 2 - NameError - name 'parametre' is not defined. Did you mean 'parameter'? - corriger en parameter
+14/10/2024 - 5 - SyntaxError - invalid syntax. Perhaps you forgot a comma? - mettre une virgule
+18/11/2024 - 1 - NameError - name 'recieve' is not defined. Did you mean 'receive'? - corriger en receive
+12/11/2024 - 1 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+25/09/2024 - 3 - SyntaxError - invalid character in identifier - vérifier les caractères non valides dans les noms de variables
+18/11/2024 - 5 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+14/10/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+12/11/2024 - 4 - IndentationError - unexpected unindent in match statement - corriger l'indentation dans le bloc match
+25/09/2024 - 2 - SyntaxError - expected '}' in dictionary literal - fermer les accolades dans le dictionnaire
+08/11/2024 - 1 - NameError - name 'prnt' is not defined. Did you mean: 'print'? - écrire print
+04/11/2024 - 5 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet

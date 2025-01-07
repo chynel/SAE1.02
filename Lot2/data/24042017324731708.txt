@@ -1,0 +1,46 @@
+NUMERO_ETUDIANT    24042017324731708
+
+CIVILITE         Mme
+NOM              DELOR
+PRENOM           VIENNE
+DATE_NAISSANCE   2006_06_21
+TELEPHONE_FIXE   0386150085
+TELEPHONE_MOBILE 0742763631
+EMAIL            vienne.delor@live.fr
+
+VOIE             132 PLACE DE L EGLISE
+CODE_POSTAL      89660
+COMMUNE          ASNIÈRES-SOUS-BOIS
+
+18/11/2024 - 4 - SyntaxError - 'continue' not properly in loop - placer 'continue' à l'intérieur d'une boucle
+02/10/2024 - 3 - SyntaxError - can't assign to literal - éviter d'assigner des valeurs à des littéraux
+02/12/2024 - 3 - SyntaxError - keyword can't be an expression - éviter l'utilisation de mots-clés réservés comme expressions
+04/11/2024 - 2 - AttributeError - 'str' object has no attribute 'keys' - convertir en dictionnaire ou vérifier l'objet
+02/12/2024 - 4 - NameError - name 'prient' is not defined. Did you mean: 'print'? - écrire print
+18/11/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+02/10/2024 - 4 - AttributeError - 'NoneType' object has no attribute 'items' - changer le nom
+18/11/2024 - 4 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+14/10/2024 - 5 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+18/11/2024 - 5 - NameError - name 'dictionnary' is not defined. Did you mean 'dictionary'? - corriger en dictionary
+04/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+04/11/2024 - 3 - IndexError - array index out of range - assurez-vous que l'indice est dans les limites du tableau
+25/09/2024 - 3 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+4/09/2024 - 4 - SyntaxError - expected ':' - ajouter :
+02/10/2024 - 1 - IndexError - deque index out of range - vérifier la longueur de la deque avant d'accéder à un élément
+18/11/2024 - 1 - TypeError - unsupported operand type(s) for +: 'set' and 'set' - remplacer + par union
+25/11/2024 - 2 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+12/11/2024 - 1 - TypeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+14/10/2024 - 2 - TypeError - 'tuple' object does not support item assignment - remplacer le tuple par une liste pour pouvoir modifier les éléments
+4/09/2024 - 2 - NameError - name 'conteneur' is not defined - vérifier si 'conteneur' est défini
+12/11/2024 - 4 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+18/11/2024 - 1 - AttributeError - 'float' object has no attribute 'is_integer' - utiliser uniquement avec des objets float compatibles
+12/11/2024 - 4 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/11/2024 - 2 - KeyError - KeyError: 'id' - s'assurer que la clé 'id' est définie dans le dictionnaire avant d'y accéder
+04/11/2024 - 5 - NameError - name 'looping' is not defined. Did you mean 'loop'? - corriger en loop
+02/12/2024 - 2 - FileNotFoundError - No such file or directory: 'backup.sql' - vérifier le chemin d'accès ou restaurer une sauvegarde
+18/11/2024 - 3 - SyntaxError - 'break' outside loop - placer 'break' à l'intérieur d'une boucle
+08/11/2024 - 1 - TypeError - 'type' object is not subscriptable - vérifier si on tente d'accéder à un type générique de manière incorrecte
+04/11/2024 - 3 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+14/10/2024 - 2 - RuntimeError - generator raised StopIteration - utiliser 'return' au lieu de 'raise StopIteration' dans un générateur
+08/11/2024 - 4 - NameError - name 'exite' is not defined. Did you mean 'exit'? - corriger en exit
+02/10/2024 - 4 - NameError - name 'n' is not defined - changer la valeur

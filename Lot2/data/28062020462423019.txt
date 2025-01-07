@@ -1,0 +1,36 @@
+NUMERO_ETUDIANT    28062020462423019
+
+CIVILITE         M.
+NOM              DUPRIEZ
+PRENOM           PIERRE
+DATE_NAISSANCE   2005_10_28
+TELEPHONE_FIXE   0323894802
+TELEPHONE_MOBILE 0794055310
+EMAIL            pierre.dupriez@gmail.com
+
+VOIE             94 RUE DES FONDEURS
+CODE_POSTAL      02360
+COMMUNE          BRUNEHAMEL
+
+14/10/2024 - 4 - TypeError - div10() missing 1 required positional argument: 'x' - écrire une valeur à l'intérieur des parenthèses
+02/12/2024 - 1 - IndentationError - expected an indented block after 'elif' statement on line 20 - ajouter l'indentation après elif
+18/11/2024 - 4 - NameError - name 'varible' is not defined. Did you mean 'variable'? - corriger en variable
+08/11/2024 - 5 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+18/11/2024 - 1 - SyntaxError - unterminated string literal (detected at line 1) - fermer parenthèse
+25/11/2024 - 5 - SyntaxError - unexpected token 'pass' - placer 'pass' dans un bloc valide
+25/09/2024 - 2 - AttributeError - 'dict' object has no attribute 'append' - utiliser une liste ou vérifier les méthodes du dictionnaire
+18/11/2024 - 1 - SyntaxError - missing parentheses in call to 'print' - ajouter des parenthèses à la fonction print
+18/11/2024 - 1 - ZeroDivisionError - integer division or modulo by zero - la division par zéro est impossible
+25/11/2024 - 3 - NameError - name 'flase' is not defined. Did you mean 'False'? - écrire False
+18/11/2024 - 1 - KeyError - KeyError: (1, 2) - vérifier si le tuple (1, 2) est présent comme clé dans le dictionnaire
+08/11/2024 - 3 - SyntaxError - unexpected indent - corriger l'indentation
+18/11/2024 - 3 - TypeError - 'NoneType' object is not callable - vérifier si une fonction ou méthode est remplacée par None
+14/10/2024 - 5 - SyntaxError - unexpected 'finally' without 'try' - ajouter un bloc try correspondant
+18/11/2024 - 4 - TupeError - 'builtin_function_or_method' object is not iterable for valeur in dict2.values - mettre les parenthèses
+4/09/2024 - 1 - IndentationError - expected an indented block after 'case' statement on line 19 - ajouter un bloc indenté après case
+02/12/2024 - 5 - SyntaxError - unexpected token 'elif' - vérifier la structure if/else
+02/10/2024 - 5 - RuntimeError - maximum recursion depth exceeded in comparison - augmenter la profondeur maximale ou vérifier la récursivité infinie
+25/11/2024 - 4 - NameError - name 's1' is not defined. Did you mean: 's'? - écrire s
+25/11/2024 - 4 - AttributeError - 'list' object has no attribute 'add'. Did you mean: 'append'? - remplacer add par append pour les listes
+12/11/2024 - 1 - SyntaxError - unexpected token ',' - enlever ou corriger la virgule
+25/09/2024 - 2 - AttributeError - 'int' object has no attribute 'split' - vérifier l'objet avant d'utiliser split
