@@ -14,6 +14,24 @@ import os
 from openpyxl import Workbook
 from collections import Counter
 
+
+
+# Fonction pour extraire la partie après un mot-clé donné
+#Inspirer de l'autre projet en programmation
+def extraire_valeur_apres_mot_cle(ligne, mot_cle):
+    # Trouvercle mot-clé se termine ici par exemple NOM
+    debut = ligne.find(mot_cle) + len(mot_cle)
+    # Ignorer les espaces ou tabulations après le mot-clé
+    while debut < len(ligne) and ligne[debut] in " \t":
+        debut += 1
+    # Extraire la partie restante
+    valeur = ""
+    while debut < len(ligne) and ligne[debut] not in "\n":
+        valeur += ligne[debut]
+        debut += 1
+    return valeur
+
+
 # Définition du dossier contenant les fichiers texte
 directory = 'data'  # Chemin relatif vers le répertoire de données
 output_xlsx = 'Infos_Etudiants1.xlsx'  # Nom du fichier de sortie
@@ -47,29 +65,15 @@ for filename in os.listdir(directory):
             for ligne in lignes:
                 # Extraction des informations de l'étudiant
                 if ligne.startswith("NOM"):
-                    """Le formatage dans le fichier .txt étant comme suit: 
-                        NOM              CHARREAU
-                        PRENOM           BRAS
-                        EMAIL            bras.charreau@orangefr
-                        On utilise maxsplit = 1 pour séparer dès le premier espace
-                        rencontré.
-                        Exemple: ligne = "NOM CHARREAU"
-                                 result = ligne.split(maxsplit=1)
-                                 print(result)  # ['NOM', 'CHARREAU']
-
-                                 ligne = "NOM              CHARREAU MARIE"
-                                 result = ligne.split(maxsplit=1)
-                                 print(result)  # ['NOM', 'CHARREAU MARIE']
-                    """
-                    nom = ligne.split(maxsplit=1)[1].strip()
+                    nom = extraire_valeur_apres_mot_cle(ligne, "NOM")
                 elif ligne.startswith("PRENOM"):
-                    prenom = ligne.split(maxsplit=1)[1].strip()
+                    prenom = extraire_valeur_apres_mot_cle(ligne, "PRENOM")
                 elif ligne.startswith("EMAIL"):
-                    email = ligne.split(maxsplit=1)[1].strip()
+                    email = extraire_valeur_apres_mot_cle(ligne, "EMAIL")
 
                 # Extraction des erreurs
                 if "SyntaxError" in ligne or "TypeError" in ligne or "NameError" in ligne or "IndentationError" in ligne:
-                    erreurs[ligne.strip()] += 1
+                    erreurs[ligne] += 1
 
             # Si toutes les informations sont trouvées, les écrire dans la feuille Excel des étudiants
             if nom and prenom and email:

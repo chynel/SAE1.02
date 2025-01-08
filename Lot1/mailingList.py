@@ -14,12 +14,27 @@ import os
 import csv
 
 
+# Fonction pour extraire la partie après un mot-clé donné
+#Inspirer de l'autre projet en programmation
+def extraire_valeur_apres_mot_cle(ligne, mot_cle):
+    # Trouvercle mot-clé se termine ici par exemple NOM
+    debut = ligne.find(mot_cle) + len(mot_cle)
+    # Ignorer les espaces ou tabulations après le mot-clé
+    while debut < len(ligne) and ligne[debut] in " \t":
+        debut += 1
+    # Extraire la partie restante
+    valeur = ""
+    while debut < len(ligne) and ligne[debut] not in "\n":
+        valeur += ligne[debut]
+        debut += 1
+    return valeur
+
 # Définir le dossier contenant les fichiers texte
 directory = 'data' #chemin relatif vers le repertoire de données
 output_csv = 'mailingList.csv' #Nom du fichier de sorti
 
 # Préparer les en-têtes du fichier CSV
-entete = ['ETUDIANTS EMAIL']
+entete = ['NOM', 'PRENOM', 'MAIL_ETUDIANTS']
 
 # Ouvrir le fichier CSV en mode écriture
 with open(output_csv, mode='w', encoding='utf-8', newline='') as fichier:
@@ -35,30 +50,20 @@ with open(output_csv, mode='w', encoding='utf-8', newline='') as fichier:
                 lignes = fichier.readlines()
                 
                 # Variables pour stocker les informations
-                numero_etudiant = nom = prenom = email = None
+                nom = prenom = email = None
 
                 # Parcourir les lignes pour trouver les champs nécessaires
                 for ligne in lignes:
-                    """Le formatage dans le fichier .txt étant comme suit: 
-                        NOM              CHARREAU
-                        PRENOM           BRAS
-                        EMAIL            bras.charreau@orangefr
-                        On utilise maxsplit = 1 pour séparer dès le premier espace
-                        rencontré.
-                        Exemple: ligne = "NOM CHARREAU"
-                                 result = ligne.split(maxsplit=1)
-                                 print(result)  # ['NOM', 'CHARREAU']
-
-                                 ligne = "NOM              CHARREAU MARIE"
-                                 result = ligne.split(maxsplit=1)
-                                 print(result)  # ['NOM', 'CHARREAU MARIE']
-                    """
-                    if ligne.startswith("EMAIL"):
-                        email = ligne.split(maxsplit=1)[1].strip()
+                    if ligne.startswith("NOM"):
+                        nom = extraire_valeur_apres_mot_cle(ligne, "NOM")
+                    elif ligne.startswith("PRENOM"):
+                        prenom = extraire_valeur_apres_mot_cle(ligne, "PRENOM")
+                    elif ligne.startswith("EMAIL"):
+                        email = extraire_valeur_apres_mot_cle(ligne, "EMAIL")
 
                 # Si toutes les informations sont trouvées, les écrire dans le fichier CSV
-                if email:
-                    ecrire.writerow([email])
+                if nom and prenom and email:
+                    ecrire.writerow([nom, prenom, email])
                 
 
 print(f"Extraction terminée. Les données ont été écrites dans {output_csv}.")
