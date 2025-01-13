@@ -20,7 +20,7 @@ from collections import Counter  # Fournit un moyen de compter les occurrences d
 # Fonction pour extraire la partie après un mot-clé donné
 #Inspirer de l'autre projet en programmation
 def extraire_valeur_apres_mot_cle(ligne, mot_cle):
-    # Trouvercle mot-clé se termine ici par exemple NOM
+    # Trouver le mot-clé qui se termine ici par exemple par NOM
     debut = ligne.find(mot_cle) + len(mot_cle)
     # Ignorer les espaces ou tabulations après le mot-clé
     while debut < len(ligne) and ligne[debut] in " \t":
@@ -33,11 +33,11 @@ def extraire_valeur_apres_mot_cle(ligne, mot_cle):
     return valeur
 
 
-# Définition du dossier contenant les fichiers texte
+# Définition du chemin du dossier contenant les fichiers textes
 directory = 'data'  # Chemin relatif vers le répertoire de données
 output_xlsx = 'Infos_Etudiants1.xlsx'  # Nom du fichier de sortie
 
-# Créeation d'un nouveau classeur Excel
+# Créaation d'un nouveau classeur Excel
 workbook = Workbook()
 
 # Ajout de la feuille des étudiants

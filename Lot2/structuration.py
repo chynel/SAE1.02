@@ -4,24 +4,24 @@ from openpyxl import load_workbook, Workbook
 input_file = "Infos_Etudiants.xlsx"  # Le fichier source doit être dans le même répertoire que le script
 output_file = "Erreurs_Separees.xlsx"  # Le fichier de sortie sera généré dans le même répertoire
 
-# Charger le classeur Excel
+# Chargement du classeur Excel
 workbook_source = load_workbook(input_file)
 feuille_source = workbook_source.active
 
-# Créer un nouveau classeur Excel pour le résultat
+# Création d'un nouveau classeur Excel pour les résultats
 workbook_result = Workbook()
 feuille_resultat = workbook_result.active
 feuille_resultat.title = "Erreurs"
 
-# En-têtes pour le fichier de sortie (ajout de id_type_erreur)
-entetes = ['DATE', 'NUMERO', 'TYPE', 'SPECIFICITE', 'REPONSE', 'id_type_erreur']
+# En-têtes pour le fichier de sortie (avec ajout de id_type_erreur)
+entetes = ['DATE', 'NOMBRE_TENTATIVE', 'TYPE', 'SPECIFICITE', 'REPONSE', 'id_type_erreur']
 feuille_resultat.append(entetes)
 
 # Fonction pour nettoyer les champs
 def nettoyer_champ(champ):
     if champ.startswith("="):  # Si le champ ressemble à une formule
         return "'" + champ  # Ajouter une apostrophe pour forcer Excel à le traiter comme texte
-    return champ[:1000]  # Tronquer si la longueur dépasse 32 767 caractères
+    return champ[:1000]  # Tronquer si la longueur dépasse 32 767 caractères. Dans notre cas, ça ne depassera jamais
 
 # Fonction pour supprimer les espaces
 def supprime_espace(chaine):
@@ -78,7 +78,7 @@ for row in feuille_source.iter_rows(min_row=2, values_only=True):  # Ignorer les
                 champs = extraire_champs(partie)
                 if len(champs) >= 5:
                     # Ajouter les champs avec id_type_erreur
-                    type_erreur = champs[2]  # TYPE est dans la troisième position
+                    type_erreur = champs[2]  # TYPE est en troisième position dans le fichier excel
                     id_type_erreur = obtenir_id_type_erreur(type_erreur)
                     ligne_resultat = [nettoyer_champ(champ) for champ in champs[:5]] + [id_type_erreur]
                     feuille_resultat.append(ligne_resultat)

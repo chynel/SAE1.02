@@ -5,6 +5,7 @@ Cette licence énonce aux usagers, les règles d'utilisation,
 de modification et de distribution du présent logiciel et de ses fichiers associés.
 
 Règles d'utilisation
+
 1. Conservation des fichiers essentiels :
 Il est strictement interdit de supprimer le dossier nommé Data,
 sous peine de rendre le logiciel inutilisable.
@@ -13,11 +14,13 @@ doit être conservé impérativement.
 Le fichier "Infos_Etudiants.xlsx" dans le repertoire Lot1 ne doit pas être supprimer parce qu'il
 contient des graphiques qui ont été fait manuellement. Toute suppression ou modification
 non autorisée de ce fichier pourrait entraîner des dysfonctionnements graves.
+
 2.	Modification des noms de variables :
 Les noms des variables du logiciel ne doivent être modifiés que si
 l'utilisateur comprend parfaitement leur rôle et leur impact sur le
 fonctionnement global. Toute modification non maîtrisée peut
 causer des erreurs imprévisibles.
+
 3.	Conservation des bibliothèques :
 Les bibliothèques incluses avec le logiciel sont nécessaires à son bon fonctionnement.
 Toute suppression ou altération de ces bibliothèques est interdite.
