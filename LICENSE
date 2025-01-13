@@ -8,7 +8,7 @@ Règles d'utilisation
 1. Conservation des fichiers essentiels :
 Il est strictement interdit de supprimer le dossier nommé Data,
 sous peine de rendre le logiciel inutilisable.
-Le fichier Infos_Etudiants.xlsx, situé dans le répertoire LOT2,
+Les fichier "Infos_Etudiants.xlsx" et "Erreurs_Separees.xlsx", situé dans le répertoire LOT2,
 doit être conservé impérativement. Toute suppression ou modification
 non autorisée de ce fichier pourrait entraîner des dysfonctionnements graves.
 2.	Modification des noms de variables :
