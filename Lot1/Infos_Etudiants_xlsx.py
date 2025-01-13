@@ -11,8 +11,9 @@ import os
 # de fournir des informations sur le système d'exploitation processus, 
 # variables systèmes, ainsi que de nombreuses fonctionnalités du systèmes.
 
-from openpyxl import Workbook
-from collections import Counter
+from openpyxl import Workbook  # Permet de manipuler les fichiers Excel
+from collections import Counter  # Fournit un moyen de compter les occurrences d'éléments dans un iterable
+
 
 
 
@@ -44,7 +45,7 @@ feuille_etudiants = workbook.active
 feuille_etudiants.title = "Etudiants"
 
 # Préparation des en-têtes pour la feuille Excel des étudiants
-entete = ['NOM', 'PRENOM', 'EMAIL']
+entete = ['NOM', 'PRENOM', 'EMAIL'] # Définition des colonnes de la feuille Excel
 # Écriture des en-têtes dans la première ligne
 feuille_etudiants.append(entete)
 

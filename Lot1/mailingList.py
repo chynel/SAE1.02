@@ -11,7 +11,7 @@ import os
 # de fournir des informations sur le système d'exploitation processus, 
 # variables systèmes, ainsi que de nombreuses fonctionnalités du systèmes.
 
-import csv
+import csv # Le module csv permet de lire et écrire dans des fichiers CSV (Comma-Separated Values).
 
 
 # Fonction pour extraire la partie après un mot-clé donné
