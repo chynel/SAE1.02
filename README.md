@@ -1,6 +1,6 @@
-﻿                     #SAÉ 1.02 - Écriture et lecture de fichiers de données
+﻿                                                           SAÉ 1.02 - Écriture et lecture de fichiers de données
                
-                                         README
+                                                                              README
 1-
 A- Titre : Traitement et Analyse des Données Étudiantes
 B- Description :
