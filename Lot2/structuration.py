@@ -6,33 +6,33 @@ output_file = "Erreurs_Separees.xlsx"  # Le fichier de sortie sera généré dan
 
 # Charger le classeur Excel
 workbook_source = load_workbook(input_file)
-sheet_source = workbook_source.active
+feuille_source = workbook_source.active
 
 # Créer un nouveau classeur Excel pour le résultat
 workbook_result = Workbook()
-sheet_resultat = workbook_result.active
-sheet_resultat.title = "Erreurs"
+feuille_resultat = workbook_result.active
+feuille_resultat.title = "Erreurs"
 
 # En-têtes pour le fichier de sortie
 entetes = ['DATE', 'NUMERO', 'TYPE', 'SPECIFICITE', 'REPONSE']
-sheet_resultat.append(entetes)
+feuille_resultat.append(entetes)
 
 # Fonction pour séparer les données d'une ligne
 def extraire_champs(ligne):
     champs = [part.strip() for part in ligne.split(' - ')]  # Divise la ligne à chaque " - " et nettoie les espaces
     return champs
 
-# Compteur pour suivre les lignes traitées et ignorées
+# Compteur pour suivre les lignes traitées et ignorées après constat de la réduction des occurences
 lignes_traitees = 0
 lignes_ignorees = 0
 
 # Parcourir les lignes du fichier source
-for row in sheet_source.iter_rows(min_row=2, values_only=True):  # Ignorer les en-têtes
+for row in feuille_source.iter_rows(min_row=2, values_only=True):  # Ignorer les en-têtes
     for partie in row:
         if partie and isinstance(partie, str) and "-" in partie:
             champs = extraire_champs(partie)
             if len(champs) >= 5:
-                sheet_resultat.append(champs[:5])  # Ajouter les 5 champs extraits à la feuille
+                feuille_resultat.append(champs[:5])  # Ajouter les 5 champs extraits à la feuille
                 lignes_traitees += 1
             else:
                 lignes_ignorees += 1  # Lignes ignorées si elles ont moins de 5 champs
