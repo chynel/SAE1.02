@@ -1,4 +1,4 @@
-Ferme le fichier .xlsx avant de regénérer.
+1- Ferme le fichier .xlsx avant de regénérer.
 
 Traceback (most recent call last):
   File "C:\Users\Admin\Downloads\donnees\SAE1.02\Lot2\structuration.py", line 45, in <module>
@@ -13,3 +13,6 @@ Traceback (most recent call last):
     self.fp = io.open(file, filemode)
               ~~~~~~~^^^^^^^^^^^^^^^^
 PermissionError: [Errno 13] Permission denied: 'Erreurs_Separees.xlsx'
+
+
+2- 
